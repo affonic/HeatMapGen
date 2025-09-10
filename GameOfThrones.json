@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "tt1480055",
+    "title": "Winter Is Coming",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDU5ZGEzODYtYWVlNC00NjYyLWJjOWYtYmNhZTc2MzUwYTliXkEyXkFqcGc@._V1_.jpg",
+      "width": 1276,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3720,
+    "plot": "Lord Eddard Stark is concerned by news of a deserter from the Night's Watch; King Robert I Baratheon and the Lannisters arrive at Winterfell; the exiled Prince Viserys Targaryen forges a powerful new alliance.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 62719
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1668746",
+    "title": "The Kingsroad",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjYxYjMxZGYtMGIzMi00NTY2LWI0MWMtNGJiMzhjYjkwNmI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3360,
+    "plot": "While Bran recovers from his fall, Ned takes only his daughters to King's Landing. Jon Snow goes with his uncle Benjen to the Wall. Tyrion joins them.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 47347
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1829962",
+    "title": "Lord Snow",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmZmM2M4ODgtZmM4YS00ZDU0LWJmNTMtOTVkM2RhMGQ0NjIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3480,
+    "plot": "Jon begins his training with the Night's Watch; Ned confronts his past and future at King's Landing; Daenerys finds herself at odds with Viserys.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 44816
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1829963",
+    "title": "Cripples, Bastards, and Broken Things",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWJjMWI0MTctYmY3ZS00NWE4LTk5NmUtMmExNDU4ZmViN2VmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3360,
+    "plot": "Eddard investigates Jon Arryn's murder. Jon befriends Samwell Tarly, a coward who has come to join the Night's Watch.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 42703
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1829964",
+    "title": "The Wolf and the Lion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTRkM2NkOWItNjg1MC00NTFhLTgzOGItYjhjYmM3ZmUwZTVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3300,
+    "plot": "Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at the Vale, to be tried for his supposed crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 44484
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1837862",
+    "title": "A Golden Crown",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzQ3MjU4OTEwN15BMl5BanBnXkFtZTcwMTg0ODg5NA@@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3180,
+    "plot": "While recovering from his battle with Jaime, Eddard is forced to run the kingdom while Robert goes hunting. Tyrion demands a trial by combat for his freedom. Viserys is losing his patience with Drogo.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 43907
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt1837863",
+    "title": "You Win or You Die",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTcwMjgzNTItZjA1Mi00Y2U1LTg2YjAtOWNiN2MzYWNlZDhjXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3480,
+    "plot": "Robert has been injured while hunting and is dying. Jon and the others finally take their vows to the Night's Watch. A man, sent by Robert, is captured for trying to poison Daenerys. Furious, Drogo vows to attack the Seven Kingdoms.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 44387
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1837864",
+    "title": "The Pointy End",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjA0YWI4ZjMtMzdjOC00YTg0LWFlMjUtZDYxZDRjY2ZiNWVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3540,
+    "plot": "The Lannisters press their advantage over the Starks; Robb rallies his father's northern allies and heads south to war; The White Walkers attack the Wall; Tyrion returns to his father with some new friends.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 41630
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1851398",
+    "title": "Baelor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGY0YTYyMmQtMjhiYi00Yzc5LWIxZmYtZDVhODFlNDcyZjhjXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3420,
+    "plot": "Robb goes to war against the Lannisters. Jon finds himself struggling on deciding if his place is with Robb or the Night's Watch. Drogo has fallen ill from a fresh battle wound. Daenerys is desperate to save him.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 58651
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1851397",
+    "title": "Fire and Blood",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWZjNGMxOTgtM2IyZS00YzdhLTljMzktOTFkNjhjMjI3ZjM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 658,
+      "height": 890
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3180,
+    "plot": "Robb vows to get revenge on the Lannisters. Jon must officially decide if his place is with Robb or the Night's Watch. Daenerys says her final goodbye to Drogo.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 50832
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt31321401",
+    "title": "Game of Thrones: Unaired Original Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjc1ZTg3YWItNTRiNC00NGY0LTg0MDAtOGZhNjZlMmIwNDMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1072,
+      "height": 586
+    },
+    "season": "1",
+    "runtimeSeconds": 3720,
+    "plot": "The original unaired pilot of \"Game of Thrones\".",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 4296
+    },
+    "releaseDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": "tt1971833",
+    "title": "The North Remembers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA2MDAwOTI0OV5BMl5BanBnXkFtZTcwNjA3NDg1Nw@@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3180,
+    "plot": "Tyrion arrives at King's Landing to take his father's place as Hand of the King. Stannis Baratheon plans to take the Iron Throne for his own. Robb tries to decide his next move in the war. The Night's Watch arrive at the house of Craster.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 39224
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2069318",
+    "title": "The Night Lands",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmI1NDY4MzAtMmFhNi00YjZmLTk0NGItNmEyMTQ4MDQ5NGQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3240,
+    "plot": "Arya makes friends with Gendry. Tyrion tries to take control of the Small Council. Theon arrives at his home, Pyke, in order to persuade his father into helping Robb with the war. Jon tries to investigate Craster's secret.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 37223
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2070135",
+    "title": "What Is Dead May Never Die",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDc3ODUzYzgtNTI2NS00NDY2LWJmMTItM2RkMDZjN2Y2ZmQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3180,
+    "plot": "Tyrion tries to see who he can trust in the Small Council. Catelyn visits Renly to try and persuade him to join Robb in the war. Theon must decide if his loyalties lie with his own family or with Robb.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 36774
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2069319",
+    "title": "Garden of Bones",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODRkNDFkMWYtNWQwYy00Y2NiLWIwYTAtYmJhYjY0YzA5MjM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3060,
+    "plot": "Lord Baelish arrives at Renly's camp just before he faces off against Stannis. Daenerys and her company are welcomed into the city of Qarth. Arya, Gendry, and Hot Pie find themselves imprisoned at Harrenhal.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 35801
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2074658",
+    "title": "The Ghost of Harrenhal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjJmY2M0ZjktYTQ1YS00NjFhLWJkMjUtZWQ1ZDkxNDljNTU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3300,
+    "plot": "Tyrion investigates a secret weapon that King Joffrey plans to use against Stannis. Meanwhile, as a token for saving his life, Jaqen H'ghar offers to kill three people that Arya chooses.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 35974
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt2085238",
+    "title": "The Old Gods and the New",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzgxYzliZWEtNTgxYi00MjRjLWJkZjQtZTlkMTk0Y2NjMWRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3240,
+    "plot": "Theon seizes control of Winterfell. Jon captures a wildling named Ygritte. The people of King's Landing begin to turn against King Joffrey. Daenerys looks to buy ships to sail for the Seven Kingdoms.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 37490
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt2085239",
+    "title": "A Man Without Honor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGYwYWFhNDUtNGIzOS00YjNkLWIwMTItNTE1Y2IxYjdjY2M0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3360,
+    "plot": "Bran and Rickon have escaped Winterfell. Theon tries to hunt them down. Daenerys' dragons have been stolen. Jon travels through the wilderness with Ygritte as his prisoner. Sansa has bled and is now ready to have Joffrey's children.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 36413
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt2085240",
+    "title": "The Prince of Winterfell",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDJmM2FlZTctZmE3OC00MTQ3LWJjMmEtZTliMjUzYzk5MmMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3240,
+    "plot": "Stannis is just days from King's Landing. Tyrion prepares for his arrival. Jon and Qhorin are taken prisoner by the wildlings. Catelyn is arrested for releasing Jaime. Arya, Gendry, and Hot Pie plan to escape from Harrenhal.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 35879
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2084342",
+    "title": "Blackwater",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWJhZDM4YjEtMjQ0ZS00ZThjLWFlZTQtNGJjMTFlZGZiY2UxXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3300,
+    "plot": "Stannis Baratheon's fleet and army arrive at King's Landing and the battle for the city begins. Cersei plans for her and her children's future.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 62996
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt2112510",
+    "title": "Valar Morghulis",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDU4OTQxYWEtMTAxMy00YzMzLTkxMDQtODBjYTkyMjZhOTg2XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3840,
+    "plot": "Joffrey puts Sansa aside for Margaery Tyrell. Robb marries Talisa Maegyr. Jon prepares to meet Mance Rayder. Arya says farewell to Jaqen H'ghar. Daenerys tries to rescue her dragons.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 43596
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 6,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt2178782",
+    "title": "Valar Dohaeris",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzVmNjdjMjAtYzYwYi00YmQxLTgzYzktY2YxMjZkZmE3ZjljXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3300,
+    "plot": "Jon is brought before Mance Rayder, the King Beyond the Wall, while the Night's Watch survivors retreat south. In King's Landing, Tyrion asks for his reward. Littlefinger offers Sansa a way out.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 37997
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt2178772",
+    "title": "Dark Wings, Dark Words",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAyNzk5NDQwNl5BMl5BanBnXkFtZTcwMTkxNTcyOQ@@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3360,
+    "plot": "Bran and company meet Jojen and Meera Reed. Arya, Gendry, and Hot Pie meet the Brotherhood. Jaime travels through the wilderness with Brienne. Sansa confesses her true feelings about Joffery to Margaery.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 35265
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt2178802",
+    "title": "Walk of Punishment",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzMzZmM0OWEtNWUyNS00MzA0LTg0NzEtYzc5MDEwM2VjOTBiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3360,
+    "plot": "Robb and Catelyn arrive at Riverrun for Lord Hoster Tully's funeral. Tywin names Tyrion the new Master of Coin. Arya says goodbye to Hot Pie. The Night's Watch returns to Craster's. Brienne and Jaime are taken prisoner.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 35691
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2178798",
+    "title": "And Now His Watch Is Ended",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTM3ZWMzOTMtZDNhNS00ZTJkLTgwOTUtZWEzZDA4MjVmODA2XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3180,
+    "plot": "Jaime mopes over his lost hand. Cersei is growing uncomfortable with the Tyrells. The Night's Watch is growing impatient with Craster. Daenerys buys the Unsullied.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 48107
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2178788",
+    "title": "Kissed by Fire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTNmNGNlMGEtOGRmZC00OTFiLWFmMjYtMWJjOWI0NGQ4YjAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3420,
+    "plot": "Robb's army is falling apart. Jaime reveals a story to Brienne that he has never told anyone. Jon breaks his vows. The Hound is granted his freedom. The Lannisters hatch a new plan.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 37104
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt2178812",
+    "title": "The Climb",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjgwM2EyZjMtYTU5MS00NDk5LWE3N2UtYTJlNWIwNzJhMTkwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3180,
+    "plot": "Jon and the wildlings scale the Wall. The Brotherhood sells Gendry to Melisandre. Robb does what he can to win back the Freys. Tyrion tells Sansa about their engagement.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 36288
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 5,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt2178814",
+    "title": "The Bear and the Maiden Fair",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2NjZmRhNTktNjkyNC00MjI5LTgzODAtMTk3NTAyMzRiM2E2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1919,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3480,
+    "plot": "Jon and the wildlings travel south of the Wall. Talisa tells Robb that she's pregnant. Arya runs away from the Brotherhood. Daenerys arrives at Yunkai. Jaime leaves Brienne behind at Harrenhal.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 35184
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt2178806",
+    "title": "Second Sons",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTAzMTllMjUtZTQ0MS00YjU2LWE4MDItZWI1MDdiMzQ0NDRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3360,
+    "plot": "Daenerys tries to persuade the Second Sons to join her against Yunkai. Stannis releases Davos from the dungeons. Sam and Gilly are attacked by a White Walker. Sansa and Tyrion wed.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 35915
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 5,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2178784",
+    "title": "The Rains of Castamere",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTZhNDAzNmUtYjk5MS00MTJkLTlhNTktZjFlNjk2Y2JjNWZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3060,
+    "plot": "Robb and Catelyn arrive at the Twins for the wedding. Jon is put to the test to see where his loyalties truly lie. Bran's group decides to split up. Daenerys plans an invasion of Yunkai.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 133937
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2178796",
+    "title": "Mhysa",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWFjMjk0MWQtYjIzNi00ZTQwLTliY2UtZTFhNDIwNTNhNzkxXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3780,
+    "plot": "Bran and company travel beyond the Wall. Sam returns to Castle Black. Jon says goodbye to Ygritte. Jaime returns to King's Landing. The Night's Watch asks for help from Stannis.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 40443
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2816136",
+    "title": "Two Swords",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjhmYTUzNzMtMTBmZS00YzRjLTkzNzctNjYxYjlhNGY2OTQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3480,
+    "plot": "Tyrion welcomes a guest to King's Landing. At Castle Black, Jon stands trial. Daenerys is pointed to Meereen, the mother of all slave cities. Arya runs into an old enemy.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 43679
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt2832378",
+    "title": "The Lion and the Rose",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODgyNDIwNTk4OF5BMl5BanBnXkFtZTgwODYyMTg1MTE@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3120,
+    "plot": "Joffrey and Margaery's wedding has come. Tyrion breaks up with Shae. Ramsay tries to prove his worth to his father. Bran and company find a Weirwood tree.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 68705
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt2972426",
+    "title": "Breaker of Chains",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU5MzI5MzEzNl5BMl5BanBnXkFtZTgwMzQyMzI2MTE@._V1_.jpg",
+      "width": 2048,
+      "height": 1363
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3420,
+    "plot": "Tyrion is arrested for murder and awaits trial. Sansa escapes King's Landing. Sam sends Gilly to Mole's Town as the Night's Watch finds itself in a tight spot. Meereen challenges Daenerys.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 38164
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2972428",
+    "title": "Oathkeeper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDdiMjljZDctOTkxNS00NDAzLWE4NjQtYzQ4Zjc5MDkxNWY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 4256,
+      "height": 2832
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3300,
+    "plot": "Jaime entrusts a task to Brienne. Daenerys frees Meereen. Jon is given permission to lead a group of Night's Watchmen to Craster's Keep. Bran and company are taken hostage.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 36826
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3060856",
+    "title": "First of His Name",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWExYTliMjgtMDY0Mi00MTQ3LThlNWItMDNhYmEzYTU2N2Y2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 693
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3180,
+    "plot": "Tommen is crowned King of the Seven Kingdoms. Cersei builds her case against Tyrion. Sansa and Lord Baelish arrive at the Eyrie. The Night's Watch attacks Craster's Keep.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 36104
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt3060910",
+    "title": "The Laws of Gods and Men",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjExY2ZkYjktZTkyOS00YjcxLTk0YTUtYWFhYTcxNDU1YzAzXkEyXkFqcGc@._V1_.jpg",
+      "width": 635,
+      "height": 450
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3060,
+    "plot": "Tyrion's trial has come. Yara and her troops storm the Dreadfort to free Theon. Daenerys meets Hizdar zo Loraq. Stannis makes a deal with the Iron Bank of Braavos.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 68315
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3060876",
+    "title": "Mockingbird",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGFlNzJiODgtMzUxMi00YTE4LThjODItOGUwNjgyMDZhOGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 530,
+      "height": 335
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3060,
+    "plot": "Tyrion tries to find a champion. Daenerys sleeps with Daario. The Hound becomes wounded. Jon's advice is ignored at Castle Black. Brienne and Podrick receive a tip on Arya's whereabouts.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 39697
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 5,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt3060782",
+    "title": "The Mountain and the Viper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDEwNTIxYjYtODY1ZC00OTdlLWE3NWItZDkxMTBjMjJiNzNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3120,
+    "plot": "Theon helps Ramsay seize Moat Cailin. The wildlings attack Mole's Town. Sansa comes up with a story to protect Lord Baelish. Daenerys finds out a secret about Jorah Mormont. Oberyn Martell faces Gregor Clegane, the Mountain.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 68523
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt3060858",
+    "title": "The Watchers on the Wall",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGRjYjA3NDQtMzMyYy00Y2NjLWE4ZmEtNjg0YTU5NThmODVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3060,
+    "plot": "The battle between the Night's Watch and the wildlings has come.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 61786
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt3060860",
+    "title": "The Children",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTlkOGZjOWMtYTg5MS00YjNmLWE1NmMtZDc1YzY1MDgzODI5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1620
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3900,
+    "plot": "Jon makes an important decision. Daenerys experiences new consequences. Brienne and Podrick have an unexpected encounter. Bran achieves a goal, while Tyrion makes an important discovery.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 59645
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 6,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt3658012",
+    "title": "The Wars to Come",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQ0ODQyMl5BMl5BanBnXkFtZTgwMDczODYyNDE@._V1_.jpg",
+      "width": 2048,
+      "height": 1451
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3180,
+    "plot": "Cersei and Jaime adjust to a world without Tywin. Tyrion and Varys arrive at Pentos. In Meereen, a new enemy emerges. Jon is caught between two kings.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 37902
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt3846626",
+    "title": "The House of Black and White",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjljNGFkNzctOWVlYy00NjFlLThiZGQtNDk0ZTk5NTZiM2MwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3360,
+    "plot": "Arya arrives in Braavos. Jaime takes on a secret mission. Ellaria Sand seeks revenge for Oberyn's death. Stannis makes Jon a generous offer as the Night's Watch elects a new Lord Commander. Daenerys is faced with a difficult decision.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 34673
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt3866836",
+    "title": "High Sparrow",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmNjOTc1NTMtMGE2NS00YWJmLWIzYjktYjU3MDI3YzdjOGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 852
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3600,
+    "plot": "Tommen and Margaery wed. Arya has trouble adapting to her new life. Littlefinger reveals his plans to Sansa. Jon gives his first orders as Lord Commander. Tyrion and Varys arrive in Volantis.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 33721
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt3866838",
+    "title": "Sons of the Harpy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk5MzAzNjA4OV5BMl5BanBnXkFtZTgwNzQ4MDA2NTE@._V1_.jpg",
+      "width": 2100,
+      "height": 1181
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3060,
+    "plot": "Jorah Mormont sets sail alongside his prisoner, Tyrion. Cersei makes a move against the Tyrells. Jaime and Bronn sneak into Dorne. Ellaria and the Sand Snakes make their plans. Melisandre tempts Jon. The Harpies attack.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 34516
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3866840",
+    "title": "Kill the Boy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg4MzU0MDU0NV5BMl5BanBnXkFtZTgwMzcyMjQ2NTE@._V1_.jpg",
+      "width": 4500,
+      "height": 2995
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3420,
+    "plot": "Daenerys arrests the heads of Meereen's great families. Jon makes a difficult decision. Theon is forced to face Sansa. Stannis rides south. Tyrion and Jorah enter the ruins of Old Valyria.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 34657
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3866842",
+    "title": "Unbowed, Unbent, Unbroken",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODcxNzI2NTI3Ml5BMl5BanBnXkFtZTgwNzc1NDE3NTE@._V1_.jpg",
+      "width": 2048,
+      "height": 1363
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3240,
+    "plot": "Arya is put to the test. Tyrion and Jorah are captured by slavers. Loras Tyrell is judged by the Sparrows. Jaime and Bronn face the Sand Snakes. Sansa marries Ramsay Bolton.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 38854
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3866846",
+    "title": "The Gift",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjY5MTRlZTUtZmFlYi00ZDI1LWI5NDYtZDBhOWYyNzg3MWEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3540,
+    "plot": "Jon heads east as trouble begins to stir for Sam and Gilly at Castle Black. Sansa asks Theon for help. Tyrion and Jorah are sold as slaves. Cersei savors her triumph over the Tyrells as new plots are developed in the shadows.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 37044
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3866850",
+    "title": "Hardhome",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTBmMzg4NzUtYzIzNS00MzUyLTk2M2YtMDNhZGQ5OWM4NjdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 981
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3660,
+    "plot": "Tyrion advises Daenerys. Sansa forces Theon to tell her a secret. Cersei remains stubborn. Arya meets her first target. Jon and Tormund meet with the wildling elders.",
+    "rating": {
+      "aggregateRating": 9.8,
+      "voteCount": 117450
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt3866826",
+    "title": "The Dance of Dragons",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTdhM2U4ZTMtNGMzOS00YmZhLTlkOGEtZTVjYmQ2MDQxOTA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 791
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3120,
+    "plot": "Jon and the wildlings return to Castle Black. Jaime meets with Doran Martell. Stannis makes a hard choice. Arya runs into Meryn Trant. Daenerys attends the grand reopening of the fighting pits.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 53534
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt3866862",
+    "title": "Mother's Mercy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2JhZTRjNTUtMWNhOS00MTUwLTgwN2YtNjUwNDIzYmE3ZjM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1022,
+      "height": 580
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3600,
+    "plot": "Stannis arrives at Winterfell. Tyrion runs Meereen as Daario and Jorah go after Daenerys. Jaime and Myrcella leave Dorne. Jon sends Sam and Gilly to Oldtown. Arya challenges the Many-Faced God. Cersei confesses her sins.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 52498
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt3658014",
+    "title": "The Red Woman",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEyNjQ3OTM2MF5BMl5BanBnXkFtZTgwMTg5Njk5NzE@._V1_.jpg",
+      "width": 2832,
+      "height": 4256
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3000,
+    "plot": "The fate of Jon Snow is revealed. Daenerys is brought before Khal Moro. Tyrion gets used to living in Meereen. Ramsay sends his dogs after Theon and Sansa. Ellaria and the Sand Snakes make their move. Cersei mourns for Myrcella.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 47737
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt4077554",
+    "title": "Home",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWUwOTYxMTUtZWVlYy00MDkxLTg0M2ItOGNkNmQ3MmUyZWMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3240,
+    "plot": "Bran trains with the Three-Eyed Raven. Tommen meets with Cersei. Tyrion makes a bold move. Theon leaves while at Pyke new issues arise. Ramsay's brother is born. Davos asks Melisandre for a miracle.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 55303
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt4131606",
+    "title": "Oathbreaker",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTNjMDU1NmMtYTdhMi00NDExLTg2M2QtMTc1ZGYwYmYzYWE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3120,
+    "plot": "Daenerys arrives at Vaes Dothrak. Sam and Gilly sail for Horn Hill. Arya trains as No One. Varys finds information on the Sons of the Harpy. Ramsay receives a gift. Tommen meets with the High Sparrow. At Castle Black, a miracle occurs.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 42098
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt4283016",
+    "title": "Book of the Stranger",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmQzMmMzNjQtYjIyZS00MGE1LTgyNTktMWE3NDg5OGYxZDg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 950,
+      "height": 533
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3540,
+    "plot": "Sansa arrives at Castle Black. Tyrion makes a deal with the slave masters. Jorah and Daario sneak into Vaes Dothrak. Ramsay sends a letter to Jon. Theon arrives at Pyke. Cersei and Olenna Tyrell plot against the High Sparrow.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 44914
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4283028",
+    "title": "The Door",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQxNTc5NzQ5OF5BMl5BanBnXkFtZTgwMDY5Nzk5ODE@._V1_.jpg",
+      "width": 2100,
+      "height": 1397
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3420,
+    "plot": "Sansa and Jon make plans. Arya is given another chance to prove herself. Jorah confesses a secret to Daenerys. Tyrion meets with a red priestess. Yara finds her rule tested. Bran discovers the origin of the White Walkers.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 86721
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt4283054",
+    "title": "Blood of My Blood",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTEwMjU2M15BMl5BanBnXkFtZTgwOTMyNzYwOTE@._V1_.jpg",
+      "width": 3155,
+      "height": 2100
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3120,
+    "plot": "Bran and Meera find a new ally. Gilly meets Sam's family. Arya makes a difficult choice. The Lannisters and Tyrells march against the High Sparrow.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 41321
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt4283060",
+    "title": "The Broken Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI4OTAxMDQ1NF5BMl5BanBnXkFtZTgwNTgyNzYwOTE@._V1_.jpg",
+      "width": 4500,
+      "height": 2995
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3060,
+    "plot": "Jon and Sansa gather troops. Jaime arrives at Riverrun. Olenna Tyrell plans to leave King's Landing. Theon and Yara plan a destination. Arya makes plans to leave.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 40545
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4283074",
+    "title": "No One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA3NTM0MzM1NjBeQTJeQWpwZ15BbWU4MDAxMTg2MTkx._V1_.jpg",
+      "width": 2100,
+      "height": 3155
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3540,
+    "plot": "Brienne arrives at Riverrun. Arya seeks shelter. Jaime meets with Edmure Tully. Cersei challenges the Faith. Sandor Clegane hunts for revenge. Tyrion faces the consequences of earlier decisions.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 44901
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4283088",
+    "title": "Battle of the Bastards",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjJjYWMyODEtMmNlNi00MWJiLTg0NWYtMmE5MzEzNjI4YWNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3155,
+      "height": 2100
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3600,
+    "plot": "Jon and Sansa face Ramsay Bolton on the fields of Winterfell. Daenerys strikes back at her enemies. Theon and Yara arrive in Meereen.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 244064
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4283094",
+    "title": "The Winds of Winter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGM1MDI1MDQtZDdiZS00YzBjLWE2NzAtZTJkODQwNTU2ODMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2558,
+      "height": 1438
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 4080,
+    "plot": "Cersei and Loras Tyrell stand trial by the gods. Daenerys prepares to set sail for Westeros. Davos confronts Melisandre. Sam and Gilly arrive in the Citadel. Bran discovers a long-kept secret. Lord Frey has an uninvited guest.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 175579
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt5654088",
+    "title": "Dragonstone",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzdkYmE5MjgtYjUwOC00MGFlLThkNDYtYjIwNjNkZGYzNDQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2248,
+      "height": 1180
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3540,
+    "plot": "Jon organizes the North's defenses. Cersei tries to even the odds. Daenerys comes home. Arya reminds the Freys \"the North remembers.\" Sam adapts to life in Oldtown. The Night King makes his way south.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 58972
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt5655178",
+    "title": "Stormborn",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWY0Y2VhNGYtZTlkZS00MDRmLWE1OWEtMWU4NDcwYzRlODUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 3835,
+      "height": 2994
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3540,
+    "plot": "Daenerys receives an unexpected visitor. Jon faces resistance. Tyrion plans the conquest of Westeros. Cersei gathers her allies. Arya has a reunion with old friends. Sam risks his career and life.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 52224
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt5775840",
+    "title": "The Queen's Justice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTg5Njg2MzQ1NF5BMl5BanBnXkFtZTgwNDc4NDEzMzI@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3780,
+    "plot": "Jon and Daenerys finally meet. Cersei gains a new ally. Sansa receives an unexpected visitor. Sam is confronted for his actions.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 54953
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt5775846",
+    "title": "The Spoils of War",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE4MTUxNjEyOF5BMl5BanBnXkFtZTgwMDA0NDEzMzI@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3000,
+    "plot": "Daenerys takes matters into her own hands. Arya reaches her destination. Jaime and Bronn collect the spoils from the war with the Tyrells.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 102523
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt5775854",
+    "title": "Eastwatch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMyNDMxNDY2NV5BMl5BanBnXkFtZTgwOTIxNDEzMzI@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3540,
+    "plot": "Daenerys demands loyalty from the surviving Lannister soldiers; Jon heeds Bran's warning about White Walkers on the move; Cersei vows to vanquish anyone or anything that stands in her way.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 51933
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt5775864",
+    "title": "Beyond the Wall",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzM4ODAyNzI1OV5BMl5BanBnXkFtZTgwMzQ5MTkyMzI@._V1_.jpg",
+      "width": 2048,
+      "height": 1363
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 4200,
+    "plot": "Jon and his team go beyond the wall to capture a wight. Daenerys has to make a tough decision.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 75134
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt5775874",
+    "title": "The Dragon and the Wolf",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzJkYjM1ODUtMTI2Zi00MjEwLThjYmYtMWZmOTRkYzg1OTk1XkEyXkFqcGc@._V1_.jpg",
+      "width": 915,
+      "height": 675
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 4800,
+    "plot": "Everyone meets in King's Landing to discuss the fate of the realm. In Winterfell, Sansa confronts Arya. Sam reaches Winterfell, where he learns from Bran a shocking secret about Jon Snow.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 74838
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt5924366",
+    "title": "Winterfell",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmJjNzQ0NWUtYmEzZC00YzhlLThkYzQtMDQ2OTM1YzExOGMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3240,
+    "plot": "Jon and Daenerys arrive in Winterfell and are met with skepticism. Sam learns about the fate of his family. Cersei gives Euron the reward he aims for. Theon follows his heart.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 144297
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt6027908",
+    "title": "A Knight of the Seven Kingdoms",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDRmNjBiYTgtNWYwOS00MWRlLThiN2ItYzQ0MjYwYzA2ZWQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2558,
+      "height": 2100
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3480,
+    "plot": "Jaime faces judgment and Winterfell prepares for the battle to come.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 143311
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt6027912",
+    "title": "The Long Night",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDE3MTRlMzUtZDJhNC00ODE4LWE1ODgtNzFkMDUxMTAxYmQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "runtimeSeconds": 4920,
+    "plot": "The Night King and his army have arrived at Winterfell and the great battle begins.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 234804
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt6027914",
+    "title": "The Last of the Starks",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGY1ODg1ZWYtNTJiNy00NzE5LTk2MGQtYjdiMzRkNTg5NGRjXkEyXkFqcGc@._V1_.jpg",
+      "width": 3150,
+      "height": 2100
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "runtimeSeconds": 4680,
+    "plot": "The Battle of Winterfell is over and a new chapter for Westeros begins.",
+    "rating": {
+      "aggregateRating": 5.5,
+      "voteCount": 178269
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt6027916",
+    "title": "The Bells",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQzN2JmOWItYTFiNC00NTc4LTk4NzEtYjQ5NWQyYTM1MDA4XkEyXkFqcGc@._V1_.jpg",
+      "width": 3150,
+      "height": 2100
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "runtimeSeconds": 4680,
+    "plot": "Forces have arrived at King's Landing for the final battle.",
+    "rating": {
+      "aggregateRating": 5.9,
+      "voteCount": 208310
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt6027920",
+    "title": "The Iron Throne",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2NiMzI3YWMtZWRlNC00YjQ3LTgxNDgtYTUzYTQ1YjY0MjRjXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 710
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "runtimeSeconds": 4800,
+    "plot": "In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors.",
+    "rating": {
+      "aggregateRating": 4,
+      "voteCount": 275475
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 19
+    }
+  }
+]

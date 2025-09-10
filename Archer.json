@@ -1,0 +1,3148 @@
+[
+  {
+    "id": "tt1539157",
+    "title": "Mole Hunt",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDg3MzM4Mzc0NV5BMl5BanBnXkFtZTgwNjQyMDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Archer goes to great lengths to cover up discrepancies in his ISIS expense account as he attempts to access the agency's mainframe computer. Cyril and Lana's Friday night dinner date is interrupted by work.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3108
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1570118",
+    "title": "Training Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjg2YTNjNTMtZGZlOS00MDE4LWE1N2YtYjA0ZDAzMGRkZWYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 338
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Lana's residual lust for Archer prompts Malory to promote Cyril to field agent. Archer then trains his new competition as only he can, whilst Malory frets over her own past and her son's future.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2584
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 1,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1577177",
+    "title": "Diversity Hire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDc4MDVhYjktNGExMi00Mjk3LTg0ZGQtODU5MjgyODVjOWVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "The agency hires a studly agent because of his minority status, and the man makes an impressive debut, but Archer suspects he has ulterior motives.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2532
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1577178",
+    "title": "Killing Utne",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzIxMTY2ODE4MF5BMl5BanBnXkFtZTgwNDM3MDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Malory holds a shindig to schmooze with United Nations bigwig Torvald Utne, just as a group of assassins closes in to kill him.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2314
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 1,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1598645",
+    "title": "Honeypot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc0OTc4OTkxNl5BMl5BanBnXkFtZTgwODkyNzQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Malory's career is threatened when a sensitive videotape falls into the hands of a rogue (and roguish) Cuban agent, so she calls on Archer's expertise in seduction to turn the tables on her blackmailer.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2361
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1577179",
+    "title": "Skorpio",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTY1Mzg1NzY4Nl5BMl5BanBnXkFtZTgwNTQ3MDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Archer must rescue Lana from the clutches of Skorpio, the infamous arms dealer. Meanwhile, Cyril fears not only for his girlfriend's life, but her succumbing to the seductive nature of Archer's heroics.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2245
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1564607",
+    "title": "Skytanic",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQ0MjY4MF5BMl5BanBnXkFtZTgwODcyNzQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "When a bomb threat jeopardizes the maiden voyage of the luxury airship Excelsior, Archer and the ISIS crew must battle the clock (and each other) to avert disaster.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2535
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1613217",
+    "title": "The Rock",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTQ2Njg4MDMxN15BMl5BanBnXkFtZTgwNzkyOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "After ISIS loses yet another lucrative contract to rival agency ODIN, Malory assigns Archer and Lana to embarrass ODIN by stealing a priceless diamond from their biggest client.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2058
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1613216",
+    "title": "Job Offer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA4MTc2NzY5OF5BMl5BanBnXkFtZTgwNTgyOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "When Archer takes a higher-paying job at rival agency ODIN, Malory will stop at nothing to get him back.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2091
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1622042",
+    "title": "Dial M for Mother",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ2Mzg2MzkwNV5BMl5BanBnXkFtZTgwNzYxNjM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Questions about the identity of Archer's real father lead him into a perilous trap... and an explosive confrontation with Malory.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2109
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt5825436",
+    "title": "Archer: 1999 -- Bort the Garj",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTNiYzlhOWEtZGJhMy00ZTkzLWJhZGEtZDg4MjdhYjdhMmYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "10",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Archer and the crew of the Seamus wake up to the smell of shepherd's pie and see a business opportunity in their new guest.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 1211
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt7576244",
+    "title": "Archer: 1999 -- Happy Borthday",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTcyMWZmM2YtZmY2MC00ZTM2LTk2YjUtMWM3MzIwNDBlN2NlXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "10",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "The crew provides entertainment for Bort while Barry-6 tries to crack Archer's safe.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 1075
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt7576252",
+    "title": "Archer: 1999 -- The Leftovers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzIyZDc3MGMtNTQxYS00YWUzLWEwODEtOWRiZmI1ZWUwZWY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 705
+    },
+    "season": "10",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1440,
+    "plot": "Pam's sandwich ruins everyone's dinner by releasing something deep inside of them.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 1023
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt7576248",
+    "title": "Archer: 1999 -- Dining with the Zarglorp",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjMwNzYxODUtZDVmMy00YjU1LWJhZTgtODEyNTU2ZWYyMDYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "10",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1440,
+    "plot": "Deep in space, Archer and the crew encounter a terrifying cosmic beast; even deeper, they encounter a self-aggrandizing life coach.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 981
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt7576254",
+    "title": "Archer: 1999 -- Mr. Deadly Goes to Town",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDNkZjgzNTMtNjA0Yy00MTNmLWFlZWMtOGU3MDllMjQ1MDEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 712
+    },
+    "season": "10",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1440,
+    "plot": "Archer and the crew pick up a hitchhiker and try to convince him to turn his life around.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1122
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt7576250",
+    "title": "Archer: 1999 -- Road Trip",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzAzNjg0OTgtZWI0NC00NzZhLWE5YTItZDgxMGU1ZTJhZDJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 713
+    },
+    "season": "10",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Daydreams of an interstellar road trip turn into an existential nightmare.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 955
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt7576256",
+    "title": "Archer: 1999 -- Space Pirates",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmMyZDQ3OTctM2YzZi00YWQwLTkwMjktZjY5NGJhNDZjNzRhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 703
+    },
+    "season": "10",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "A voyage home gets interrupted by an alien battle cruiser carrying precious cargo.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 965
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt6111148",
+    "title": "Archer: 1999 -- Cubert",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzNiZTYyODEtMmQ4Ni00YzJiLWI4NjMtYzAwZWEwOGI2YWQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 710
+    },
+    "season": "10",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Archer is convinced that a mysterious object is causing the crew to act strangely.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 999
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt10564840",
+    "title": "Archer: 1999 -- Robert De Niro",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjhiYTA4MWUtNjFkNC00N2I1LWFiNTItN2NlYzY4NTZlNzY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "10",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "When a trial turns into a party, it can only mean that Barry-6 has returned.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1204
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 7,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt10692628",
+    "title": "The Orpheus Gambit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTBmZDRhM2UtZjBkZC00MmFhLTgzNGEtYjQ2ZDJjMDk3ZDNkXkEyXkFqcGc@._V1_.jpg",
+      "width": 697,
+      "height": 439
+    },
+    "season": "11",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1500,
+    "plot": "Archer is back in the spy game and his first mission is to guard a priceless statue. Then he must tell Lana his true feelings--and get blind drunk.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1264
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 9,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10695124",
+    "title": "Bloodsploosh",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjQwNzkwMWQtNzA4MS00ZjdmLTgwNmEtYmIzOWZiZWY5MTI5XkEyXkFqcGc@._V1_.jpg",
+      "width": 900,
+      "height": 506
+    },
+    "season": "11",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Archer and the gang attend a martial-arts tournament to capture an international arms dealer.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1143
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 9,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10695126",
+    "title": "Helping Hands",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZThmZmFmMDgtYzg3NC00ZGY1LTk1NTEtNDQ2NDgyZjliMWQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 963,
+      "height": 576
+    },
+    "season": "11",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "The agency attempts to steal experimental technology from a reclusive inventor, but they forget one vital item.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1080
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt10695128",
+    "title": "Robot Factory",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2E4NjViMDItZTg5Mi00Njc5LWJmYmEtMmU3NTdiMDMzMGFiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 515
+    },
+    "season": "11",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1440,
+    "plot": "Archer and the gang team up with Barry to stop an army of Barrys from turning the world into Barrys.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1157
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 9,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt10695130",
+    "title": "Best Friends",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzJiNGQ0NzYtZmMwYS00OWI4LTg1NTYtODg3OThlODBhZWExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 505
+    },
+    "season": "11",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "Archer is smitten with his new valet, Aleister, who promotes exercise; Archer just wants to eat.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1112
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt10695132",
+    "title": "The Double Date",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWVlMWQ3YzQtMDljYi00ZDcyLTllODItY2M3Zjg1ZjYxMTVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 522
+    },
+    "season": "11",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Archer shows off his date to Lana; Cyril shows Archer's date a top-secret dossier; Archer's date shows Archer his innermost desires.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1040
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt10695136",
+    "title": "Caught Napping",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmU2ZGJhODctYzljMi00NWIyLWJjYTMtZDlmYWRlMjI1Y2MyXkEyXkFqcGc@._V1_.jpg",
+      "width": 955,
+      "height": 586
+    },
+    "season": "11",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "When AJ is kidnapped, it's up to Archer to get her back and keep Lana's rampage pointed in the right direction.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1057
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt10695138",
+    "title": "Cold Fusion",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzNiYzEzOGEtYWQwZi00OTFlLTliYWEtNzk4YTA1ZjY2ZjAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 521
+    },
+    "season": "11",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "Archer and the gang travel to Antarctica to solve a murder mystery with international implications.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1025
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt14779272",
+    "title": "Identity Crisis",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTViYTQ5MjMtN2ExMi00ZDlmLWIzMTUtOWU1OTIyMjc0OGZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1170,
+      "height": 607
+    },
+    "season": "12",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Archer and the gang just saved the world from a nuclear catastrophe and their reward is five nights in a rat-infested Moldovan hotel.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 992
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt15296420",
+    "title": "Lowjacked",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDY5MmI0MGYtOWRmMC00ODk0LTllMmQtNWU3YTQ5NmQwZDlmXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "12",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "The Agency embarks on a team-building exercise that doesn't quite get off the ground.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 953
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt15302172",
+    "title": "London Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzUxNTAzOTctZjBlZi00MTdjLWFmMDctZmY2YmU2ZDIxNmUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1684,
+      "height": 926
+    },
+    "season": "12",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "A mission across the pond turns into a trip down memory lane for Mallory; Cheryl/Carol teaches Pam about British history.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 901
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt15345288",
+    "title": "Photo Op",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDU0ZjE3MTQtMDdiZi00ZTViLTk1ZGQtNzgxZDYxNjQ1MzVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 516
+    },
+    "season": "12",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Archer and Lana face off against snakes, crocodiles, and mercenaries to reunite a family.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 883
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt15392488",
+    "title": "Shots",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMThhNzhhMDAtMDcyNi00ZDRlLThjYTAtOWVmODQ0NmU0OWViXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 499
+    },
+    "season": "12",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Archer and the gang celebrate another barely successful mission.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 892
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt15433818",
+    "title": "Dingo, Baby, et Cetera",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzMyZDUwZTktNjdhZC00ZGE4LThmOGEtNjg2YjU2ZDI5YjQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 517
+    },
+    "season": "12",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Lana makes rookie mistakes as ghosts from Archer's past haunt him on a special mission.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 980
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt15451182",
+    "title": "Colt Express",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzRhNzFkMGUtNjk4OC00ZDhhLTg1MjUtZTJmM2Y2YmY2ZmI0XkEyXkFqcGc@._V1_.jpg",
+      "width": 964,
+      "height": 590
+    },
+    "season": "12",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "A mysterious stranger and a scavenger hunt help Archer and the gang get a jump on their enemies.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 845
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt15451184",
+    "title": "Mission: Difficult",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWZlZGY2OWMtOTNjMC00ZjIwLWFhNWMtMTc1NzI2MTAyOTRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 522
+    },
+    "season": "12",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "Archer is trapped inside IIA headquarters, and Barry is trapped inside Other Barry.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 1558
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 10,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt15514702",
+    "title": "The Big Con",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDRiOGEyNWMtMDYzMi00NzAxLTk1YmItMGJlNDA2OGE3ZWEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "13",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1440,
+    "plot": "The Agency, the new subsidiary of IIA after the passing of Malory, appears at an industry conference with former international competitors and enemies. While searching for the party room(s), Pam inadvertently uncovers intrigue.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 754
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt15514732",
+    "title": "Operation: Fang",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWEwZmU1NGQtYTQ2ZS00MDMyLTlkNmYtNDExNGE2ZGQ1MGUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 597
+    },
+    "season": "13",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1440,
+    "plot": "Gillette is in charge of a creepy crawly mission in a tropical jungle.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 662
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 8,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt15514730",
+    "title": "Saturday",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODE2NTA0YmQtYjA5NS00YmE4LTljNGQtOGI0MDlkMjU5MmIzXkEyXkFqcGc@._V1_.jpg",
+      "width": 936,
+      "height": 583
+    },
+    "season": "13",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Archer and Lana get called into work on Saturday, forcing them onto a mission neither of them wants because he is hungover and she must spend the day with her daughter AJ.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 689
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt15514734",
+    "title": "The Laws of Attraction",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzY0ZDBhZTItMDk2ZS00ZTFkLWE3MjItOTZkZDk2ZDZmY2VkXkEyXkFqcGc@._V1_.jpg",
+      "width": 934,
+      "height": 594
+    },
+    "season": "13",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1440,
+    "plot": "Fabian tasks The Agency with recovering a piece of valuable tech from a nefarious threat called The Swiss.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 622
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt15514740",
+    "title": "Out of Network",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2Q3M2MwOWItZmViZi00NWVlLTg5NjQtOGQ0OTg2YmFjOTJhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 601
+    },
+    "season": "13",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Archer seeks professional help but IIA's health plan is murder.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 611
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt15514738",
+    "title": "Bank Run at Mr. Bank's Bank",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODE2MWIxNjEtNDM3ZS00YzE4LTk4MjItOWUyYzRjNmRhYjZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 499
+    },
+    "season": "13",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Fabian tasks the crew to retrieve the contents of a safety deposit box. As an incentive, a successful mission will result in IAA giving back ownership of the agency with sufficient operations budget for 6 months.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 590
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt15514742",
+    "title": "Distraction Action",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmJiYWY0YjQtZjc5Mi00ODdjLTk0MzctZWRlOGU3MmM5YWY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 498
+    },
+    "season": "13",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Archer has a brilliant plan to evade capture. The problem: he refuses to follow it.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 601
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt15514744",
+    "title": "Dough, Ray, and Me",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWRiYzdkNGQtYTUwOS00NGE4LTg4YTMtNTkwYzhiNjYyZmVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 939,
+      "height": 572
+    },
+    "season": "13",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Archer and the gang need proof in order to temper expectations and ice the mission.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 615
+    },
+    "releaseDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt27758600",
+    "title": "The Anglerfish Stratagem",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzFjNjQ5MjEtNzkwNS00OGY1LTk0ZjctYTNhNDQ2ZDI0ZTUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1050,
+      "height": 700
+    },
+    "season": "14",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "The Agency teams up with Interpol to take down a highly organized ring of jewel thieves; Archer's skeptical, as their Interpol contact seems to be treating the mission as more of an audition.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 619
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt27758941",
+    "title": "30 for 30",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWY1ODZjZTgtNDE4Ni00NDljLWIwMDctZDNlYTJhZWUwOTZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1152
+    },
+    "season": "14",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Zara Khan thinks that she's a real knockout, but Archer wants to prove that he is just as stunning; Pam and Ray sit back and keep score.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 594
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt28466041",
+    "title": "Plaque Removal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODg5MjQyODQtZTE2My00YjVmLWI5NTQtODIwMzhjZTRlNmNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "14",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1380,
+    "plot": "Archer, Lana, and Zara travel to England to stop a thief who is stealing possibly-cursed artifacts. Can Archer break the curse before it breaks him?",
+    "rating": {
+      "aggregateRating": 6.8,
+      "voteCount": 593
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt28466043",
+    "title": "Chill Barry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmFkNmRjYzItNTM3Yi00NDFhLWI3N2ItMmQ2NmVhNDJmMmVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "14",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Barry's back and gives the gang the cold shoulder in their quest to put Other Barry on ice.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 526
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt28466044",
+    "title": "Keys Open Doors",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmEyZjU3YzEtMTdjMS00ZDcyLWE1NzQtODk5MDhlM2NjMGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "14",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "An unplanned vacation forces Lana to accompany Archer, Pam, and Cyril on a mission that quickly goes off the rails.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 516
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt28466045",
+    "title": "Face Off",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjFhMTI2OWEtNjgxYS00ODQ2LWE3MDYtYjc2ZGY1NWM0MDRhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "14",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1380,
+    "plot": "Archer tries to find an elusive villain at an exclusive resort, while Lana learns some explosive truths about running a spy agency.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 517
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt28466047",
+    "title": "Mission Out of Control Room",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2JjNjQ4NjctNzBlMi00YmU1LTg4MzMtNjY4NTM2NWM1NzJmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "14",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Lana monitors simultaneous missions in her state-of-the-art control room, but Archer and the gang experience technical difficulties.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 487
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt28466048",
+    "title": "Breaking Fabian",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjBlZDcxMjctYzM4My00NDdiLTg5NjktYzAzNjQxZjBjMzU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "14",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "A former adversary lends a hand as Archer and the gang bond together to try and stop a fleet of killer drones.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 497
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt29609408",
+    "title": "Into the Cold",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmRmNTY0YjQtNzVlZi00M2I2LWExODQtMGUyZTc3NWU1NWE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1166
+    },
+    "season": "14",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3840,
+    "plot": "With the UN voting to outlaw independent spy agencies, Archer and the gang have to work outside the law to save the world from an unlikely duo.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 732
+    },
+    "releaseDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1824276",
+    "title": "Swiss Miss",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk5MzI1ODU1MF5BMl5BanBnXkFtZTgwNTg0MTQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "ISIS protects a German billionaire's cute daughter from terrorists. She's celebrating her 17th birthday at a Swiss ski resort. The problem is, she can't keep her hands off Sterling, landing him in trouble.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2223
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt1833264",
+    "title": "A Going Concern",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyMTAwNDI1MF5BMl5BanBnXkFtZTgwNTI1NTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "After Malory is wiped out in a Ponzi scheme, she hatches her own scheme: selling ISIS to rival spy agency ODIN. Archer and the rest of the ISIS employees must use every trick in the book to try to stop the sale.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1975
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt1841013",
+    "title": "Blood Test",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5MDczNzQyM15BMl5BanBnXkFtZTgwNjYxOTQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Archer is in for a huge surprise when his favorite call girl, Trinette, shows up at ISIS with a subpoena in her purse.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1983
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1845938",
+    "title": "Pipeline Fever",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE2ODk0NjYxNl5BMl5BanBnXkFtZTgwMzA1NDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "While Malory tries to make ISIS a green workplace, Archer and Lana head to the Louisiana Bayou to prevent a dangerous eco-terrorist from bombing America's largest natural gas pipeline.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2076
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1849255",
+    "title": "The Double Deuce",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5ODQyMTc1Ml5BMl5BanBnXkFtZTgwMzM4NTQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "When members of Woodhouse's famed WWI Royal Flying Corps squadron start dying mysteriously, he naturally suspects foul play. As does Archer, who tries to help his loyal manservant track down the killer.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1986
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1856799",
+    "title": "Tragical History",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg4OTEzNjAxOF5BMl5BanBnXkFtZTgwMjA3MDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Tired of his colleagues constantly calling him a failure, Cyril agrees to help George Spelvin, a mysterious computer security expert, inject a virus into the ISIS mainframe so he can defeat the virus and be seen as a hero.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1917
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt1862529",
+    "title": "Movie Star",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcxMjgwNzEyMF5BMl5BanBnXkFtZTgwNDc0ODM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "The normal childish squabbles, sneaky backbiting, and petty jealousies at ISIS are multiplied exponentially when famous Hollywood actress Rona Thorne spends a week shadowing the agents as research for an upcoming role in a spy movie.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1928
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1868198",
+    "title": "Stage Two",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDU1MTM3OTQyNF5BMl5BanBnXkFtZTgwMjQyNTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "After Malory's brief scare with breast cancer, another ISIS agent decides to be tested for the disease, with a tragic result.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2080
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1883469",
+    "title": "Placebo Effect",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg1MjQxMTY1N15BMl5BanBnXkFtZTgwOTA3MzQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "When Archer discovers the chemotherapy drugs he's been taking for his breast cancer are counterfeit, he sets out to destroy the criminals behind the scheme.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 2608
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1883467",
+    "title": "El Secuestro",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3NjMzODg0MF5BMl5BanBnXkFtZTgwNzA3MzQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1200,
+    "plot": "ISIS goes into full lockdown after Pam is abducted by kidnappers. Wait, Pam? Yes, but the kidnappers were really after Cheryl/Carol. Wait, Cheryl/Carol? Yes, because Cheryl/Carol isn't quite who she appears to be.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2049
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt1883468",
+    "title": "Jeu Monegasque",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI5NzMxMTQ0MF5BMl5BanBnXkFtZTgwODA3MzQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "The team is in Monaco during Gran Prix so Malory can pay a $4M for a computer disc. Unfortunately, she got the money from ISIS's employees' 401(k). Worse, Sterling gambles 3.2M$ away. It gets worse.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1903
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1898149",
+    "title": "White Nights",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcxODczMzQ1NV5BMl5BanBnXkFtZTgwMTYxNjM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1200,
+    "plot": "Archer's search for his father's identity by going to Russia puts him in hot water as he is held prisoner by Nikolai Jackov and Malory has to ask Barry Dillon to rescue him.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1878
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1916816",
+    "title": "Double Trouble",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI3MzEzMDgyNl5BMl5BanBnXkFtZTgwMzk2NDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "Sexy KGB Katya saves Sterling's life in Russia and comes to USA with him. Is she there to spy, a job at ISIS, a green card or Sterling's love?",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1879
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2046353",
+    "title": "Heart of Archness: Part I",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEzMDYzMzM4NDleQTJeQWpwZ15BbWU4MDQ2Njg0NjIx._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Malory wants her son dragged home from a South Pacific island, where he's getting over Katya's death. Rip gets him on a seaplane that crashes, thanks to Sterling.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2020
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2046354",
+    "title": "Heart of Archness: Part II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMzNjU2Mzk1OF5BMl5BanBnXkFtZTgwMDA3ODQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1200,
+    "plot": "Archer finally agrees to head back to Isis. Unfortunately as he boards Riley's plane to head back, their plane is attacked by pirates and they soon find themselves on an island run by pirates, and Archer is crowned their new pirate king.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1876
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2054900",
+    "title": "Heart of Archness: Part III",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODMyNjUwMzQyNF5BMl5BanBnXkFtZTgwNzYxODM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1140,
+    "plot": "At ISIS HQ, Malory awaits a call on her son's situation/ransom on the pirate island. Meanwhile, he goes from being pirate king to being pirate prisoner together with Rip, Lana, Ray and Noah.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1847
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt2158993",
+    "title": "The Man from Jupiter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg0MzEyNjgzN15BMl5BanBnXkFtZTcwODkyNzgyNw@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Burt Reynolds is dating Malory. Sterling is not OK with it.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1967
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2202719",
+    "title": "El Contador",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzMzAzMjk2M15BMl5BanBnXkFtZTgwNTIzNTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Malory sends Sterling, Lana, and just-promoted-to-field-agent Cyril to catch a Colombian drug lord in the jungle to score $1M for ISIS; \"Ironside\" is demoted; ISIS employees will be drug tested.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1828
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2207833",
+    "title": "The Limited",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTE4NTA3MTQ3NV5BMl5BanBnXkFtZTgwODQ3MTQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "ISIS transports a Canadian terrorist by train to Mounties in Canada. Will Nova Scotian terrorists free him? Will the drunk Sterling fulfill his dream of fighting on the roof of a moving train?",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1969
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2211327",
+    "title": "Drift Problem",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDc1MDg2Nl5BMl5BanBnXkFtZTgwODUzOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Malory gives Sterling a super spy car for his birthday and warns him to not get it stolen. Looking for his stolen car, he crosses path with the Yakuza.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1764
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2207831",
+    "title": "Lo Scandalo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ3ODg3NzM3NF5BMl5BanBnXkFtZTgwNzQ3MTQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Archer and Lana are called over to Malory's apartment on what was supposed to be an off night for the ISIS crew. There, they are shocked to discover what appears to be a dead body, some foreplay, and a few random gun shots. As they put together the pieces of the mystery, they soon discover that there's more to this story than meets the eye, and does Archer have enough spaghetti and meatballs for everybody? And what is underneath Malory's trench coat?",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2043
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt2211325",
+    "title": "Bloody Ferlin",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NTM4NjYzN15BMl5BanBnXkFtZTgwNTUzOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Archer discovers that Ray has been faking his paralysis; Archer, Ray, and Cheryl travel to West Virginia to help Ray and his brother save their crop from a crooked Sheriff.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1817
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt2256127",
+    "title": "Crossing Over",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzI0NzM1NTk4MV5BMl5BanBnXkFtZTgwNDM5MjQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Sterling wakes up with a hangover, only remembering having the best sex ever--but with whom? A man who may be Sterling's dad defects from Russia and comes to see Malory and get protection from ISIS.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1736
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2279509",
+    "title": "Skin Game",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTY1OTc4ODk2NV5BMl5BanBnXkFtZTgwNTU4ODQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "When Archer's fiancée returns under mysterious circumstances, he immediately suspects that his arch rival Barry is behind it, and soon begins to plot against them both.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1699
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2279511",
+    "title": "Space Race: Part I",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk5MDU2NjY3Nl5BMl5BanBnXkFtZTgwMTk4ODQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "ISA calls on the ISIS staff to stop the international space station from being taken over by space pirates. During training, Cyril proves to be a more-than-adequate pilot, a skill which will prove valuable when they return. While on the mission, Malory attempts to make drinks in low gravity, Cyril once again shows that he has no concept of what \"suppressing fire\" is, and Lana has an unusually weak stomach.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1782
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2279513",
+    "title": "Space Race: Part II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMwODYzMDgyMF5BMl5BanBnXkFtZTgwODY4ODQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "Once on board the international space station, Archer and the ISIS crew have very little time to save the crew on board from being taken over by space pirates, but an even sinister motive looks to make things even worse for Archer and ISIS.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1785
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2342483",
+    "title": "Fugue and Riffs",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTcyMTI5NTY1NV5BMl5BanBnXkFtZTcwNDMxMzM5OA@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1440,
+    "plot": "Archer is working at a burger shop, but can't remember any of the events that led to him working there. Fortunately, Malory takes the ISIS crew to a luxury spa and Lana helps Archer cure his amnesia.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1935
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt2633152",
+    "title": "The Wind Cries Mary",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTQwOTQyMDQ5M15BMl5BanBnXkFtZTcwMjczNjk5OA@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Archer and his former best friend are holed up in the Vermont wilderness, fighting hard to come out on top.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1823
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt2633154",
+    "title": "Legs",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIyMjY0NTczOV5BMl5BanBnXkFtZTcwMTcwNDMwOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "Archer's fear of cyborgs hits home when Krieger offers to make robotic legs for Gillette.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1729
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt2633156",
+    "title": "Midnight Ron",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ2OTEyNDkwOF5BMl5BanBnXkFtZTcwNDYwNDMwOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "The beginning of beautiful hatred between Archer and his new stepfather plays out as the two are chased by gangsters.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1665
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt2665242",
+    "title": "Viscous Coupling",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2MzM4MzI1MF5BMl5BanBnXkFtZTgwMjc2MDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "With Barry stuck in space, Archer's former fiancée Katya, who is now living as a cyborg herself, seeks Archer's help in getting Barry returned to earth. But manipulative Archer has other plans in mind.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1614
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2665238",
+    "title": "Once Bitten",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU0MjA2MTIwOV5BMl5BanBnXkFtZTcwNTkwMDQxOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "While accompanied by Cyril and Ray on a mission in Turkmenistan, Archer comes in contact with a venomous snake with hallucinogenic repercussions. Meanwhile back at ISIS tensions come to a head between Lana and Malory.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1662
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2665250",
+    "title": "Live and Let Dine",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM0NDQwNjI1NF5BMl5BanBnXkFtZTcwNzAxMDQxOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1380,
+    "plot": "Archer, Lana, and Cyril go undercover in celebrity Chef Lance Casteau's hellish kitchen to stop an assassination attempt on an ambassador.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1718
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt2665256",
+    "title": "Coyote Lovely",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIxNzUzNDU2MV5BMl5BanBnXkFtZTcwNzgwMDQxOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "The ISIS crew heads to the Mexican border to save a coyote, but Archer and Lana soon find themselves being smuggled over the border with an immigrant family.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1651
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt2665258",
+    "title": "The Honeymooners",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDk4MTQ4Ml5BMl5BanBnXkFtZTcwMTAxMDQxOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1200,
+    "plot": "Archer and Lana are on a mission as a couple staying in the honeymoon suite and their colleagues are spying on them; the North Koreans are in New York City to buy uranium.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1656
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2665260",
+    "title": "Un Chien Tangerine",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5Mzk2MjIxNF5BMl5BanBnXkFtZTgwNDI2MDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Archer and Lana head to Morocco to save a member of ISIS' canine unit, but soon get themselves in deep dog-doodoo.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1605
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2665268",
+    "title": "The Papal Chase",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjcwMjE1OF5BMl5BanBnXkFtZTcwNzgzMTgyOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1140,
+    "plot": "The ISIS crew heads to the Vatican to stop an assassination attempt on the Pope: Archer attempts to use Woodhouse as a decoy while he and Pam pose as a priest and a nun.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1616
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt2665270",
+    "title": "Sea Tunt: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU5NzE2NDk4M15BMl5BanBnXkFtZTcwMDIzOTMzOQ@@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "The ISIS crew heads deep into the Bermuda Triangle to save an underwater sea laboratory from its deranged leader, with help from Cheryl's dim-witted brother and his equally dim-witted fiancée, who drive Cheryl crazier than usual.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1597
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt2665274",
+    "title": "Sea Tunt: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU4NTE5OTQ1N15BMl5BanBnXkFtZTgwMzg2MDQ2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "Once on board the underwater laboratory, the ISIS crew finds that they have very little time to rescue the lab from its deranged captain, but of course the ISIS crew's conflicts and Archer's recklessly impulsive tendencies do not exactly help things.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1613
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3369492",
+    "title": "Archer Vice: White Elephant",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU3Njk1NDYzN15BMl5BanBnXkFtZTgwNzkyNjQ5MDE@._V1_.jpg",
+      "width": 653,
+      "height": 367
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1140,
+    "plot": "After ISIS headquarters is raided by FBI Agents, Archer and Lana work to break out the crew while Mallory works on a deal to get them all free.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1833
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3411622",
+    "title": "Archer Vice: A Kiss While Dying",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcxOTcyNzczOF5BMl5BanBnXkFtZTgwNzYwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Archer, Pam and Lana travel to Miami to visit some old friends. It's a fondue party!",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1525
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3411616",
+    "title": "Archer Vice: A Debt of Honor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3MzA2NTAxNl5BMl5BanBnXkFtZTgwNTMwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Pam gets targeted for death by the Yakuza while the group continues to dig their way out of financial trouble.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1492
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3411626",
+    "title": "Archer Vice: House Call",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTE2ZDQzYzAtNGMwOC00M2U5LTg5NzUtMDMzNjE2MzA3NGZiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Archer has to stage an intervention for Pam that gets derailed by an unwanted guest.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1514
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3411628",
+    "title": "Archer Vice: Southbound and Down",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMyODYxNDUyNV5BMl5BanBnXkFtZTgwMTkwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "Malory buys a bus and takes everyone on a road trip. Put that hammer down and give it hell.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1506
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3411630",
+    "title": "Archer Vice: Baby Shower",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY1MDk0MTExMl5BMl5BanBnXkFtZTgwMzgwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Archer and Pam try to get Kenny Loggins to play at Lana's baby shower and wind up in a zone of danger.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1469
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3411634",
+    "title": "Archer Vice: Smugglers' Blues",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM4NzUzNDAwOF5BMl5BanBnXkFtZTgwODcwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1200,
+    "plot": "Archer travels to Colombia on a secret mission that becomes not-so-secret after he gets drunk.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1418
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3411642",
+    "title": "Archer Vice: The Rules of Extraction",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ5OTUxMTc5M15BMl5BanBnXkFtZTgwNTcwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Archer, Ray, and Cyril raft down a crocodile-filled river while Lana and Pam plan a spa day for Malory.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1481
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3411636",
+    "title": "Archer Vice: On the Carpet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyNjE4OTM4MV5BMl5BanBnXkFtZTgwMjYwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Archer avoids crash landing in a dangerous swamp only to come face-to-face with a shady arms dealer (Christian Slater).",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1416
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3411640",
+    "title": "Archer Vice: Palace Intrigue - Part I",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDQ5ODYzMV5BMl5BanBnXkFtZTgwOTcwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1200,
+    "plot": "Archer and the rest of the ISIS gang are the guests of Gustavo Calderon and his wife Juliana. Calderon is a big fan of Cherlene but Juliana is a bigger fan of Archer.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1410
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt3411644",
+    "title": "Archer Vice: Palace Intrigue: Part II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc3MTQ1MDI1OV5BMl5BanBnXkFtZTgwNDgwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1200,
+    "plot": "Archer tries to keep his fling with the dictator's wife a secret while Krieger bonds with his clone-brothers.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1396
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt3411656",
+    "title": "Archer Vice: Filibuster",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTI4MjM2NTM5MF5BMl5BanBnXkFtZTgwNzc5ODM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1200,
+    "plot": "Cyril becomes the new president of San Marcos, Cherlene becomes the first lady of country music, and Archer becomes a resistance fighter.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1399
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt3411652",
+    "title": "Archer Vice: Arrival/Departure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM3OTIzNzkzN15BMl5BanBnXkFtZTgwMTYwOTM2MjE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "While Lana is trying to give birth to her baby, it turns out that the whole \"cocaine-case\" was a secret agreement between Malory and the CIA.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 1590
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt4256314",
+    "title": "The Holdout",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzMTYxMTg4Ml5BMl5BanBnXkFtZTgwODkzMjY5MzE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Archer must salvage a crashed plane for the CIA after he disappeared for six weeks in Thailand.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1508
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt4303076",
+    "title": "Three to Tango",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzk5ODYxNDU1M15BMl5BanBnXkFtZTgwNDU1OTUwNDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "An agent from the past has a hand in creating tension between Archer and Lana.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1419
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4303080",
+    "title": "The Archer Sanction",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk1MjI3OTY2NV5BMl5BanBnXkFtZTgwMDY1MTExNDE@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1200,
+    "plot": "Archer, Lana, and Ray travel to the Swiss Alps to carry out an assassination while Cyril, Pam, and the rest of the gang capitalize on having a little free time.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 1466
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt4327042",
+    "title": "Edie's Wedding",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg3NzEyNzc0MV5BMl5BanBnXkFtZTgwNDk2MjgzNDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Pam and Archer take a trip to Wisconsin for Edie Poovey's wedding, but Barry Dillon and Other Barry might have a thing or two to say about it.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1437
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt4389446",
+    "title": "Vision Quest",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTg1Njk1OF5BMl5BanBnXkFtZTgwNjMxOTYzNDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1200,
+    "plot": "Everyone is stuck in an elevator. The only thing lower than rations is patience. Oh, and their only rescue is a highly-advanced rolling toaster. What could go wrong?",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 1686
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4389450",
+    "title": "Sitting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NDA3NTI4Ml5BMl5BanBnXkFtZTgwNTYxNzQ0NDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1140,
+    "plot": "Archer babysits AJ for the weekend.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1393
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4389452",
+    "title": "Nellis",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYzMjM1MTc0M15BMl5BanBnXkFtZTgwMDA2NzY1NDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1200,
+    "plot": "A rescue mission turns into an out-of-this-world visit to Area 51.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1357
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4434218",
+    "title": "The Kanes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY3NjA4OTM5OF5BMl5BanBnXkFtZTgwMjcxOTcxMDI@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1440,
+    "plot": "Lana introduces Archer to her parents; Archer introduces Lana's parents to high-speed chases.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 1762
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4434220",
+    "title": "Pocket Listing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQyODA2NTQxN15BMl5BanBnXkFtZTgwMzE4MjE3NDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "Slater has the gang swindle the Durhani royal family and Gillette lends a hand.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 1468
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4441400",
+    "title": "Reignition Sequence",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTMzOTAyNl5BMl5BanBnXkFtZTgwODcxOTcxMDI@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1500,
+    "plot": "An office romance is interrupted by the Russians.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1343
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4441418",
+    "title": "Achub y Morfilod",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjYxNzcwODk5Nl5BMl5BanBnXkFtZTgwMjYwNDQ5NDE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Archer and Lana travel to Wales for a romantic getaway of aiding separatists.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1361
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4441444",
+    "title": "Drastic Voyage: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI0Mjc2NzMyOF5BMl5BanBnXkFtZTgwNjI2MjMwNTE@._V1_.jpg",
+      "width": 960,
+      "height": 540
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1440,
+    "plot": "Archer and the gang prepare for their most fantastic voyage ever.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1340
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4465276",
+    "title": "Drastic Voyage: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkwMTQxNTg4OF5BMl5BanBnXkFtZTgwNDg2MDUxNTE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1440,
+    "plot": "The fantastic voyage concludes.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1379
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt4537894",
+    "title": "The Figgis Agency",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk4MDYxMjI1MV5BMl5BanBnXkFtZTgwMDM4MTQ0ODE@._V1_.jpg",
+      "width": 3000,
+      "height": 1688
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Secret-agent-turned-private-investigator Archer and the group are working on the West Coast, where Archer's newest case involves breaking and entering a mansion in order to restore honor to one of Hollywood's leading ladies.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1475
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt4537900",
+    "title": "The Handoff",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGZhM2RjNDEtMTMxOS00YWRlLWI0ZWYtMDg1NzE4Nzk3NWVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1380,
+    "plot": "Archer and Lana make a tricky handoff while the rest of the gang hears the best voicemail ever.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1342
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt4537926",
+    "title": "Deadly Prep",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQwOTAyMzM2OV5BMl5BanBnXkFtZTgwNTYyMzQ2ODE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1440,
+    "plot": "A business opportunity arises at a prep school reunion.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1371
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt4537930",
+    "title": "Motherless Child",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTc4MWNiY2YtNWNiMi00MGY1LWIzYTgtMjg0MDdhZGM3NDg0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 900
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "An important member of the team is kidnapped and all leads point towards the infamous disc. Meanwhile, Krieger is up to no good and Lana gets a new pet.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 1305
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt4537932",
+    "title": "Bel Panto: Part I",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTU1ODcwNDQxN15BMl5BanBnXkFtZTgwNjU5NDc3ODE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Party crashers turn a fundraiser into no laughing matter.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1309
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt4537936",
+    "title": "Bel Panto: Part II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDI4ODgwNDE5N15BMl5BanBnXkFtZTgwMzM1MjQ4ODE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "A hostage negotiation spirals out of control when Archer and Lana go missing.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 1340
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4537942",
+    "title": "Double Indecency",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMzNTM5NTU4Ml5BMl5BanBnXkFtZTgwNTI0NjA5ODE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1200,
+    "plot": "Who's sexier, Cyril or Krieger? Pam or Cheryl? Only one way to find out... Bar fight!",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 1365
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt4537948",
+    "title": "Liquid Lunch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTczODg4Mzk2NV5BMl5BanBnXkFtZTgwMzU5MTc5ODE@._V1_.jpg",
+      "width": 500,
+      "height": 375
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "The on-again, off-again relationship of Archer and Slater causes a rift in the on-again, off-again relationship of Archer and Lana.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1215
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4537954",
+    "title": "Deadly Velvet: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTM3NTBlNDQtZjllNi00MGQyLWFhOTEtZTc3ZDNkYTgwNTZjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1380,
+    "plot": "The Deadly Velvet production is beset with chaos and destruction so the film's producer hires the Figgis Agency to discover what's behind the suspicious activity. The team's romances and jealousy complicates the investigation, and puts Archer in a difficult situation with Lana and Ms. Deane.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 1262
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4537958",
+    "title": "Deadly Velvet: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTcwNjQzNGMtNTFlNC00YjA5LWFjMDktM2FjZDM2ZjMyM2FjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1560,
+    "plot": "Things get even deadlier on the set of Deadly Velvet when someone turns up, you guessed it, dead.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 1560
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 6,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt5825432",
+    "title": "Archer Dreamland: No Good Deed",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDAxNmI5NWUtYTcxMC00YTdmLTk5OTUtM2Q3N2U5NTYwMjE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 853,
+      "height": 480
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Archer tries to find out who killed his partner but ends up in bed with notorious Los Angeles crime boss Mother.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1397
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt6126922",
+    "title": "Archer Dreamland: Berenice",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2JiNTZmNTYtYWY5OS00OWQ5LWI5MTMtZGY4YWIwYzA0OGQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "A mysterious woman hires Archer to fake her death but Archer is unable to rise to the occasion.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 1205
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt6745202",
+    "title": "Archer Dreamland: Jane Doe",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTAzMTQ1ODYtOGFmMi00NGI2LWE4NjktODU5MjM5ZWM2MmU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Archer tries to escape from jail with the help of a crazed heiress and a dysfunctional jazz quartet.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1158
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt6745206",
+    "title": "Archer Dreamland: Ladyfingers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTU3ZTVkN2YtNjI0Ny00ZGRkLWFjNDQtYzM0NWE2MjEyNjdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1380,
+    "plot": "Archer must convince the Vandertunts that Charlotte has been kidnapped; Krieger reveals too much about his past.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1138
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt6745212",
+    "title": "Archer Dreamland: Sleepers Wake",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDAyMzllMWQtZTdlNC00OTkzLTg5MzUtZTMxYTQ5MDRhMjUyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Dutch becomes a new man while Archer's ransom exchange goes up in smoke.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1096
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt6745220",
+    "title": "Archer Dreamland: Waxing Gibbous",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDI1Y2UzNDYtNTg5MS00Zjg2LWIyYzMtY2YzNjFmMjM4MWU4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "All roads lead to Len Trexler as Archer and the gang try to avoid unfriendly ghosts.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1135
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt6745224",
+    "title": "Archer Dreamland: Gramercy, Halberd!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWM4ZDdiNjItZmNiYy00ZDg5LThjNTUtODU0OWNjNzY3ZjdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "8",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1200,
+    "plot": "Archer's past comes back to haunt him. Dutch proves himself a hard man to get rid of. Trexler attempts a great escape.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 1151
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt6111138",
+    "title": "Archer Dreamland: Auflösung",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGYyYzI0Y2YtMjIyMi00YzI1LWE2MzUtNDA1NzFkOGM2Yjc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "8",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Archer visits Dreamland and receives a big break that leads him to Woodhouse's killer.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1184
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt5825434",
+    "title": "Danger Island: Strange Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWE1NzcyZmQtZTllZS00YmNkLTllZTAtZGEwMTkwNmJmZGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 843,
+      "height": 474
+    },
+    "season": "9",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1140,
+    "plot": "Archer inserts himself into a domestic dispute, and engine troubles threaten to ruin his business.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1270
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt7576226",
+    "title": "Danger Island: Disheartening Situation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI5NDFkY2ItMDFiNi00MWRiLWFiOTMtYTVjZWI4N2MxM2JhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "9",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Archer works to overcome his dead stick while Pam and those who bailed try to survive the local nightlife.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1111
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt7576230",
+    "title": "Danger Island: Different Modes of Preparing the Fruit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGU3N2FkZDEtNWEzYi00ZWQ0LWJmM2ItMGYwMjM3YTdjNjhmXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "9",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1200,
+    "plot": "Archer and Pam look for ways to make enough money to repair the plane.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 1049
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt7576234",
+    "title": "Danger Island: A Warrior in Costume",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjU0NzUyNTYtODgzMi00YWNiLTg3NDktYzRlMGIwNDYyYjQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 450
+    },
+    "season": "9",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1200,
+    "plot": "A group of German pilots show up on the island. Their leader was Archer's nemesis during the Spanish Civil War, shooting Archer down a total of five times. Archer longs for revenge.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1032
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt7576236",
+    "title": "Danger Island: Strange Doings in the Taboo Groves",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjE1NjA2ZGItZmRlYy00MzZjLTlhM2QtMTc2OGQwYjQzMTg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "9",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1380,
+    "plot": "But there is no joy in Mudville- mighty Pam has struck out.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 1009
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt7576238",
+    "title": "Danger Island: Some Remarks on Cannibalism",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmQ5NDRjNjUtZWQzZC00NDkzLWI2OTAtZGQ4MTBkOGY4NzhmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "9",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1140,
+    "plot": "Archer and Pam try to escape the cannibals with the less-than-willing help of an anthropologist while everyone else races to the idol.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 1001
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt7576240",
+    "title": "Danger Island: Comparative Wickedness of Civilized and Unenlightened Peoples",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTRmNzcwZWQtNzE4Ny00Y2RhLWFhMGUtZTUzY2VmMDE1Yzc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "9",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Archer helps defend a village from party crashers intent on ruining oysterfest.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 1056
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 6,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt6111142",
+    "title": "Danger Island: A Discovery",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDE2YTU1MDMtOGEyMC00YTAwLWI0MGYtOWNlOTZlY2I1NTcxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 800
+    },
+    "season": "9",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "The Band finally closes on a discovery.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 1064
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 6,
+      "day": 13
+    }
+  }
+]

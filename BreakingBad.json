@@ -1,0 +1,1366 @@
+[
+  {
+    "id": "tt0959621",
+    "title": "Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjAzMWM4NTQtMjVjNi00YjcyLTk2ZmQtNWQ1ZTQ0ZDRhY2Q1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3480,
+    "plot": "Diagnosed with lung cancer, high-school chemistry teacher Walter White teams with ex-student Jesse to cook meth in an RV, using science -- and sudden violence -- to secure their first batch and escape two lethal dealers.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 54748
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1054724",
+    "title": "Cat's in the Bag...",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTFlNzk3MTQtYTdjMC00NjIwLWI1ZDItZDQ1MTVjMTljMGRjXkEyXkFqcGc@._V1_.jpg",
+      "width": 940,
+      "height": 705
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2880,
+    "plot": "One body dissolves in acid while another dealer lies captive. Walt and Jesse scramble to erase evidence, and Walt faces whether he can kill to keep the fledgling operation -- and Jesse -- safe.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 40194
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt1054725",
+    "title": "...And the Bag's in the River",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzUwZGQzZmMtYzgyYS00ZWZjLWI5NzgtZTk4YzNiOGRjOGI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1000
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2880,
+    "plot": "Chemo looming, Walt chains wounded Krazy-8 in Jesse's basement, weighing murder against morality. A smashed dinner plate decides his darkest step yet.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 38812
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1054726",
+    "title": "Cancer Man",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWY0YzlmYmYtZmIxMC00Yjg3LTgzYjgtNWYyMDIxZWVlYzkyXkEyXkFqcGc@._V1_.jpg",
+      "width": 828,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2880,
+    "plot": "Walt's diagnosis rocks the family while flashbacks reveal how Gray Matter upended his career. Resentment nudges him further into crime as Hank's DEA war stories fascinate Walt Jr.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 37165
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1054727",
+    "title": "Gray Matter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDMxZDE1MjQtMjI0MC00M2Y1LWI5YmMtNDdkZmFmZmVhYWE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2880,
+    "plot": "Ex-partners Elliott and Gretchen offer to fund treatment, but pride makes Walt refuse. Cash-strapped, he reignites the meth venture while Skyler digs into Jesse's drug past.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 36522
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1054728",
+    "title": "Crazy Handful of Nothin'",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGZhMGEyZjEtYzhkNS00MDBhLWFhOTItZDViNzhkNWQyYmE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 790,
+      "height": 535
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2880,
+    "plot": "Shaved and reborn as Heisenberg, Walt crashes Tuco's lair with explosive mercury fulminate, swapping chemistry for intimidation. The violent payoff bankrolls chemo but draws Hank's attention.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 42913
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1054729",
+    "title": "A No-Rough-Stuff-Type Deal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDg5NGI3NjMtN2M1MC00YThjLTkxM2ItYTBhYTkzNTE5ODBiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1268,
+      "height": 711
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2880,
+    "plot": "Under pressure from a dangerous new customer, Walt and Jesse race to expand their operation, hatching an audacious plan for crucial supplies as Walt struggles to keep his double life from collapsing.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 37450
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1232244",
+    "title": "Seven Thirty-Seven",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjFmNTE3ZTItYzdiZi00NTM4LTg2YTctMjkxYzNkNTM5YWEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 750,
+      "height": 417
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2820,
+    "plot": "Walt and Jesse's latest desert deal erupts in violence, spurring Walt to calculate the cash he'll need and thrusting the pair into mounting threats at home and in their fragile partnership.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 33891
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1232249",
+    "title": "Grilled",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjZkMjAzMWItMzZkOC00OWNkLWE5ZmMtZTcxMWFkZDlmMDRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2880,
+    "plot": "After Tuco abducts them, Walt and Jesse struggle for survival in a desolate hideout while their families -- and Hank -- scramble to find the missing duo.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 38692
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1232250",
+    "title": "Bit by a Dead Bee",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWMyMjA1NmYtNTE2OC00OTViLWIwNjEtYTE2NGNjNmQ1ZDAzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2820,
+    "plot": "Walt and Jesse work to return to normal after a dangerous ordeal, crafting alibis while Hank's investigation intensifies and family suspicions grow.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 32468
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt1232251",
+    "title": "Down",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWEyMDYzNmYtYWIwNi00NDVjLWE4MWYtMGI2NGI2YmMwNGU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2820,
+    "plot": "Walt juggles a crumbling home life and a dangerous secret as Skyler withdraws; Jesse loses his footing, and the pair's uneasy alliance is tested.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 32521
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1232252",
+    "title": "Breakage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTUyYzZjY2EtODJjYy00Y2I1LTlkOGMtMzg2NzAxNzg3YzkwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2820,
+    "plot": "As their operation expands, Walt and Jesse face the cost of \"breakage\" when a stash vanishes. Hank wrestles with the aftermath of a recent case, while Skyler's trust in Walt continues to fray.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 31709
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1232253",
+    "title": "Peekaboo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NjIyODA5MV5BMl5BanBnXkFtZTcwNzE2NTc0Mg@@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2820,
+    "plot": "Jesse tracks down the couple who robbed one of his dealers and finds a neglected child in their chaotic home, while Walt strains to keep his double life intact.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 34590
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1232254",
+    "title": "Negro y Azul",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTI3YTExMDQtMjg1Ni00YTE1LWJhODQtNTkwMDY0NTQ2N2QyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2820,
+    "plot": "As Heisenberg's legend grows, Walt pushes expansion while Jesse steps into leadership. Meanwhile, Hank's El Paso assignment tests his nerve at the border.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 31975
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1232255",
+    "title": "Better Call Saul",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjYxYTM3MmMtZTZlMS00OWQ0LTg3MDMtMjU0ZWYxZjg3M2VhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2820,
+    "plot": "A street bust puts their operation at risk, sending Walt and Jesse to a flashy criminal lawyer with unorthodox methods.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 37843
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt1232256",
+    "title": "4 Days Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk1MTI3NjY1Ml5BMl5BanBnXkFtZTgwMTk2MDU5NTM@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2820,
+    "plot": "Walter and Jesse head into the desert for a marathon cook, but mishaps turn the trip into a test of ingenuity -- and their partnership -- as time and supplies run short.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 36106
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt1232245",
+    "title": "Over",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjc1ZWRjODMtYmY4OC00ZmVhLWExMDctNTVjZjc0NDk4ODk0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1136,
+      "height": 640
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2820,
+    "plot": "After a personal wake-up call, Walt throws himself into home repairs and family life, but old habits and a brush with competition pull him back; Jesse's budding relationship faces boundaries and secrets.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 31105
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1232246",
+    "title": "Mandala",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTkwYjk4NmItNDk5ZS00ZGVlLWIzMzItMjgwZWI0NmQwMjE2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2820,
+    "plot": "A shake-up pushes Walt and Jesse to seek a secretive new buyer; a lucrative, time-sensitive offer pits Walt's family responsibilities against the demands of their expanding operation.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 32064
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1232247",
+    "title": "Phoenix",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg0MTYzMjg0MF5BMl5BanBnXkFtZTcwODczOTg1Mg@@._V1_.jpg",
+      "width": 700,
+      "height": 465
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2820,
+    "plot": "With a newborn at home, Walt scrambles to hide his cash and keep up appearances, while Jesse's relationship complicates the business, and Saul floats an inventive laundering plan.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 36270
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1232248",
+    "title": "ABQ",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2Q3YWJhMmItNWE5ZS00NTJjLWI4NTAtMWFkODUwODc1NWU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 3277,
+      "height": 2025
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2880,
+    "plot": "As fallout mounts, Walt scrambles to keep his secret and family intact, Jesse spirals, and Skyler pushes for answers -- setting unexpected consequences in motion.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 35329
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt1528116",
+    "title": "No Más",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGMxNmQwYzUtNjZlZS00ZGIxLTkyYWYtMmJmNGM2MDg2NTBmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2820,
+    "plot": "Haunted by a citywide tragedy, Walt vows to quit his criminal life and mend his family -- unaware that a ruthless threat is already on its way to Albuquerque.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 30641
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1615186",
+    "title": "Caballo sin Nombre",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzE5NzQyMzctOTA1MS00NWE1LWIxZGQtZTUzMDAxZWVjNTUwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2820,
+    "plot": "Walt's traffic stop escalates, he tries to mend his family, and Jesse, with Saul's help, seeks a fresh start as two mysterious men close in.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 30027
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1615187",
+    "title": "I.F.T.",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTRjMzM0ZDYtZWNmNi00ZGRhLWFmN2EtN2U3YzU4MWRkOGJmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2820,
+    "plot": "Walt presses back into the family home, pushing Skyler toward a pivotal decision, while Jesse charts his own course as unseen threats draw closer.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 29726
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1615554",
+    "title": "Green Light",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMzNjE5MzkwM15BMl5BanBnXkFtZTcwMjk5MDIzMw@@._V1_.jpg",
+      "width": 2048,
+      "height": 1360
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2820,
+    "plot": "With his home life crumbling, Walt's reckless moves threaten his job as Jesse tests a new plan, while Hank intensifies the hunt for blue meth.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 30076
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1615555",
+    "title": "Más",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWQyY2I3ZDktMzQwOS00ZDg5LWFlM2MtMmNhOWY5YmM0OTg2XkEyXkFqcGc@._V1_.jpg",
+      "width": 760,
+      "height": 535
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2820,
+    "plot": "Walt weighs a lucrative proposal as Skyler reevaluates their future, Jesse rebuilds his operation, and Hank's pursuit of the blue meth network intensifies.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 29138
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1615556",
+    "title": "Sunset",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU0MWQ1NDItMDdiYy00YTBlLWE4OTItMWQ2MDI3NzY3MTFhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2820,
+    "plot": "Walt starts work in a new lab with an assistant, while Hank's search for Heisenberg closes in on an old RV, setting in motion a tense cat-and-mouse at a scrapyard.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 33735
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1615944",
+    "title": "One Minute",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjdiMjA4MDAtMTI3MS00ZDE0LWEwYmUtZDc0YmVmZDM0YzBjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2820,
+    "plot": "Tempers flare across Albuquerque: Walt faces a new lab dynamic, the DEA reels from a reckless act, and a silent threat closes in -- culminating in a chilling countdown.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 41117
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1615557",
+    "title": "I See You",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTAxZWE3YzEtZTdmMy00NjU5LThjMzktYjNkYjA0YmUzZTFhXkEyXkFqcGc@._V1_.jpg",
+      "width": 3501,
+      "height": 2025
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2820,
+    "plot": "A family crisis draws Walt to the hospital while Jesse covers the lab; a surprise visitor in the waiting room raises the stakes.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 29994
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1615558",
+    "title": "Kafkaesque",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTMwNGUwYTctM2JmMi00OGIzLTgxZTctOGFjODE3ODg1Zjc4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2820,
+    "plot": "As mounting medical bills strain the family, Skyler devises a plan; Walt and Gus find tentative common ground, and Jesse seeks independence through a new opportunity.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 29413
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1615550",
+    "title": "Fly",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDRlNDBiMWUtNDBlZC00Zjc1LWFjZmItYWE0ZGU1M2FmY2UwXkEyXkFqcGc@._V1_.jpg",
+      "width": 760,
+      "height": 535
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2820,
+    "plot": "Walt obsessively hunts a fly in the lab, halting production and testing his partnership with Jesse.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 58094
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1615551",
+    "title": "Abiquiu",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWMxMzhlNDgtNjRlZS00YjZmLWI3MDAtNmY2N2JkMTVmZDY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2820,
+    "plot": "Skyler moves to legitimize Walt's cash with a business front, clashing with Saul's flashy ideas; meanwhile, Jesse's search for customers at his support group leads to an unexpected bond.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 29322
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1615552",
+    "title": "Half Measures",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTczOTgyOF5BMl5BanBnXkFtZTcwNTczOTQ1Mw@@._V1_.jpg",
+      "width": 2048,
+      "height": 1360
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2820,
+    "plot": "Street tensions spike as Jesse pursues a risky plan against rival dealers, pressuring Walt to choose between caution and loyalty, revealing the cost of 'half measures.'",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 40235
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1615553",
+    "title": "Full Measure",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODVjMjhjZmItNzMwNi00YmQyLWE2YzQtODMxZjhmMmIwM2ZjXkEyXkFqcGc@._V1_.jpg",
+      "width": 760,
+      "height": 535
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2820,
+    "plot": "With the lab's future in doubt, Walt and Jesse navigate a dangerous power play that forces a defining choice about loyalty and survival.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 46153
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt1683084",
+    "title": "Box Cutter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjI2Mjg2MjEzNl5BMl5BanBnXkFtZTcwMTg2NTY3NQ@@._V1_.jpg",
+      "width": 2048,
+      "height": 1360
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2820,
+    "plot": "Trapped in the superlab, Walt and Jesse face the consequences of their choices as Gus's silence tightens, and Skyler's suspicion deepens.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 35966
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1683089",
+    "title": "Thirty-Eight Snub",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWVkMTllNjMtOTBkZi00NzI1LTgyMjAtZjdjOGI5MWIwYjI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 3483,
+      "height": 2017
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2760,
+    "plot": "Walt searches for leverage against his elusive boss, Jesse numbs himself with nonstop company, and Skyler pursues a bold plan to buy the car wash.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 29949
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1683090",
+    "title": "Open House",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmQyODJmZGItMTM2YS00YmIwLTk0ODgtNGIzYTUwZmQxMGQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2760,
+    "plot": "While Hank obsessively catalogs minerals, Marie slips into old habits at open houses, Skyler and Walt plot to acquire a car wash, and Jesse immerses himself in nonstop parties.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 30649
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 7,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt1683091",
+    "title": "Bullet Points",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGEyOWFkYTAtYTZiMC00MjkzLTg3MWYtNmUwYmRmZDNhZDJiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2700,
+    "plot": "Walt and Skyler polish a gambling cover story for dinner with Hank and Marie as new evidence sharpens the Heisenberg investigation, while Jesse grows increasingly detached.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 29008
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1683092",
+    "title": "Shotgun",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2Y0ODhjZjMtMmVjMS00ZDZiLTk2YzEtOTY0ZDQzZDRmNjNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2820,
+    "plot": "Jesse rides shotgun with Mike on mysterious pickups that test his nerve and loyalty, while Walt scrambles for answers and Skyler pushes ahead with the car wash plan.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 29054
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1683093",
+    "title": "Cornered",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzUwMTE1NjAtNWY0NS00NTE4LTkwY2MtNWRmZDFiMzA1MzY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2820,
+    "plot": "Under mounting pressure, Walt asserts control as Skyler rethinks the family's safety, while Jesse's new responsibilities with Gus and Mike pull him deeper into the operation.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 29327
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1683094",
+    "title": "Problem Dog",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzIyMzk1MF5BMl5BanBnXkFtZTcwMjA5NDQ0Ng@@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2820,
+    "plot": "Hank pursues a new lead, pulling Walt uncomfortably close to the case, while Jesse wrestles with guilt and a dangerous request; pressure mounts in the operation and at home.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 30383
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1683095",
+    "title": "Hermanos",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmYwY2IwNzEtYjIyNy00ZjA0LTljNzEtYzE5ZTQxNDlhNDQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2820,
+    "plot": "As Hank closes in on Gus Fring, glimpses of his past surface, and pressure mounts on Walt and Jesse.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 34170
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1683096",
+    "title": "Bug",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MTA3NTIxM15BMl5BanBnXkFtZTcwMDEwODE2Ng@@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2820,
+    "plot": "Walt and Jesse's uneasy partnership frays as Gus advances his plans, while Hank's investigation tightens -- testing loyalties and forcing risky moves.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 30880
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1683085",
+    "title": "Salud",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWQ3NzEwNDAtZDAzZS00ODQxLWEwMjgtZDc0MWY3Yjc5YjY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 860,
+      "height": 543
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2820,
+    "plot": "Gus takes Jesse and Mike to Mexico to prove Jesse's skills to the cartel; back in Albuquerque, Walt faces family fallout.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 42688
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1683086",
+    "title": "Crawl Space",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODM2OGU1ZWItOTBiZS00MGVhLWE2M2MtNjAyNWEwODQ1MGM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 852,
+      "height": 480
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2820,
+    "plot": "As Hank's investigation tightens around Gus, Walt scrambles to protect his family, forcing Skyler into hard choices while Jesse's loyalty is tested.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 50683
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1683087",
+    "title": "End Times",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWI4NjhhYWUtODlkNi00MzA1LThhMmUtNzM5OTdlMzQxNjExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2760,
+    "plot": "Under mounting pressure from Gus, Walt gambles on a bold move as a child's sudden illness shakes Jesse's loyalties, pushing both toward a perilous plan.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 38687
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt1683088",
+    "title": "Face Off",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGM4MGUwZjUtNWY4OC00NTMwLTk4NGQtNTE1MGEzMzhjYWMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 3134,
+      "height": 1909
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 3000,
+    "plot": "Backed into a corner by Gus as Hank's investigation tightens, Walt and Jesse stake everything on a dangerous plan that could change who holds the power.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 90422
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt2081647",
+    "title": "Live Free or Die",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjU3MDZiM2EtMzZlNS00YjZkLTljMTgtM2M1MjQzYWFmNTA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 2580,
+    "plot": "With law enforcement closing in, Walt and Jesse risk everything on a high-stakes plan to erase incriminating evidence, while Skyler faces widening consequences at home.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 39527
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2301457",
+    "title": "Madrigal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzQ0MGE2YzYtZGUyNC00NDJkLTg2YWUtYzE0OTQzMzQ1MDBkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 2820,
+    "plot": "DEA scrutiny reaches Madrigal Electromotive as Walt and Jesse plan their next move, and Mike weighs whether to get back in.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 34733
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2301459",
+    "title": "Hazard Pay",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTIxMjg5N2YtNWExZS00YTVjLWJmMDAtZmRhMTJmYzVmMzlmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1964,
+      "height": 1038
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 2820,
+    "plot": "With their business reborn, Walt, Jesse, and Mike adopt a covert traveling lab, but new rules and mounting home pressures strain their uneasy alliance.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 34110
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt2301461",
+    "title": "Fifty-One",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjBjODAwODYtMTVlZC00ODgwLWJiNjMtMTEzZGZjMDFlM2NiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 2820,
+    "plot": "As Walter embraces his growing power, tensions at home reach a breaking point. Meanwhile, Skyler takes drastic action, and the DEA's investigation gains momentum.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 34339
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt2301463",
+    "title": "Dead Freight",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTgxNjBiMjYtN2Q4YS00Y2NmLWFiYWYtNDYyODBhMDk3ODk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 2880,
+    "plot": "Walter, Jesse, and Mike plot a risky heist to secure a crucial supply. Meanwhile, tensions rise within the group as unexpected complications threaten their plan.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 49767
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt2301465",
+    "title": "Buyout",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA3MDkyNjQ1NF5BMl5BanBnXkFtZTcwOTg4MzAzOA@@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 2820,
+    "plot": "Walter faces backlash after the heist, forcing him to make a bold move. Meanwhile, Jesse struggles with the fallout, and Mike looks for a way out.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 35077
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2301467",
+    "title": "Say My Name",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg2ODc4NjczOF5BMl5BanBnXkFtZTcwNTM1MjQzOA@@._V1_.jpg",
+      "width": 2048,
+      "height": 1366
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 2820,
+    "plot": "Walter asserts his dominance as tensions within the group reach a breaking point. Meanwhile, Jesse makes a difficult choice, and Mike takes drastic action to secure his future.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 46417
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2301469",
+    "title": "Gliding Over All",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgzOTMzMTY1MV5BMl5BanBnXkFtZTcwNjMyMjM0OA@@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 2820,
+    "plot": "Walter moves to consolidate his power, but unexpected challenges threaten his empire. Meanwhile, Hank stumbles upon a revelation that changes everything.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 43744
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2301471",
+    "title": "Blood Money",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWEzYzUwNzAtY2E4ZC00NTUyLTk3YTItZDlhZTBhNTcyMTc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1076
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 2820,
+    "plot": "Hank grapples with a shocking discovery, forcing Walter to act quickly. Meanwhile, Jesse struggles with his conscience, leading him down a dangerous path.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 41660
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt2301443",
+    "title": "Buried",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzJlZGVlYzItMzVmNy00ZTE5LTgwN2EtYTJjNjA3NDJiMWVlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1076
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 2820,
+    "plot": "Walter scrambles to protect his secrets as Hank intensifies his pursuit. Meanwhile, Skyler is caught between loyalty and survival, and Jesse's downward spiral takes a dramatic turn.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 37625
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt2301445",
+    "title": "Confessions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU2NzAwNTQ1Ml5BMl5BanBnXkFtZTgwMTIxMDgxMDE@._V1_.jpg",
+      "width": 2048,
+      "height": 1369
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 2820,
+    "plot": "Walter takes drastic measures to protect himself as Hank closes in. Meanwhile, Jesse struggles with a painful realization that could change everything.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 45308
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt2301447",
+    "title": "Rabid Dog",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA1NTI4ODk4Nl5BMl5BanBnXkFtZTgwMTQ5OTcxMDE@._V1_.jpg",
+      "width": 2048,
+      "height": 1369
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 2820,
+    "plot": "Walter scrambles to contain a volatile situation as Jesse reaches a breaking point. Meanwhile, Skyler is forced to make a difficult choice.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 39224
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2301449",
+    "title": "To'hajiilee",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmY3MTgyZjctMDhjZi00YTJjLTg3YjItNGZiYzkxNGJjZjVjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1590,
+      "height": 1080
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 2760,
+    "plot": "Walter makes a desperate move to stay ahead, but his past choices come back to haunt him. Meanwhile, Jesse sets a trap that could change everything.",
+    "rating": {
+      "aggregateRating": 9.8,
+      "voteCount": 67135
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2301451",
+    "title": "Ozymandias",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2UwODZlZTktZTNlMC00YzVkLThhNWUtMjNmYzc0NWNiZDc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1916,
+      "height": 1076
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "runtimeSeconds": 2820,
+    "plot": "Walter faces the devastating consequences of his actions as his world unravels. Meanwhile, Jesse's fate takes a dark turn, and the fallout threatens everyone he cares about.",
+    "rating": {
+      "aggregateRating": 10,
+      "voteCount": 261252
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2301453",
+    "title": "Granite State",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmRjZWIzOTQtNmNiNS00ZWNhLWFkZTktOWQ2OGYxOTliMzJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 760,
+      "height": 535
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "runtimeSeconds": 3180,
+    "plot": "Walter goes into hiding as his empire crumbles, forcing him to confront his isolation. Meanwhile, Jesse faces a grim reality, and those left behind struggle to pick up the pieces.",
+    "rating": {
+      "aggregateRating": 9.7,
+      "voteCount": 65637
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2301455",
+    "title": "Felina",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTAwMTQzNl5BMl5BanBnXkFtZTgwMDQxMjUzMDE@._V1_.jpg",
+      "width": 2048,
+      "height": 1363
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "runtimeSeconds": 3300,
+    "plot": "Walter returns to Albuquerque to tie up loose ends, setting the stage for a final confrontation. Meanwhile, Jesse fights for his freedom as everything comes to a dramatic conclusion.",
+    "rating": {
+      "aggregateRating": 9.9,
+      "voteCount": 166309
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 29
+    }
+  }
+]

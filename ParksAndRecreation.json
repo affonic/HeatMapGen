@@ -1,0 +1,2730 @@
+[
+  {
+    "id": "tt1363447",
+    "title": "Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2RkYmUxYzEtZWJlOS00MjhiLWE1MzAtOGE5MzE5MDgzYzVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 945
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "In an attempt to beautify her town, Leslie Knope takes on the seemingly simple job of helping turn an abandoned construction pit into a park.",
+    "rating": {
+      "aggregateRating": 6.9,
+      "voteCount": 4448
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt1366779",
+    "title": "Canvassing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmVlNDFmMzAtN2E2NS00Mzc5LWJhMDEtMmFiNmIwYjY5ZGIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie gets a town hall meeting to discuss her park idea, but she finds out that public reception is less than receptive.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 3812
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt1366780",
+    "title": "The Reporter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGY4NjRiNjItNTRhZi00NjAwLTkyNjQtNTliYzJlNjI1YWMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie gets a newspaper reporter to do a story about her and the park idea, but becomes upset when she finds out that the reporter slept with Mark.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 3568
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt1366781",
+    "title": "Boys' Club",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2M1ODg3YWItNjVkZC00ZGRmLWE4NmYtODJmZjJmN2ExN2UwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie tries to infiltrate the boys' club of politics by crashing an after-work gathering at the town hall. Trying to fit in, she opens a gift basket breaking the local government ethics, and then is called before an ethics committee.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 3465
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt1366782",
+    "title": "The Banquet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDgyYTlhNWQtZDE3OS00ZThlLWIwMDgtYzg1MmIyMzkxMTdhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "At a banquet honouring her mother, Leslie tries to convince a local zoning official to support her park project. But sensing resistance, Lesie resorts to blackmail. Meanwhile, Tom and Mark ditch the festivities to hit the bars.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 3342
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt1366783",
+    "title": "Rock Show",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDAwNzIwZTktNjAzZS00YzM2LWIyMjktNWUyYjUwNDkyM2M1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie doesn't realize that a dinner with a much older man from the zoning commission is actually a date set up by her mom. Andy gets his cast taken off, but Ann gets mad when she finds out it could have been off two weeks ago.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3376
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 5,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1467703",
+    "title": "Pawnee Zoo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjBjZjllYzMtOTM2MC00ZWI4LWJiMGEtYjcxMGYwNjhkODExXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie becomes a political lightning rod when the penguin wedding she sets up at the Pawnee Zoo turns out to be for two male penguins.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3501
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1490874",
+    "title": "The Stakeout",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODk4ZDhkYzctNzc1ZC00MGMyLWFmOWItYmM1MjY4NmQ5NmI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie sets up a stakeout with Tom to find out who's growing marijuana in the community garden she set up in the pit, but it also gives her an opportunity to scout out Ann and Mark's first date.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3338
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1490293",
+    "title": "Beauty Pageant",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0NjgyOTY1OV5BMl5BanBnXkFtZTcwMjMzNTc4Mg@@._V1_.jpg",
+      "width": 360,
+      "height": 540
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie serves as a judge in the Miss Pawnee Beauty Pageant but is disappointed with the results, and Ann finds out that her ex-boyfriend Andy is living in the pit.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3207
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt1504600",
+    "title": "Practice Date",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzAwODNjOTUtNTMyNC00M2VlLTg2Y2EtYWM1MjcwNjljYWMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Ann helps a nervous Leslie get ready for her first date with Dave by giving her a \"practice date,\" while everybody else at the office tries to dig up the juiciest dirt on each other.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3276
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt1504148",
+    "title": "Sister City",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTBmOGNiNDItMDZhOS00ZGFhLTg1MDYtZmYwZmQ1ZjYwMzNjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie welcomes a delegation from Pawnee's sister city in Venezuela, whose goal is to humiliate their hosts.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3442
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt1509675",
+    "title": "Kaboom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDgwNWI0ZDMtNGYyYy00ZTZjLWIxOWEtNjliYzQ4MDgzMjEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Andy is injured when Leslie goes out on her own to fill the hole, and he decides to sue Pawnee as a result.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3027
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt1523800",
+    "title": "Greg Pikitis",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk1NzcxNTMzNF5BMl5BanBnXkFtZTcwMjY4NzQ5Mg@@._V1_.jpg",
+      "width": 400,
+      "height": 600
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie tries to stop a high school punk who vandalizes the park every Halloween, but will he get the last laugh? Meanwhile, Ann's Halloween party is a bore until Tom saves the day.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3283
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1531526",
+    "title": "Ron and Tammy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTBjM2VlYWMtMTNlNS00ZDMwLTk3ODMtOGZlYzI5NDJhNWE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Ron's ex-wife uses sex to manipulate Ron and get Leslie's vacant lot to build a library, while Leslie gets Andy a job in the building as a shoe-shine man.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3288
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 11,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1536813",
+    "title": "The Camel",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDUzMWM2YmYtY2Q1OC00YjkyLWJiOTktOWZhMTZkODczM2Q0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "After one of the murals in City Hall is defaced, Leslie and the Parks Department compete to come up with a new design. Meanwhile, Andy and Ron share an uncomfortable moment at the shoeshine stand.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2984
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 11,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1539432",
+    "title": "Hunting Trip",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzg1NmFkZGQtMTgxNS00NWUzLWI1MDYtNTYxMzkwYjQ3OWNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie tries to prove she can hang with the guys so she invites herself on Ron's annual hunting trip, but things don't go as planned. Meanwhile, April and Andy bond in the office while everyone is away.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3574
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1541365",
+    "title": "Tom's Divorce",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODE0YWZkYTgtN2M1ZS00OWI2LWJlNzMtMWVjY2UzNTZkZmNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie accidentally finds out that Tom is getting a divorce and tries to lift his spirits by sending him to dinner and a strip club, but Tom doesn't tell her that it was just a sham Green Card marriage.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2911
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 12,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt1545370",
+    "title": "Christmas Scandal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg5MTcyMzc0Nl5BMl5BanBnXkFtZTcwNzE2MjUwMw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie is falsely accused of having sexual relations with a sleazy Pawnee councilman. Meanwhile, the rest of the office takes on Leslie's work while she deals with the scandal, and officer Dave has more surprising news for Leslie.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2942
+    },
+    "releaseDate": {
+      "year": 2009,
+      "month": 12,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1559848",
+    "title": "The Set Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjEzNjU3NTcwNV5BMl5BanBnXkFtZTcwNzY4OTExMw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "Ann sets Leslie up on a blind date with a rude MRI technician, and Mark becomes jealous because he thinks Ann is saving another prospect for Leslie for herself. Meanwhile, Tom helps Ron find an assistant.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2951
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 1,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1559849",
+    "title": "Leslie's House",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc3MzMyNDQzNl5BMl5BanBnXkFtZTcwMTMzOTMxMw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1260,
+    "plot": "Did Leslie abuse her power by bringing in community center teachers to her house to help throw a dinner party to impress her new suitor?",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2870
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1559850",
+    "title": "Sweetums",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2I3NGQ0ZDgtMmI0Yy00MDU0LWIxY2YtN2I2NWU5MTk3YzBkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie and Ron become adversaries when a dishonest candy company vies for a concessions contract, while everybody else in the department reluctantly helps Tom move out of his house.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2826
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1559851",
+    "title": "Galentine's Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTkwNzdjNTgtZTNmZC00ZTU5LWJjN2YtYTBhNjA2NDEyYzI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie and Justin try to reunite Leslie's Mom with an old flame for Valentine's Day, only to discover he's a total loon. And Justin's rude behavior during the entire episode causes Leslie to look at him in a new light.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2831
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 2,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1559852",
+    "title": "Woman of the Year",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmM0ODliMWUtOGE5YS00NzYxLTliODgtN2I4NWFmZmVhZGIxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie is upset when Ron wins a coveted \"Woman of the Year\" award, Tom looks for investors for a new night club, and Andy considers moving into his own place.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2812
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt1559853",
+    "title": "The Possum",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDkzN2FjZDItMDJkYi00ZDdlLTgyYTItZTQ5NmM0OTQ3MTc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie puts together a task force at the mayor's request to catch a possum at the golf course, while Mark forces Ron to get his personal building up to code.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2822
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt1559854",
+    "title": "Park Safety",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGU4NGI5YmItYmQ3Ni00ODg4LTljZTQtYzNlNTM3ZjUxYzY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie goes on a crusade to improve park safety after Jerry is mugged, which is later discovered to be a lie. Meanwhile, Ron tries to teach the office self-defense, but winds up injuring Andy instead.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2917
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt1559855",
+    "title": "Summer Catalog",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTJjY2U0MDUtYjVjNi00YjVlLWEzZjEtYTA4MjczMTA3NmEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1260,
+    "plot": "Preparing the Summer Events Catalog, Leslie decides to take Ron and the past directors of the Parks Department out for a picnic lunch. Tom enlists the help of Ann and Mark to pose for the cover photo.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2761
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt1559856",
+    "title": "94 Meetings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmQ1YWJhMzMtOWU5NS00MGEwLThlNDEtODFkMDVjNDgzMDYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1800,
+    "plot": "Leslie goes all out to save a gazebo at a mansion on the historical register from being destroyed, while April gets in trouble with Ron when she accidentally schedules 93 meetings for him on the same day.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2991
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt1559857",
+    "title": "Telethon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmRhZjZlYWEtNzlkOS00ZGU2LWE0N2QtNjc4NDk0NjU2MDRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie struggles to stay awake and fill the overnight hours at a local telethon when Tom and celebrity guest Detlef Schrempf are sidetracked at a nightclub, and the answer to her problems could be a surprise marriage proposal.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2883
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt1587572",
+    "title": "The Master Plan",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjFjOGFkYjItNmRkZS00OTdlLWExZDItMWQ5ZmUzYWI3ZGNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 23,
+    "runtimeSeconds": 1260,
+    "plot": "Everyone is excited about celebrating April's 21st birthday except Leslie, who is preoccupied with the prospect of her budget being cut by the state auditor's office.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2951
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt1587573",
+    "title": "Freddy Spaghetti",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWJiYTBmZTctODk2OS00ZmZjLTgxZjQtYTQ1MGMzZDliYjBlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "2",
+    "episodeNumber": 24,
+    "runtimeSeconds": 1260,
+    "plot": "The government is shut down and the parks are closed, but Leslie tries to skirt the rules to hold a children's concert in the vacant lot. Meanwhile, will April's jealousy of Ann keep her from getting together with Andy?",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2982
+    },
+    "releaseDate": {
+      "year": 2010,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1636224",
+    "title": "Go Big or Go Home",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWQyNzljZGEtNmVjYi00NTQ3LTk2YWUtYWRmNzJjMjU0NGJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie encourages Ann to go on a date with Chris so that she can ask for money for Leslie's department, while Ron, Andy, and Tom put together a two-team youth basketball league.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2850
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt1636235",
+    "title": "Flu Season",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjc0ZDI5YzEtNDEwYS00N2M5LWFkY2QtNDRlZTFhZGVhNWZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie gets the flu right before an important fund-raising pitch for the Harvest Festival, Chris tries frantically to avoid catching the bug, and Ron hires Andy to replace April while she is out.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3607
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt1636239",
+    "title": "Time Capsule",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NTU3OTU2OV5BMl5BanBnXkFtZTcwODU3MTUzNA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "A crackpot handcuffs himself to a pipe in Leslie's office and demands that \"Twilight\" be placed in the Pawnee Time Capsule, and Chris tries to help Andy woo April in spite of Ann's reservations.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2808
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt1636240",
+    "title": "Ron & Tammy 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUzMTEwMTE5Ml5BMl5BanBnXkFtZTcwMjQwODU0NA@@._V1_.jpg",
+      "width": 400,
+      "height": 600
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "After Ron breaks up with Tom's ex-wife, he decides to get back together with his Tammy, much to everyone's horror. Meanwhile, Leslie and Ben try to get the local police to donate their services to the upcoming Harvest Festival.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3047
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt1636241",
+    "title": "Media Blitz",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg3ODQ4NzU3OV5BMl5BanBnXkFtZTcwNTQ5Nzk0NA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie hits the Pawnee media circuit to promote the Harvest Festival, but Ben freaks out on air when his past is exposed. Meanwhile, April threatens Andy that she'll leave for Indianapolis unless he does her chores.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2753
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1636242",
+    "title": "Indianapolis",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgzOWZjMzMtM2IzOC00ZjZkLWEzZTctNWRmODVlYjlhZWQ3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie and Ron go to Indianapolis to receive a commendation from the state. While there, Ron finds out his favorite steak house is closed and Leslie thinks Chris is cheating on Ann. Meanwhile, Tom throws a party for a fragrance designer.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2733
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1636243",
+    "title": "Harvest Festival",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzU3YWI4MTAtNzc0Ni00Yjg2LWJhOTUtNmI4NWFlMTQxNDQyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "On the day before the Harvest Festival, a local Native American leader places a \"curse\" on the event because Leslie refuses to give in to his demands.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3122
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt1636244",
+    "title": "Camping",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmVkMmJjM2EtMTg1Yy00YjVkLWEyMTgtMzkxZGU1ZWEzMGE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie sets up a camping trip to brainstorm for new ideas, but she's the one who surprisingly can't come up with anything. Meanwhile, Chris returns to Pawnee as temporary city manager, causing further confusion for Ann.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2747
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt1636245",
+    "title": "Andy and April's Fancy Party",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWM0Y2U5OWMtZTM2MC00NmFiLWE2YzktZWFjN2IxNTRlNmQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Andy and April's party turns into a surprise wedding, but Leslie does not approve. Meanwhile, Ben debates whether to stay in Pawnee, and Donna gives Ann advice at a singles mixer.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3492
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt1636225",
+    "title": "Soulmates",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmM4NmY4NTAtNWQ1ZS00NWY5LTk2MmQtNDAzMmIzNDhmNmRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie is matched up with Tom on an Internet dating website, while Chris and Ron compete in a hamburger cook-off.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2891
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt1636226",
+    "title": "Jerry's Painting",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDgyYmUxMjktNzhmZC00YmIxLTkyNGQtYjdhNDU0NThkMGQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Chris deals with community uproar over Jerry's new painting, which features a nude Leslie, and Ben tries to help teach Andy and April responsibility after he moves in with them.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2910
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt1636227",
+    "title": "Eagleton",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTdhYmQ3ODEtNDljMi00MDM0LWI0ZjQtNmQxMWY1ZGFjYzQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie is forced to deal with a former beloved colleague-turned bitter enemy when a neighboring town separates a shared park with a fence. Meanwhile, Ron fears the worst when Leslie finds out about his birthday.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2759
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt1636228",
+    "title": "The Fight",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTRlODBlMTctNWIzYi00ZTVkLWE5YTItNmI0ZjAzNTQ3NTc5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "While Tom invites everyone to the Snakehole as he debuts a new drink, Leslie encourages Ann to apply for a job with the city. However, at the nightclub, Leslie and Ann get into a fight over their dating habits.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 3499
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1636229",
+    "title": "Road Trip",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTAwZGY2MDUtMmY2Zi00OTVjLThhMzUtNTU4NjdlOTMzODdiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1260,
+    "plot": "The romantic tension between Leslie and Ben reaches dangerous levels when they take a work-related road trip to Indianapolis, Tom's \"game show\" creates tension between Andy and April, and Ron teaches government to a nine year old.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2919
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt1636230",
+    "title": "The Bubble",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTc4YWUyOGQtZjZkNC00OTU5LWFkOTEtOWFkMzJjYmVhN2M2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie's mom makes a pass at Ben, not knowing that he and Leslie are dating. Meanwhile, Chris makes radical changes in the office, and nobody is happy with them.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2652
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1636231",
+    "title": "Li'l Sebastian",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGEwNjljMzItOTFlYy00M2FiLTk1YWMtM2E4YzQ3Mzg0Mjc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1260,
+    "plot": "While the department sets up a memorial service for Li'l Sebastian, Ron finds out about Leslie and Ben, Tom considers taking a job in the private sector, and Chris deals with his own mortality after he discovers that he has tendinitis.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 3126
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 5,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt1986601",
+    "title": "I'm Leslie Knope",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmQ4MmIwMGMtZTA5Yy00NGMzLThkODQtZTk5NGVmNzMyYWU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie decides to run for political office, which means that she has to break up with Ben. Meanwhile, Ron goes into hiding from Tammy 1, and Tom tries to recruit Andy for his latest business venture.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2670
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt2015058",
+    "title": "Ron and Tammys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWRmMzY1NzAtZDQ1ZC00MTE1LTk4ZDgtODM2YjVjYmY3N2E1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Ron becomes a wimp after he and Tammy 1 get back together and Leslie tries to save him, Ben discovers that Tom's business is hemorrhaging money, and Ann has a frustrating experience shooting a diabetes PSA with Chris.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2922
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt2040001",
+    "title": "Born and Raised",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDM4NDg4M15BMl5BanBnXkFtZTcwODk3NDg4Ng@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie is accused of not being born in Pawnee while she is trying to promote her new book about the city. Meanwhile, Ann tries in vain to have a five-minute conversation with Ron and April.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2611
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt2041051",
+    "title": "Pawnee Rangers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmViYWVkNzctMDdiNS00NTAzLWJhYjctZTllZGUyYzQ3MjM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Ron's Pawnee Rangers and Leslie's competing scout group, the Pawnee Goddesses, share a weekend in the wilderness, Ben joins Tom and Donna on \"Treat Yo Self Day,\" and Chris takes an interest in Jerry's daughter.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2848
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt2087381",
+    "title": "Meet 'N' Greet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzA1MzMxODY0NF5BMl5BanBnXkFtZTcwMzUwMDc5Ng@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie's opportunity to stump for votes in the business community is sabotaged by Tom, who wants to promote Entertainment 7Twenty. Meanwhile, Andy and April throw a Halloween party, but don't give Ben advance notice.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2554
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt2088449",
+    "title": "End of the World",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWM2ZWQzZDQtZDA4ZS00YWUzLWEzODEtMzBkMWRhNzNiYmE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1620,
+    "plot": "A cult predicting the end of the world reserves a park, Leslie becomes jealous when another woman takes interest in Ben, Tom throws a huge party for the closing of Entertainment 7Twenty, and Andy and April try to do something stupid.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2911
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt2089306",
+    "title": "The Treaty",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMzZmIxNDAtMWU3ZS00OTAwLWFjNjgtODBiNmE0YWIwMjc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1354,
+      "height": 639
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie and Ben argue over their relationship and ruin the high school Model U.N. they are hosting, Chris wonders where his relationship with Jerry's daughter is going wrong, and Ron tries to get Tom to take back his old job.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2604
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt2095350",
+    "title": "Smallest Park",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjE2OTM4NzQ3OV5BMl5BanBnXkFtZTcwMTM5NTMwNw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie tries to manipulate a new park project to extend her working relationship with Ben, Tom and Jerry work together to create a new department logo, and Andy tries to find the right college course to sign up for.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2572
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt2108220",
+    "title": "The Trial of Leslie Knope",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOGI1ODkyYWQtNWM5OC00MTg5LWFkNjMtMmY4Nzg5OGRhYWNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Chris brings Leslie up on ethics charges for her relationship with Ben.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2674
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 12,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2113422",
+    "title": "Citizen Knope",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYxNDM2MDY0M15BMl5BanBnXkFtZTcwODI0MDQxNw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie tries to keep herself busy during her suspension from the department, but gets some bad news about her campaign. Meanwhile, Ben searches for a job in the private sector, and the office makes the perfect Christmas gift for Leslie.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2607
+    },
+    "releaseDate": {
+      "year": 2011,
+      "month": 12,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2143605",
+    "title": "The Comeback Kid",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY1MzMyNTgyNV5BMl5BanBnXkFtZTcwNjY4NjUyNw@@._V1_.jpg",
+      "width": 400,
+      "height": 600
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie appoints Ann as her new campaign manager, but her attempt to relaunch the campaign goes off to a horrendous start, while Chris discovers that Ben is depressed after leaving his job.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2936
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt2156103",
+    "title": "Campaign Ad",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmE3ODEyM2EtMWZmYy00YzhhLTkyNDYtOWI1NjM1ZGMyY2JiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie tries to keep Ben from making a negative campaign ad against a popular new candidate, Andy takes a visit to the doctor, and Ron becomes uncomfortable when Chris suddenly starts trying to hang out with him.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2549
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2164475",
+    "title": "Bowling for Votes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEwNDYwMTM4MjleQTJeQWpwZ15BbWU3MDE2ODY1Mjc@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie unsuccessfully tries to win over a focus group member who made a negative comment by going bowling with him, and Chris gets some bad relationship news while calling for campaign donations.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2667
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2183551",
+    "title": "Operation Ann",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjMxOTQ5NTY4N15BMl5BanBnXkFtZTcwNzE4MDUzNw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1260,
+    "plot": "Ann's friends try to set her up on a date for Valentine's Day, while Ron and Andy try to help Ben solve Leslie's series of complicated riddles to reveal the location of their Valentine's Day date.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2509
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2201899",
+    "title": "Dave Returns",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg2OTIzNDE1Ml5BMl5BanBnXkFtZTcwMzU0MTE0Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1260,
+    "plot": "While Leslie tries to get an endorsement from the police chief, Dave returns to tell Leslie that he's still in love with her. Meanwhile, Andy tries to put together a campaign theme song.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2432
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt2213145",
+    "title": "Sweet Sixteen",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDMwODdjMjktMzM2MS00N2FhLWFkYjgtNGFmOTk3OWY4ZDRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie's attempts to balance her campaign with her job results in major blunders on both fronts, Chris becomes attached to Andy's dog Champion, and April gets fed up with Tom and Ann coming to her for relationship advice.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2401
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt2230337",
+    "title": "Campaign Shake-Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODM0NjgzOTE0MV5BMl5BanBnXkFtZTcwMzI5MjQ0Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie and Ben have their work cut out for them when Bobby Newport hires a Washington professional as his campaign manager, while Ron gets the department to tackle a project in Leslie's absence to get Chris off his back.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2385
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt2235069",
+    "title": "Lucky",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQwMjg1MDA2OF5BMl5BanBnXkFtZTcwMzEyMjg0Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie's campaign could be in big trouble when she records a TV interview after a couple of drinks. Meanwhile, April tries to set Chris up with Andy's women's studies professor, but things go unexpectedly.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2398
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2235067",
+    "title": "Live Ammo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDY4NjUyNF5BMl5BanBnXkFtZTcwNzAxMjk2Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie could pay a steep political price for saving the Parks Department budget from getting cut, and Chris considers Ron for a promotion--which could actually be short-lived.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2367
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt2235071",
+    "title": "The Debate",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDRmZWZlODYtZmNlOS00YjFhLTgwMmYtYjY2M2I4MWY1NmIxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1366,
+      "height": 768
+    },
+    "season": "4",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1260,
+    "plot": "The candidates debate on television; Chris, Anne, and Tom act as Leslie's \"spin team\" for the media. Meanwhile, Ron, April, Donna, and Andy throw a party for Leslie's campaign supporters, but experience a few set backs in the process.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 2783
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt2235065",
+    "title": "Bus Tour",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM2MjM5MTM1M15BMl5BanBnXkFtZTcwNjMyMjI3Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie's campaign momentum is halted when Bobby Newport's dad dies a couple of days before the election, and Andy tries to figure out who tried to throw a pie at Leslie on the campaign trail.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2456
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt2235063",
+    "title": "Win, Lose or Draw",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ3MDY2MTc0MV5BMl5BanBnXkFtZTcwMzYyMjI3Nw@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "4",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1320,
+    "plot": "It's election day for Leslie, and Ben is contemplating an offer to help work on a campaign in Washington. Meanwhile, Andy tries to help April rescue the files she deleted from the Parks Department computers.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 2954
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt2337844",
+    "title": "Ms. Knope Goes to Washington",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjIyMTQ1NjYtZDEwNy00MDJhLWJiODEtY2ZjZjk2Y2U3M2E2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie and Andy go to Washington on business--and to see Ben and April. Back in Pawnee, Ron is in charge of the employee barbecue, and Tom and Ann pretend to still be together.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2451
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt2372202",
+    "title": "Soda Tax",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM2MjQ0MjQyNV5BMl5BanBnXkFtZTcwMTQyNTQ1OA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie faces threats and backlash if she votes in favor of a \"soda tax,\" Ben tries to suck up to his interns after he discovers that they're politically connected, and Andy's efforts to get in shape send Chris into a depression.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2410
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt2387570",
+    "title": "How a Bill Becomes a Law",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcxNDc3NjYyMF5BMl5BanBnXkFtZTcwNTI4OTE2OA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie is forced to make a sacrifice to assure passage of a bill, Ron meets a single woman while fixing a pothole, and Ben and April are stuck in a parking lot and can't make it back to Pawnee.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2387
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt2368492",
+    "title": "Sex Education",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDdjYTc3YTMtNjBkZi00ZDg0LTkyYTEtZDRlM2E1Y2JlZjMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie gets in trouble with her initiative to teach safe sex to senior citizens, Ron tries to help Tom overcome his addiction to social media, and Ben and April suspect that the candidate they work for is a robot.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2427
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt2414120",
+    "title": "Halloween Surprise",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTQxNTAwNTcyNl5BMl5BanBnXkFtZTcwMjk1NDg2OA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie's future with Ben is on hold after he gets a new job offer, Leslie and Ann give Jerry a heart attack, and Ron's new relationship is in jeopardy because of his girlfriend's kids.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2681
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt2414122",
+    "title": "Ben's Parents",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjM0YWMyZDctNGYyNi00Y2ViLTg3ZTAtOTZmNGU1MTkzNzllXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Ben's parents ruin Leslie and Ben's engagement party, Chris becomes sad over their engagement, and Tom prepares a new business pitch for Ron.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2352
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 11,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt2415146",
+    "title": "Leslie vs. April",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA3NDEzOTI4MV5BMl5BanBnXkFtZTcwNjU1NDg2OA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie and April clash over a proposed dog park, Ben receives a slew of job offers, and Andy uses his detective skills to find out who stole his computer.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2331
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 11,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt2459040",
+    "title": "Pawnee Commons",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWM5ZjhiY2EtMmFlNC00NGYwLThiMGQtMmRlNGFlZGJiNjYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie wants to reject a great park idea just because the designer comes from Eagleton, Tom begins his new business venture with a new fiscal approach, and Andy and April find a way to make Andy's new security job more exciting.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2300
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 11,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt2466936",
+    "title": "Ron and Diane",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA5OTAwOTk1MzZeQTJeQWpwZ15BbWU3MDYwMTYyODg@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Tammy shows up at an awards ceremony to sabotage Ron's new relationship, and four of Jerry's co-workers are shocked that he's throwing a Christmas party without them.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 2980
+    },
+    "releaseDate": {
+      "year": 2012,
+      "month": 12,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt2629728",
+    "title": "Two Parties",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjM1NTc2Mjc0MF5BMl5BanBnXkFtZTcwMTAxNjY5OA@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie's bachelorette party is ruined after councilman Jamm backs out of a promise, and Chris throws Ben a bachelor party that everyone will remember.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 2880
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt2570016",
+    "title": "Women in Garbage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjA2MTkxMTY1NF5BMl5BanBnXkFtZTcwNDkwNjY5OA@@._V1_.jpg",
+      "width": 600,
+      "height": 399
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie and April volunteer to work on a garbage truck to fight sexism in city government, Ron has a frightening experience babysitting Diane's girls, and Andy and Ben try to teach basketball to Tom.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2358
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 1,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt2639376",
+    "title": "Ann's Decision",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUyOTAzMzg0OF5BMl5BanBnXkFtZTcwMDMxNjYwOQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "Ann wants to find a sperm donor, Chris, Ron, and Tom help Ben find a wedding caterer, and April replaces Leslie at a public hearing about a new park.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2275
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt2658686",
+    "title": "Emergency Response",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTAwOTEyMDcyMTVeQTJeQWpwZ15BbWU3MDk1MDY2MDk@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "The department has to put together an last-minute fund-raising gala for the new park without Leslie, who has been called away on an emergency disaster drill. Meanwhile, Andy takes his police officer exam.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2437
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2699702",
+    "title": "Leslie and Ben",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA5NjkxNTQ1MjleQTJeQWpwZ15BbWU3MDg2NjE1MTk@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1320,
+    "plot": "The clock is ticking -- Leslie and Ben have two hours to complete a years-long project. Meanwhile, Ron gets in trouble when his temper gets the best of him.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 3300
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2629240",
+    "title": "Correspondents' Lunch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg0ODAzMjgyM15BMl5BanBnXkFtZTcwNTgwMDQxOQ@@._V1_.jpg",
+      "width": 600,
+      "height": 399
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie discovers that a newspaper reporter has hacked her e-mail account, Ben begins his new job, and Ann decides that she wants Chris to be her sperm donor.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2196
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt2649404",
+    "title": "Bailout",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTA0ODA2ODExODNeQTJeQWpwZ15BbWU3MDQ5MjQ0Mjk@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie devises a bailout plan for Ricky's Records, home to Pawnee's children's music scene. Meanwhile, Ron speaks out against her pro-government plans. Ann promises to write April's recommendation letter only if they become best friends.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2277
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt2747032",
+    "title": "Partridge",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWUzMmQ4OWMtYWM5OS00OTIyLWFkNzItNjdiOGI5OWFjZGFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 838
+    },
+    "season": "5",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1320,
+    "plot": "Ben and Leslie go to Ben's hometown in Minnesota so he can get the key to the city, an honor given to all former mayors of the town except Ben, councilman Jamm sues Ron for punching him, and Chris and Ann try to test their compatibility.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2173
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt2747036",
+    "title": "Animal Control",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTc3NTQwNzE4N15BMl5BanBnXkFtZTcwOTc1MTgzOQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie faces a roadblock while searching for a new head of Animal Control, Ann convinces Ron to go see a doctor, and Ben asks local fragrance mogul Dennis Feinstein for a charitable donation.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2267
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt2747038",
+    "title": "Article Two",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM5ODc3MjU5Ml5BMl5BanBnXkFtZTcwMTU0MjA0OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 399
+    },
+    "season": "5",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1320,
+    "plot": "A concerned citizen fights Leslie's efforts to remove some outdated Pawnee laws, and April and Ron are forced to take Chris's management training course.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2207
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt2795868",
+    "title": "Jerry's Retirement",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUzMjU1Mzg2OV5BMl5BanBnXkFtZTcwMzQ0MjA0OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie throws a last-minute retirement party for Jerry, Tom discovers that he's the new Jerry in the office, and Ann and Chris weigh their options for conception.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2207
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt2795870",
+    "title": "Swing Vote",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTM3OTE1MDEwMF5BMl5BanBnXkFtZTcwMzU2MjM0OQ@@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "5",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1320,
+    "plot": "After a bill to fund a local putt-putt course is introduced, Leslie and Ron compete for Jamm's swing vote. Meanwhile, Andy decides to retire from the band, and Ann tries to help Tom break up with Mona-Lisa.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2125
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt2759004",
+    "title": "Are You Better Off?",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzkwYmJhM2MtOTU5MC00OGQ5LThkNWMtZWMxYjdiNTYzODMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1916
+    },
+    "season": "5",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1320,
+    "plot": "A group of citizens organizes a Leslie Knope recall, Andy finds a positive pregnancy test outside Ron's cabin, and Tom considers a lucrative offer to sell Rent-a-Swag.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2252
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt2909126",
+    "title": "London: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ4NDk1NDY2OF5BMl5BanBnXkFtZTgwNjY5MjkyMDE@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1140,
+    "plot": "Ron gets married, Leslie goes to London to receive an award, Ben and Andy try to get a grant from a rich Englishman, and Tom discovers the identity of his new business rival.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 2547
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt3334072",
+    "title": "London: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MjI3NzctMTJlMy00MDFhLThmZmYtZGNkYmFlN2FjNTcyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Ron's honeymoon doesn't go as planned, Leslie gives an unpopular speech at her award ceremony, Andy considers a business proposal, and Tom attempts to compromise with his rival.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 2392
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt3186496",
+    "title": "The Pawnee-Eagleton Tip Off Classic",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDMyNjE5NzM1MF5BMl5BanBnXkFtZTgwNDM5MjkyMDE@._V1_.jpg",
+      "width": 600,
+      "height": 399
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie gloats instead of trying to help when she learns of Eagleton's budget crisis, Ron tries to get himself off the grid, and Ann takes April on a road trip to Bloomington.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2200
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3205444",
+    "title": "Doppelgängers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjc1MjNmM2MtOWI2Ny00MjQ5LThlYzUtMGU3ZWE5ODQxYzEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "While the parks department works side-by-side with their former Eagleton counterparts, Leslie is blindsided and heartbroken by the news that Ann and Chris are leaving Pawnee.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2289
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3248698",
+    "title": "Gin It Up!",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTJiNzA0MDAtNzkxZS00NTRlLWI0MjgtNWM1YmFiZTZmNzM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie and the department get caught in a overblown mini-scandal, Tom falls for a visiting doctor, and Ben tries to help Ron draw up a \"real\" will.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2144
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3189126",
+    "title": "Filibuster",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjk2ZDAzM2ItMzgyMy00NGViLWEwYWQtNWYyNmFlMTZkZTI2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie blows off Ben's birthday party to filibuster councilman Jamm's motion, Andy pays a surprise visit to April, Tom tries to win a stuffed bear for Nadia, and Ron gets frustrated by an arcade hunting game.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2206
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt3261934",
+    "title": "Recall Vote",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmJiZjBkY2YtOGFjMC00MTFjLWIzYjQtMGE5NDdlNmIxMDlmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie goes into a funk after she loses the recall election, the rest of the office sets up a Haunted House, and Tom turns to Ron and a local online trendsetter to help save Rent-a-Swag.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2112
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt3197812",
+    "title": "Fluoride",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE2Mjg1NzEwMl5BMl5BanBnXkFtZTgwMzk4NjU2MDE@._V1_.jpg",
+      "width": 600,
+      "height": 400
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie's new bold attitude as a lame duck costs Ben his job at Sweetums, Ron helps Chris build a crib, and the department tries to find the perfect dog that matches the personality for every Parks Department employee.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2154
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt3305414",
+    "title": "The Cones of Dunshire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU5ODQ0MzU5NF5BMl5BanBnXkFtZTgwNTA5NjU2MDE@._V1_.jpg",
+      "width": 400,
+      "height": 600
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Chris mediates one final skirmish between Leslie and councilman Jamm, Ben begins a new job as an accountant, and Ron lets Donna and Tom try to sell one of his cabins.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2228
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt3371312",
+    "title": "Second Chunce",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTc3NjA0NjQwOV5BMl5BanBnXkFtZTgwNTY3MTI5MDE@._V1_.jpg",
+      "width": 1000,
+      "height": 665
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie has a new opportunity to run for city council just as her term is ending, Tom comes up with a new business venture after selling Rent-a-Swag, and Chris and Ann decide to find out the sex of their baby.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2084
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt3429722",
+    "title": "New Beginnings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODk2YmJhYmItZDZmMy00YTQ1LTgxZTYtYTAyYjhlZDQyYWRhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie battles with Tom on her first day back with the Parks Department, the gang pranks Ben on his first day as City Manager, and Chris and Ann shop for a ring after their engagement.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2054
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt3442160",
+    "title": "Farmers Market",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzM4NDg5MDM5Ml5BMl5BanBnXkFtZTgwMzQ2NzIwMTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "A workplace dispute between Leslie and Ben interferes with their personal life, Andy gets a job playing at a child's birthday party, and Ann's complaints about Chris ruins the department's \"Whine and Cheese Club.\"",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2097
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt3460878",
+    "title": "Ann and Chris",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzQwODExNzY5MV5BMl5BanBnXkFtZTgwNjY2NzIwMTE@._V1_.jpg",
+      "width": 1000,
+      "height": 665
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "On Ann and Chris's last night in Pawnee, Leslie throws a grand farewell party and attempts to fulfill one last promise. Meanwhile, Tom, Ben, Ron, and Andy struggle to find the perfect going away gift for Chris.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 2733
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt3511740",
+    "title": "Anniversaries",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2Q3YjE1ZmItYzNlMy00MDQzLTk5ZmUtYWI4ZDc3YTJjYTA5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1320,
+    "plot": "Ben tries to surprise Leslie with an anniversary gift; Tom and Andy help Leslie put a positive spin on the merger; April flexes her authority as Donna's boss.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2095
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3479254",
+    "title": "The Wall",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjhjZmRhNDAtZjY0MS00ZmQ2LWI5ZDYtZGVmNzA3NDY1YzI4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 665
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie's efforts to take down the wall separating Eagleton and Pawnee yield unexpected results; Ben and Tom meet with possible sponsors for the concert; Ron finds a new hobby.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2009
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt3547114",
+    "title": "New Slogan",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQxZjM2ZmItOWIyNi00Nzk5LTk2MDEtNjRhNjUzMzRkY2NlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1320,
+    "plot": "A pair of radio shock jocks threaten to ruin Leslie's town slogan contest, April and Donna help Tom find a restaurant site, and Andy discovers Ron's alter-ego, Duke Silver.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 1997
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3571458",
+    "title": "Galentine's Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGI3YWI0YjMtMjgyZi00Mzk5LWJhNTYtZjkwZDJjZGZhOWNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "6",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie throws a hasty Galentine's Day in an attempt to find a replacement for Ann. Tom and Ben look to finalize a deal on tents for the Unity Concert, while Ron finds himself looking after Andy.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 1997
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3559602",
+    "title": "Prom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzlkNjg0NzItZGFjZi00Njc2LThiMzgtOTA5ZDBjMGI5MThkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 838
+    },
+    "season": "6",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1320,
+    "plot": "The Parks Department puts together the high school prom, and Ron tries to keep Leslie from bringing on a high school student as her summer intern.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2005
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3561964",
+    "title": "Flu Season 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjBkZjgxYjQtNTBhYy00NzM3LThkMmItY2JhMjY1YTc1NzIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 839
+    },
+    "season": "6",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie makes a shocking personal discovery while she and Andy try to get a headline act for the Unity Concert. Meanwhile, Ben is upset about his parents selling the beach house, and Tom gets a sommelier for his bistro.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2213
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3575408",
+    "title": "One in 8,000",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGYyMWYwNDktZGZmZi00NTE1LTgwNjktODM1ZWQ3MTBkMGE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie and Ben run a charity auction to raise funds for the unity concert. April steps in to manage Andy's schedule, while Donna asks Ron for help with her ex-boyfriend.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2032
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3575412",
+    "title": "Moving Up: Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTkyMThlNzMtYjJmNS00NWI3LWE2MzMtN2JjMGYxNDI5OWFhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 847
+    },
+    "season": "6",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie debates whether to take the job with the National Parks Service during a convention in San Francisco while Ben tries to get free wifi for Pawnee. Meanwhile in Pawnee, Tom decides to open his bistro early.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 2557
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3575414",
+    "title": "Moving Up: Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ1NDAyNDM4OF5BMl5BanBnXkFtZTgwNzY2MTU2MTE@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1320,
+    "plot": "During the Unity Concert, Leslie invites some coworkers to join her at her new job in Chicago, while Andy thinks about reuniting Mouse Rat. Meanwhile, Tom's Bistro prepares for the Unity Concert after-party.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 3367
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3609484",
+    "title": "2017",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjllYjdhNTEtMmEzYi00MzRlLWJhMTgtNzBiYjk2OTBhYmViXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie competes with a tech company for land, which she wants to turn into a national park.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 2398
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3784118",
+    "title": "Ron & Jammy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDgzMjEyMl5BMl5BanBnXkFtZTgwNzU0NDI5MzE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Leslie and Ron help councilman Jamm escape Tammy's evil clutches, April decides to pursue a new career, and Tom and Andy go to Chicago after Tom receives a message from one of his exes.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2311
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt3784616",
+    "title": "William Henry Harrison",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQwNzIxNjA5NF5BMl5BanBnXkFtZTgwMTc4ODgxNDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie tries to find a historical connection to enhance the National Parks Service's bid, while Ron's group counters with a celebrity investor.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2145
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3784778",
+    "title": "Leslie and Ron",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg2MjA1NDk3NF5BMl5BanBnXkFtZTgwNjk4ODgxNDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "The gang locks Leslie and Ron in the old Parks Department office overnight and force them to settle their differences and end their feud.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 4788
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt3785430",
+    "title": "Gryzzlbox",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTcyMjAwMTgzNl5BMl5BanBnXkFtZTgwOTI5ODgxNDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "Leslie and Ben think Gryzzl is illegally data-mining Pawnee residents, Tom helps Andy try to get the rights to his \"Johnny Karate\" TV character, and April encourages an intern to quit the Parks Department.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2129
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3785530",
+    "title": "Save JJ's",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUwMzAxMTg2OF5BMl5BanBnXkFtZTgwMjg5ODgxNDE@._V1_.jpg",
+      "width": 900,
+      "height": 599
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "In hope of keeping JJ's diner open, Leslie organizes a rally; Tom has a surprise gift for Donna.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2083
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt3785532",
+    "title": "Donna and Joe",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGExMjU2YzgtMGUzYy00YmEwLTllOWItYWVjNWRhMDFlOGMzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "On the night before Donna and Joe's wedding, Ben receives an offer to run for Congress and Ron causes a problem for Tom's new relationship.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2176
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3785534",
+    "title": "Ms. Ludgate-Dwyer Goes to Washington",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzUwMzEzOF5BMl5BanBnXkFtZTgwMjI5OTc0NDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "During a business trip to Washington, April tells Leslie that she wants to quit her job. Back in Pawnee, Andy, Ben and Ron may have found her the perfect new job.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 2134
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3785432",
+    "title": "Pie-Mary",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU1MzAzNzczM15BMl5BanBnXkFtZTgwNTQ5OTc0NDE@._V1_.jpg",
+      "width": 900,
+      "height": 600
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "A traditional pie-baking competition causes problems for Ben's campaign, Ron goes on a scavenger hunt to find one of his house keys that April lost, and Gary loses his wedding ring in a drain outside the building.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 2223
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3784782",
+    "title": "The Johnny Karate Super Awesome Musical Explosion Show",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjVlZmNhYTYtNjBhMC00YTc5LTk4YTEtYzRiNWQzZDVkMTNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 841
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "The last episode of Andy's TV show brings his friends together.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2975
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt3784620",
+    "title": "Two Funerals",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWNhNjA4NGUtYzNiOS00MzIzLTkxODgtMTcxM2ViZDM3MDUwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "7",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "Ben has to appoint a new mayor after mayor Gunderson dies, Ron grieves over the death of his barber, and Leslie helps Tom set up a predictably over-the-top marriage proposal.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 2270
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3748226",
+    "title": "One Last Ride",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0ODk0OTEzNV5BMl5BanBnXkFtZTgwMjQyMDg3NDM@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "7",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3600,
+    "plot": "As the team gathers one final time before they go their separate ways, we look 10 years into the future for each team member.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 5648
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 24
+    }
+  }
+]
