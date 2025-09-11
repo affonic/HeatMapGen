@@ -4,6 +4,7 @@ from matplotlib import colors
 from matplotlib.colors import LinearSegmentedColormap as lsc
 import json
 import numpy as np
+import math
 
 Shows = {
     "RickAndMorty" : "tt2861424",
@@ -17,7 +18,14 @@ Shows = {
     "ModernFamily" : "tt1442437",
     "SouthPark" : "tt0121955",
     "GameOfThrones" : "tt0944947",
-    "House" : "tt0412142"
+    "House" : "tt0412142",
+    "HIMYM" : "tt0460649",
+    "Friends" : "tt0108778",
+    "Brooklyn99" : "tt2467372",
+    "TheOffice" : "tt0386676",
+    "TheSopranos" : "tt0141842",
+    "TheWire" : "tt0306414",
+    "Bojack" : "tt3398228"
 }
 
 def fetch_imdb_data(show_name):
@@ -39,15 +47,19 @@ def fetch_imdb_data(show_name):
             break
         params["pageToken"] = next_page
 
-    with open(f"{show_name}.json", "w", encoding="utf-8") as f:
+    with open(f"show_data/{show_name}.json", "w", encoding="utf-8") as f:
         json.dump(all_episodes, f, indent=2, ensure_ascii=False)
 
     print(all_episodes)
 
-def generate_heatmap(show_name):
-    with open(f"{show_name}.json", "r") as file:
-        data = json.load(file)
-
+def generate_ratings_array(show_name):
+    try:
+        with open(f"show_data/{show_name}.json", "r") as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        fetch_imdb_data(show_name)
+        with open(f"show_data/{show_name}.json", "r") as file:
+            data = json.load(file)
 
     all_episodes = []
 
@@ -60,8 +72,7 @@ def generate_heatmap(show_name):
         all_episodes.append([int(season), int(epNum), rating])
     
     sorted_episodes = sorted(all_episodes, key=lambda ep: (ep[0], ep[1]))
-    print(sorted_episodes)
-    
+
     Ratings2D = []
     currSeasonNum = "1"
     currSeason = []
@@ -75,22 +86,41 @@ def generate_heatmap(show_name):
 
     maxEps = max(len(season) for season in Ratings2D)
     padded = [season + [np.nan]*(maxEps - len(season)) for season in Ratings2D]
-    Ratings2D = np.array(padded)
+    return np.array(padded)
+
+def subplot_gen(ax, Ratings2D, cmap):
 
     norm = colors.Normalize(vmin=0.4, vmax=1)
+
+    ax.imshow(Ratings2D, cmap=cmap, norm=norm, interpolation="nearest")
+    ax.axis("off")
+
+def generate_heat_map(shows): #shows is a list of show titles (as strings)
+
+    rows = math.floor(math.sqrt(len(shows)))
+    columns = math.ceil(len(shows) / rows)
+
     traffic_lights = lsc.from_list("traffic_lights", ["#2b0000", "red", "#FFD300", "green"])
 
-    plt.imshow(Ratings2D, cmap=traffic_lights, norm=norm, interpolation="nearest")
-    plt.title(f"{show_name}")
-    plt.show()
-    
-def new_heat_map(show_name):
-    fetch_imdb_data(show_name)
-    generate_heatmap(show_name)
+    fig, axes = plt.subplots(rows, columns)
+    fig.set_facecolor("white")
+    fig.suptitle("IMDB HeatMaps...", fontsize=50, fontfamily="Aerial", fontweight="bold")
 
-generate_heatmap("AOT")
-generate_heatmap("BreakingBad")
-generate_heatmap("Archer")
-generate_heatmap("RickAndMorty")
-generate_heatmap("ParksAndRecreation")
-new_heat_map("House")
+
+    axes_flat = axes.flat if rows * columns > 1 else [axes]
+
+    i = 0
+    for ax in axes_flat:
+        if i >= len(shows):
+            subplot_gen(ax, [[]], traffic_lights)
+            continue
+        subplot_gen(ax, generate_ratings_array(shows[i]), traffic_lights)
+        i+=1
+    
+    plt.show()
+
+shows_for_heatmap = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack",
+                     "RickAndMorty", "ParksAndRecreation", "House", 
+                     "RvB", "Simpsons", "ModernFamily", "GameOfThrones",
+                     "TheOffice", "Brooklyn99", "SouthPark", "TheSopranos", "TheWire"]
+generate_heat_map(shows_for_heatmap)

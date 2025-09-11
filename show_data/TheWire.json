@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "tt0749451",
+    "title": "The Target",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTgzOGM5YTUtZWE4MS00OTgwLTllZDctMTkwMTBmNzM1NzA3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1998,
+      "height": 1332
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3720,
+    "plot": "Baltimore detective Jimmy McNulty gets assigned to a new task force.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 9348
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0749448",
+    "title": "The Detail",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjFlMGRjZTAtOTg1OC00ODc4LWE5MzUtYTMwZmZmOTYyN2UyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3480,
+    "plot": "McNulty feels the heat when a witness who testified against D'Angelo is killed.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 7565
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt0749446",
+    "title": "The Buys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjliZjYxYzUtODk1Ni00MTgzLWI0YTYtOGYzYTMzMTk1OTIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3300,
+    "plot": "The early-morning 'field interviews' by Herc, Carver, and Prez result in a minor riot.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 7071
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt0749437",
+    "title": "Old Cases",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWU0ZWQ5ZDktNTA1Yy00NjUwLTliNzgtZGEyMmVkYmQ3NTgxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3540,
+    "plot": "McNulty and Greggs try to get Hardcase to turn informant as arraignment begins for those caught in the raid.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 6839
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt0749450",
+    "title": "The Pager",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTcwOTEzZWItZjE4OC00NzRhLWFmZDgtNGJhOTMzNmIwZGMyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3600,
+    "plot": "McNulty's detail finally gets 'clone' pagers to track Barksdale and his gang, but nobody can crack the codes used by the callers.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 6538
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt0749452",
+    "title": "The Wire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDg4NmZhOWMtZDBlZi00ZTkwLWJkM2MtMmYzM2UwMDQ5N2M4XkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3540,
+    "plot": "McNulty and Greggs ask for a delay in a murder bust in order to preserve the wiretap.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6714
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 7,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0749438",
+    "title": "One Arrest",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmUxMTA4MDEtN2Q1NC00YmUyLWJlMmMtNmZlNzg5MWU5NTcwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3540,
+    "plot": "Tipped off by the wire, Greggs, Herc, Carver, and Freamon make a bust, but the incident makes Avon and Stringer suspicious.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 6317
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 7,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0749433",
+    "title": "Lessons",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODViZmI0ZjUtZTE4My00M2E2LTk4YWYtNzkyODdhZWRiZDMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3360,
+    "plot": "An unlikely source gives McNulty the tag of Stringer Bell's car. Later, Omar earns his 'loose cannon' reputation.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 6308
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 7,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0749429",
+    "title": "Game Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjVhMDMwNGMtYzlhMi00MmZmLTg0NzctOTZiYTUxNzdiZWZlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3420,
+    "plot": "Barksdale plays an expensive game of one-upmanship with an east-side rival.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 6524
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 8,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt0749447",
+    "title": "The Cost",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWVjM2IyZWUtMWY2Ni00MjIwLWE1OTktMWM2YThiNDVhNjlmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3360,
+    "plot": "With Wallace in custody, McNulty and Daniels must figure out what to do with him in the time before he testifies.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 7534
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 8,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt0749449",
+    "title": "The Hunt",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTVjOTQ2YTktODg3Zi00NzA5LWFkMzgtODVkZDcxZWEzMzQ2XkEyXkFqcGc@._V1_.jpg",
+      "width": 979,
+      "height": 551
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 3360,
+    "plot": "While Greggs' life hangs in the balance, the entire department attempts to hunt down Savino. When Wallace flips, willing to testify that Stringer, Wee-Bey and Bird killed Brandon, Daniels stashes him in his grandmother's house on the outskirts of the city.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 6470
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 8,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt0749424",
+    "title": "Cleaning Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjA3ZTg0M2UtZmFkMi00MjY1LWEzMjktOGFiNGJhZjYxZGE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3360,
+    "plot": "Kima slowly recovers in the hospital. Stringer changes operations in the pit and the towers, rendering the wiretaps and clones useless, and prompting Burrell to begin dismantling the detail. Avon and Stringer meet Levy to discuss where their organization is vulnerable.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 7060
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 9,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0749441",
+    "title": "Sentencing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2QxYjE2OGUtZTQ3YS00YTgzLWJlNDktODMyOTk3MTllNGUzXkEyXkFqcGc@._V1_.jpg",
+      "width": 979,
+      "height": 551
+    },
+    "season": "1",
+    "episodeNumber": 13,
+    "runtimeSeconds": 3960,
+    "plot": "Due to the camera at Orlando's, the detail gather enough information to arrest Avon and many of his people, but with Wallace dead, they are unable to bring charges against Stringer, who's left on the street. Wee-Bey is arrested and gladly admits to murder after murder.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 6868
+    },
+    "releaseDate": {
+      "year": 2002,
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0749428",
+    "title": "Ebb Tide",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzQwZWUxMjEtZDE1Yi00NTAzLThhYWMtYjI4NmY5YjEzY2MxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3540,
+    "plot": "Detective Jimmy McNulty--exiled to police boat duty--makes a shocking discovery in the Baltimore harbor.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 5962
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0749425",
+    "title": "Collateral Damage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMGVmNjllNjYtOWUzOC00NDU4LWEyNWEtY2FhMzA3NTc3MjU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3540,
+    "plot": "Major Valchek gets back at Sobotka for the church gift fiasco, and a feud begins. Avon Barksdale continues to run his empire from a prison cell. On the waterfront, Port Police Officer Beatrice Russell gets stuck investigating the contraband in the The Greek's container. McNulty lends a hand with the investigation.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5541
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0749432",
+    "title": "Hot Shots",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjcwZGMwYjItOGYzNy00NTBmLThkYjctZTQ5NWFjNmM3NzZlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3480,
+    "plot": "Lt Cedric Daniels lets it be known he is going to leave the department. McNulty pursues the identity of the Jane Doe found floating in the harbor. A pair of young longshoremen, Frank Sobotka's son Ziggy and nephew Nick, heist a container and sell its contents, digital cameras, to men working for The Greek.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5376
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0749430",
+    "title": "Hard Cases",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmYyNmU4YzUtZjllMS00Mzg3LTk0NDEtYjRjMzM2MTI5M2M2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3540,
+    "plot": "McNulty goes on a self-assigned moral mission to identify his floater, but his old partner, Bunk, says they have more pressing matter at hand: finding Omar to testify against a Barksdale trigger man in one of last year's murders. To placate Valchek, Burrell asks Daniels to lead the detail investigating Sobotka, and Daniels agrees.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5285
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt0749454",
+    "title": "Undertow",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjkzOGUwZjUtMzcwOC00NWQ4LWE4YjItY2M3MTllZWRiMjk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3420,
+    "plot": "Weak product in the pit has Bodie getting heat. Homicide detectives hand out grand jury summonses to stevedores involved in the homicide case, and Port Police Officer Beadie Russell works the lingering affections of an old boyfriend to find out how cargo disappears from the docks.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 5183
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt0749419",
+    "title": "All Prologue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGRhYjg3NjQtOTdkOS00MDMxLWE3NTktODIxMzZjNzY2YjU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3480,
+    "plot": "Trying to let go of police work and return to his marriage, McNulty gives up on identifying his Jane Doe. The detectives look into Sobotka and his money. For his union, Sobotka tries to play the political game. D'Angelo wants to live life outside of Barksdale's umbrella and Bell brings in outside help for the problem.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 5905
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0749422",
+    "title": "Backwash",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGUwNTMwN2QtNzU3Yi00NmMwLWE3NjUtM2YyY2M3MmViMTNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3480,
+    "plot": "Greggs and Prez tap into the circuit of Russian prostitutes. With two sets of evidence, the detail goes to Pearlman who tells them neither crime merits a wiretap, but a drug connection could give the case legs. Rawls can't persuade Daniels to take the murders.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 5110
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0749427",
+    "title": "Duck and Cover",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODczODI2MGQtNjY1MC00YjMwLWE2ZTYtODYxZTNhNzhiNTcxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3480,
+    "plot": "McNulty goes on a drunken binge of legendary proportions. Fellow stevedores convince Ziggy to fight Maui. Bunk, seeing McNulty's desperation, talks Daniels into asking for him. Daniels does so and Rawls, who has no choice, agrees. After some labor, the wiretap is up, just in time to catch another disappearing container.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 5168
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 7,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt0749445",
+    "title": "Stray Rounds",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTAwNzRhODUtOTFjOS00NjNjLTkzYTQtMTUzMjA2MGM2N2MwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3480,
+    "plot": "Bodie's disastrous sales efforts result in a tongue lashing from Stringer Bell. Ziggy pulls Johnny Fifty into a new caper that makes the Greeks pay big money. McNulty goes undercover in a brothel. As Valchek fumes over the change of targets and Burrell pulls the rug from beneath him, Daniels and Pearlman maintain their composure.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 5211
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0749443",
+    "title": "Storm Warnings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDQ1ZTI0ZTItNTA4Mi00MzliLThkMWUtOGE5NTc1ZDBiMzJkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3540,
+    "plot": "The detail uses satellite technology to its advantage. Bodie is unhappy that Proposition Joe's people are selling on his turf. Valchek visits the FBI in an attempt to get real results on the docks. Ziggy's deal with Double-G goes bad in a big way. Greggs considers motherhood and Prez makes a major blunder.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 5853
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0749423",
+    "title": "Bad Dreams",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDE1ZDMyYWEtYmEwOS00NTM5LTlmOTctN2NlYTAxNmJhNGM0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 3480,
+    "plot": "The detail makes a desperate move. Nick's deceit is in the open, as Sobotka is overwhelmed by bad news. The Greeks confidently ease out of a brief encounter with the detail and Omar's suspicions are validated. The detail hopes to find Vonda's boss.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 6435
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0749439",
+    "title": "Port in a Storm",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTNiYTIwYjEtNzhiZi00OTk3LThmNjUtYjE1ZmIyYWM4M2VlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3780,
+    "plot": "The detail has a setback. Russell and Bunk revisit Philly, looking for evidence. Brother Mouzone talks with Stringer Bell regarding their agreement, leaving Bell to contend with Avon Barksdale. McNulty and Greggs return to the Westside, where they discover new connections.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 5989
+    },
+    "releaseDate": {
+      "year": 2003,
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt0749453",
+    "title": "Time After Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmJjYzk3M2EtNjIyNy00MWViLWE1MGYtYTJjNDYxOGI2ZDc1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3540,
+    "plot": "After the notorious Franklin Terrace public housing towers are razed, the Barksdale drug crew searches for a new home on the streets of West Baltimore. McNulty and the detail look to make a case against Stringer Bell with a wiretap on a drug ring run by his ally, Proposition Joe.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 5060
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 9,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0749418",
+    "title": "All Due Respect",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2FhMmQxMjUtN2Y1ZC00MTI0LWE5M2QtYmNhMDIzYTJmZDcxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3540,
+    "plot": "Omar continues his bold strikes on the heavily guarded Barksdale stash houses. McNulty launches his own investigation into last year's prison suicide of D'Angelo Barksdale. On the streets the bloodbath continues, prompting Burrell and Rawls to jack up the heat on their district commanders.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4938
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 9,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt0749426",
+    "title": "Dead Soldiers",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTJmMjlhMjItMzhjMi00OWJjLTgwNmYtMWFkYzNmZGMyZTY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3540,
+    "plot": "The brutality at police headquarters continues over the perceived failure of department commanders to rein in the city's crime stats. Another hit by Omar on the Barksdale stash houses goes horribly wrong. Proposition Joe summons Stringer Bell to a meeting and tells him that the cops have screwed up.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4917
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0749420",
+    "title": "Amsterdam",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2ZlYTUyMjItNGJhYy00MGI3LTk2MDAtMWM2NWE3YTMzYzM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3540,
+    "plot": "Greggs and McNulty recruit Bubbles to gather street intelligence on the Barksdale gang. Cutty seeks out the Barksdale gang after he loses his taste for the straight life. Bunk feels the pressure to find Dozerman's gun. Daniels worries that Avon Barksdale, having cut a prison deal, will be paroled.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4879
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0749444",
+    "title": "Straight and True",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmM1NmRlNDctMTUwNi00YmJlLTk3MjgtMThiNGQ0YzBiNTU5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3480,
+    "plot": "Johnny pressures Bubbles to stop snitching for the detail. Cutty lies to his grandmother about going straight. McNulty realizes pursuing Barksdale and Bell is a losing cause, so he turns his attention to nailing Kintel Williamson. Colvin's free drug dealing zone, now known in the streets as Hamsterdam, scores a small victory.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4876
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0749431",
+    "title": "Homecoming",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjYyYzQ2MzAtMTdhNy00MjE0LTllNGItNGZjMDE0YWY3NmJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3420,
+    "plot": "Major Colvin instructs his men to use brute force to get the message out to street dealers about his free zone. Avon Barksdale and Stringer Bell discover that real estate development has its own pitfalls. McNulty and Greggs ask Daniels to let them renew the Bell and Barksdale investigation.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4903
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt0749421",
+    "title": "Back Burners",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWUzMTI0NGUtYzA3Mi00YzU2LTlhNTktMWQ4M2ZjNmNmNWU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3360,
+    "plot": "Daniels goes ballistic when the detail gets reassigned to the Western District. Stringer Bell learns from Donette that Brianna is thinking about talking to McNulty. Bunk receives a gift wrapped surprise. A single cell phone allows Freamon to begin mapping out a communications network for the Barksdale organization.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4779
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt0749436",
+    "title": "Moral Midgetry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGZlMjNkYTUtOTZlZi00Y2Q0LWFjMjEtY2JiNzhlYWY2ZGYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3480,
+    "plot": "Prez impresses the detail with what he's found out from Bodie's cell phone, information that sends McNulty and Greggs on a road trip. Colvin sees the benefits of his plan working. Carcetti confronts a hurdle he must clear if he wants to run for higher office, while Marlo appears to take the bait set by the Barksdale crew.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 5349
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt0749442",
+    "title": "Slapstick",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODMyNTZmMzEtNDA3MS00MTNhLWFhN2YtNDUyMWYyNjU1NzE0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3480,
+    "plot": "Responding to an officer's call for help, McNulty and Prez turn up the wrong alley with unanticipated results. Cutty is surprised to find help from within Baltimore's power structure for his proposed boxing gym. Omar decides to go it alone against Avon Barksdale and Stringer Bell.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 4931
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt0749440",
+    "title": "Reformation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWJjYTA2NTktMTlhMC00ZmY0LWJmN2UtYzlhYmU2ZTNlMTg3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3540,
+    "plot": "Brother Mouzone returns to Baltimore on a mission of revenge and casts a wide net in his search for Omar. Colvin manages to put off a Sun reporter inquiring about Hamsterdam. Pearlman and Daniels plead their case for a new kind of wiretap. Stringer Bell falls out of the loop with Avon Barksdale.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 4906
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 11,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt0749434",
+    "title": "Middle Ground",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJkYTMtN2I4OS00NDM0LTg2YzYtOTEzY2QyMjc0OWE2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 1500
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 3540,
+    "plot": "The wire begins to yield information about the Barksdale organization. Stringer and Avon reminisce on how far they have come. McNulty finds the way to a key piece of the puzzle in an unlikely place. Awaiting his fate, Colvin works behind the scenes to shape the outcome of Amsterdam, while protecting his men from possible repercussions.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 8738
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 12,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0749435",
+    "title": "Mission Accomplished",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDlkMGUxN2QtMjAwNC00NWIxLTk1OTItODUxMjI5NTNmYWNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3780,
+    "plot": "Avon readies his troops for a seemingly endless war against Marlo. The detail works towards the top rungs of the Barksdale organization with the information garnered from the wire. While Royce continues to grapple with Amsterdam, Burrell offers a deal to minimize the fallout.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 6182
+    },
+    "releaseDate": {
+      "year": 2004,
+      "month": 12,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0763093",
+    "title": "Boys of Summer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2NiMjA1ZmEtZjNiMi00MTVhLWJhNjAtMmYzOTk0YmM3NjMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3480,
+    "plot": "In the Season Four premiere, four boys from West Baltimore play out their summer vacation in the streets. Meanwhile, Marlo has solved the problem that baffled Stringer Bell: how to maintain discipline--read: murders--without getting police attention.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4905
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0763095",
+    "title": "Soft Eyes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzlhNWI3ZWQtYjFkMy00MTVmLTg2MWQtMDVhNDAzMzliNTg5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3480,
+    "plot": "Herc's soft-duty job with the mayor takes an unexpectedly hard turn. Despite the potential damage to her career, Pearlman provides Freamon and Sydnor with subpoena ammunition for their 'grizzly bear' hunt in City Hall.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 4655
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0763096",
+    "title": "Home Rooms",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2RmYmU2MmQtODk2ZS00NDVlLTg1NjMtZTgzYzVlODgzNzE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3540,
+    "plot": "With his lead dwindling, Royce resorts to extreme measures to stall Carcetti's momentum. At Bodie's corner, Michael proves adept as a runner, with Bodie and Marlo taking notice. A re-up bodega is put under surveillance by Omar and Greggs.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4705
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt0763097",
+    "title": "Refugees",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjAwMmY0MGMtNWQwMy00M2Y5LTg0MGQtNDNmZDY5Y2NmMzEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3540,
+    "plot": "With Freamon and Greggs moved to Homicide, Herc and Dozerman join Marimow in the stripped-down Major Crimes Unit. Cutty gets a 'custodial' job at Tilghman School mopping up truants, but can't make headway in his efforts to mentor Michael.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4555
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt0763098",
+    "title": "Alliances",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzhmZTVhNmItODg2ZS00MTNjLTkwMzMtNDgxYmM1MDBkYjMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3540,
+    "plot": "The ensuing negative attention turns Royce against Burrell, who takes the heat while Rawls comes to the rescue. At school, Prez's reward/punishment program meets with mixed results, and Colvin looks to restore order by separating disruptive \"corner\" kids from more attentive \"stoop\" ones.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4543
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt0763099",
+    "title": "Margin of Error",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTQ0YzFhNmMtYzY0Ni00OGI1LWJkOTktMDg1Njg0ZmUzYmNhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3480,
+    "plot": "With Election Day approaching, the three mayoral candidates make last-minute appeals. Carcetti wrangles for votes as he responds to a potentially devastating smear. Norris and Greggs get a lead on the Braddock case, but end up being detoured.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 4753
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt0758650",
+    "title": "Unto Others",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGY5N2Q1ODUtMDUzYi00ODZkLTk2YWMtZTc3ZWI1N2E4MGFlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3480,
+    "plot": "Omar calls in a favor to Bunk. The election over, Royce and Carcetti make peace and contemplate their futures. At school, Prez tricks his students into learning math. Finally, Greggs uses 'soft eyes' at a crime scene.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 4481
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 10,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt0796549",
+    "title": "Corner Boys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDcwMmYyY2UtMzMzYi00N2U1LThhZDUtN2VkOWVkN2I4OTZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3540,
+    "plot": "To monitor the pulse on the street, Carcetti makes the rounds with members of the force. While Proposition Joe shows off his vocal range, Chris shows Snoop how to expose, and dispose of, New York infiltrators. Colvin uses \"corner\" logic in class. A newly sober McNulty attends an Irish cop wake.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4554
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt0763100",
+    "title": "Know Your Place",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjljZDAwNDYtMDUyMC00MjQ3LTlmNjItNzIwZGNlYzMzYzhjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3540,
+    "plot": "Poot returns to the corner after a stint in prison--and is welcomed back. Carcetti engages in a testy budget battle with City Council President Campbell, promotes Daniels, and hits a snag in his efforts to relieve Burrell of his duties.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4482
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt0763094",
+    "title": "Misgivings",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzZlZmMzYjQtZTI1Ny00YTZhLTkwZTQtMmRlYWI2NmQ0OGQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 3480,
+    "plot": "Acting on Clay Davis' advice, Burrell seeks to burnish his reputation by ordering the department to double their street arrests. The mandate does not sit well with McNulty, who sets his sights instead on cracking a string of church robberies.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 4795
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt0782660",
+    "title": "A New Day",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTJmYTczZWUtOTM4OS00NzVmLTliNDEtMDJlYWVkYWM0YjlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 3540,
+    "plot": "After flexing his muscles around the city, Carcetti faces his first dilemma when a group of ministers protests Herc's mistreatment of one of their own. Randy gets the cold shoulder at school. Omar and Reynaldo pay a menacing visit to Proposition Joe, with their own proposition.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 4926
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt0796551",
+    "title": "That's Got His Own",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGQ3MWJiYTAtMDA2ZC00MjIxLThmNDQtYzRiOTY5MTI4MGM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3540,
+    "plot": "On the trail of missing bodies, Freamon turns to a higher authority after being rebuked by Landsman. Carcetti finds his promises of prosperity undermined by the school debt, forcing him to contemplate groveling before the Governor in Annapolis.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 5761
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 12,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0796550",
+    "title": "Final Grades",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTNhMDE4NjctZGY2YS00NDQ2LTgxNTMtYjZlYjk2YzM1YzRjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 4740,
+    "plot": "In the Season Four finale, the bodies from the vacants pile up while Burrell offers his support to Daniels and admonishes Rawls for crossing him. A distraught Bubbles finds himself at his wit's end after his revenge plan backfires.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 7457
+    },
+    "releaseDate": {
+      "year": 2006,
+      "month": 12,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0977178",
+    "title": "More with Less",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjBmMjYyNDItMTg4NC00MjY1LThhZTgtN2JmNTlhM2M4NmJjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 3480,
+    "plot": "As McNulty and the detail continue staking out Marlo's crew, recently promoted Sergeant Carver is welcomed by a cauldron of discontent from officers coping with unpaid overtime.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4535
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt0985516",
+    "title": "Unconfirmed Reports",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxZmMyYTMtZTJlOS00NDMxLWI4OTQtODBmNzA3OTUxZTkxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 3480,
+    "plot": "Although he tells Sydnor the Davis investigation could be a 'career case,' Freamon keeps a wary eye out for Marlo, who takes care of some unfinished business and strikes a business deal with Barksdale.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4357
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt0977180",
+    "title": "Not for Attribution",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTBlNDZhN2YtZmFjMS00ZmI5LWEzNTEtYjhhOTI2NzY1MDRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 3480,
+    "plot": "Carcetti's master plan for the police department is leaked to the press, sending the brass into a panic. Marlo turns to Proposition Joe to help with an enviable problem. Whiting and Klebanow drop a bombshell on the newspaper staff.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 4447
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt0977181",
+    "title": "Transitions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDIzNDQ5MjMtZWM5OS00NmUyLWE2YTAtYmIzYjhlYThhZGEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 3480,
+    "plot": "Campbell tries to smooth out the transitions in the police department. The newspaper scrambles to confirm surprising news from City Hall, but lose out to the TV media in scooping a high-profile Grand Jury appearance.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 4646
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 1,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt0977182",
+    "title": "React Quotes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjRiOGRkZTMtNzllNC00MzRmLWE0ZjQtZmI4ZDNmZmQ5MGViXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 3420,
+    "plot": "Marlo forges an alliance with a drug connect, who shows him a new communications trick. McNulty's case gets increased attention from the newspaper, in large part thanks to the addition of Templeton to the reporting team.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 4425
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt0977183",
+    "title": "The Dickensian Aspect",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2RmN2Y0ZGYtMWJmYi00NGJkLWFiOGMtZWQ1ODczMTY3ZThjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 3480,
+    "plot": "Mystified by Omar's disappearance, Marlo and Chris ramp up their efforts to locate their nemesis. After a sparsely attended waterfront ceremony, Carcetti fires away at a larger press event--and recasts himself as a champion for the homeless.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4283
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt0977184",
+    "title": "Took",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDA0NWQwM2QtN2VmZC00ZjA5LThhOTgtYmU5YTExZDYxZjA0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 3480,
+    "plot": "An unexpected call puts Templeton back in the spotlight--and gets McNulty more attention than he expected. Bunk bucks at Landsman when ordered to help with the force's most recent red ball.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 4376
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt0977185",
+    "title": "Clarifications",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTczNmU4MTctYWMyYi00YWVlLWJiZDItODA5NTJmNjBjZWJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 752,
+      "height": 603
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 3480,
+    "plot": "Baltimore's renewed police commitment brings fresh recruits to Daniels and McNulty, starting with Carver. Facing a new political challenge, Carcetti is forced to make dangerous political deals.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 5044
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 2,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt0977186",
+    "title": "Late Editions",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDVjYzkzNGMtNjYxZS00Mzg1LWI3OTUtZjNhNmRmYTJkZmYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 3600,
+    "plot": "With Steintorf ordering Rawls to initiate 'creative' remedies for the rising crime rate, Freamon's vigilance pays off with a promising lead, sending Sydnor and the department into overdrive.",
+    "rating": {
+      "aggregateRating": 9.3,
+      "voteCount": 5615
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt0977179",
+    "title": "-30-",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjU4YTZhMDctM2IyOS00N2NlLWJiMGMtZDMxZGZmOWE1ZmNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1451,
+      "height": 828
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 5580,
+    "plot": "Carcetti maps out a damage-control scenario with the police brass in the wake of a startling revelation from Pearlman and Daniels. Their choice: clean up the mess...or hide the dirt.",
+    "rating": {
+      "aggregateRating": 9.6,
+      "voteCount": 8129
+    },
+    "releaseDate": {
+      "year": 2008,
+      "month": 3,
+      "day": 9
+    }
+  }
+]

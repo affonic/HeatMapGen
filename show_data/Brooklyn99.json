@@ -1,0 +1,3368 @@
+[
+  {
+    "id": "tt2936284",
+    "title": "Pilot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYwODE5Mzk4OV5BMl5BanBnXkFtZTcwMjk0MjE1OQ@@._V1_.jpg",
+      "width": 653,
+      "height": 522
+    },
+    "season": "1",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1380,
+    "plot": "Detective Jake Peralta finds his work scrutinized when new Captain, Ray Holt, takes over at his precinct.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 6634
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt3179592",
+    "title": "The Tagger",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYzNTIwNzgzNF5BMl5BanBnXkFtZTgwODYxOTEzMDE@._V1_.jpg",
+      "width": 653,
+      "height": 436
+    },
+    "season": "1",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "When Jake arrives late for work, Captain Holt decides to shadow him. However, the arrest they make proves complicated. Meanwhile, a psychic friend of Gina's gets inside Charles' head.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 5450
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt3211762",
+    "title": "The Slump",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAwMzA2MTU3MF5BMl5BanBnXkFtZTgwNzU3MTMzMDE@._V1_.jpg",
+      "width": 653,
+      "height": 436
+    },
+    "season": "1",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "With a backlog of unsolved cases, Jake finds himself in a slump. Meanwhile, Amy is put in charge of the Junior Police Program for at risk kids, but her efforts to inspire them fall flat.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 5115
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt3220646",
+    "title": "M.E. Time",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjYzMzQ1ZjAtODViMi00ZWQzLThhZTAtNGU2YmQwZjVmYmY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "1",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Jake meets an attractive Medical Examiner, but their relationship slows down her work, much to his colleagues' annoyance. Meanwhile, Amy desperately tries to impress Holt.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 4944
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt3113610",
+    "title": "The Vulture",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTIwMmNlZGUtOWYyZi00YTg1LWFlZWYtNDExNzAxOGFlMjcxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 853
+    },
+    "season": "1",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "A detective from Major Crimes takes over Jake's nearly solved murder case and steals his thunder.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 4795
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt3176582",
+    "title": "Halloween",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGIwZjIwNDItNmYzNC00YzI4LTkwODYtNjQzNWUxYjNiY2Y0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 1186
+    },
+    "season": "1",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Jake makes a foolish bet with Holt that he can steal his Medal of Valor before Halloween is over, while Amy is forced to wear a costume while undercover with Charles.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 5397
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt3184374",
+    "title": "48 Hours",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDk2ZjBhYWUtYmU5My00ODlmLTkxMjUtYWQ0OTEzYmZlMjAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1494,
+      "height": 1080
+    },
+    "season": "1",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Jake stupidly arrests a male suspect despite having no evidence and only has 48 hours to prove he did it or release him without charge.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4700
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt3215234",
+    "title": "Old School",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTkyMTU2ODI1MF5BMl5BanBnXkFtZTgwNzYwMDA2MDE@._V1_.jpg",
+      "width": 653,
+      "height": 432
+    },
+    "season": "1",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Jake is horrified when his hero, Jimmy Brogan, a crime writer, accompanies him on the job, and threatens to quote him in a damning article. Meanwhile, Rosa has to work on her attitude in court.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 4515
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt3317628",
+    "title": "Sal's Pizza",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzU5MjYzN15BMl5BanBnXkFtZTgwMDI3OTQ2MDE@._V1_.jpg",
+      "width": 653,
+      "height": 418
+    },
+    "season": "1",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Jake's favorite pizza place burns down and he is determined to prove the owner was not responsible. Meanwhile, Amy is jealous of Rosa being offered a promotion, and Terry and Gina have to hire a new IT specialist.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 4411
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt3267804",
+    "title": "Thanksgiving",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2E4NWE3Y2ItNTIxZS00YWQ3LTgyODItODk4OWNlNDM3Mjg1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2598,
+      "height": 1734
+    },
+    "season": "1",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Amy hosts a Thanksgiving dinner at her apartment for everyone at the precinct, but it soon turns into a disaster.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4528
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt3277264",
+    "title": "Christmas",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDY2NTYyNjk2OV5BMl5BanBnXkFtZTgwNTI5MDM5NjM@._V1_.jpg",
+      "width": 2048,
+      "height": 1362
+    },
+    "season": "1",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "When Holt receives death threats, he surprisingly puts Jake in charge of his security. Meanwhile, Terry undergoes a psych evaluation, and Amy tries to make the perfect holiday card for Holt.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4334
+    },
+    "releaseDate": {
+      "year": 2013,
+      "month": 12,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt3424950",
+    "title": "Pontiac Bandit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTUzOTQwOTExNl5BMl5BanBnXkFtZTgwMDQyNjE5MDE@._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "Jake convinces Rosa to make a deal with a criminal in order to catch a car thief, while Charles makes an awkward return to the precinct, and Holt tries to get rid of two puppies.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4390
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt3383490",
+    "title": "The Bet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODg3ODg4OTczN15BMl5BanBnXkFtZTgwNzUyNjE5MDE@._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy's ongoing bet about who can make more arrests comes to a close. Charles receives the Medal of Valor for getting shot in the line of duty, but the pain medication he is taking causes him to reveal his true opinions.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 4930
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt3454684",
+    "title": "The Ebony Falcon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTg1MDI1NTI0OF5BMl5BanBnXkFtZTgwNzIyNjE5MDE@._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1320,
+    "plot": "Jake begins to have second thoughts about putting Terry back in the field for a dangerous undercover assignment, while Rosa and Amy try to help Gina after she is robbed.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 4092
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 1,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt3468330",
+    "title": "Operation: Broken Feather",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjIyMTM4OTI0MV5BMl5BanBnXkFtZTgwMDQ5NzYwMTE@._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Jake is hurt when Amy tells him that she is considering leaving the precinct, while Terry helps Holt redesign the precinct to make everyone more productive.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 4277
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt3485608",
+    "title": "The Party",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTAzMjUwOTY5NTheQTJeQWpwZ15BbWU4MDU1OTc2MDEx._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1320,
+    "plot": "At Captain Holt's birthday party, Jake, Amy and the other officers try to make a good impression on Holt's husband, but fail miserably.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 4487
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt3502604",
+    "title": "Full Boyle",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQwMzMyMjMwM15BMl5BanBnXkFtZTgwNzQ0ODYxMTE@._V1_.jpg",
+      "width": 653,
+      "height": 436
+    },
+    "season": "1",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1320,
+    "plot": "Jake tries to keep Charles from going \"full Boyle\" on his new girlfriend. Meanwhile, Rosa and Amy are reluctant to help an amateur caped crime fighter, and Holt faces competition for the presidency of a police organization he founded.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 4056
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3531352",
+    "title": "The Apartment",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjE2Nzc5MjQ4NF5BMl5BanBnXkFtZTgwMTY1MzIyMTE@._V1_.jpg",
+      "width": 435,
+      "height": 653
+    },
+    "season": "1",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1320,
+    "plot": "Due to his crippling debt, Jake faces losing his apartment, and asks Gina for help. Rosa and Charles clash with one of the weekend officers, and Holt and Terry ask their officers to conduct self-evaluations.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3945
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 2,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt3546816",
+    "title": "Tactical Village",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzA0OTcxNDQ4NF5BMl5BanBnXkFtZTgwNDc1MzIyMTE@._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1320,
+    "plot": "Jake tries to set a new record on a training course, Rosa is angry when she does not get an invite to Charles' wedding, and Gina helps Holt overcome his newfound addiction to a game on his smartphone.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 4192
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt3565566",
+    "title": "Fancy Brudgom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTIyN2UyZGEtOGVmNS00NDk4LWE0N2YtOWUxNTMxN2FkZjAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2598,
+      "height": 1734
+    },
+    "season": "1",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1320,
+    "plot": "Jake tries to convince Charles to stand up to Vivian before the wedding, Terry struggles to stick to a diet after Amy and Gina give up, and Holt tries to get Rosa to make a sincere apology to an officer she offended.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3922
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt3585294",
+    "title": "Unsolvable",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDI0ZTQ1NjAtNDhiNS00OTg3LWIzOTUtNWMxZWQ5NTRjMTg0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "1",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Terry try to solve an apparently unsolvable case, Amy lies to Holt in order to dodge work and escape for a romantic weekend away, while Gina and Rosa introduce Charles to \"Babylon\", their secret bathroom.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3985
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt3594572",
+    "title": "Charges and Specs",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MDIxNTI3MF5BMl5BanBnXkFtZTgwMjQwMjY0MTE@._V1_.jpg",
+      "width": 653,
+      "height": 452
+    },
+    "season": "1",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1260,
+    "plot": "Jake risks suspension when the commissioner shuts down his investigation of a civic leader, and he gets Amy and Holt to help him work the case anyway.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 4723
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt3587386",
+    "title": "Undercover",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODg5YjIwZWYtM2Y5ZS00NTI5LWE0ODMtYjU1OWZkYmMyN2RlXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2002
+    },
+    "season": "2",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Jake's undercover operation ends in a successful sting, until he learns one mobster has gotten away. Jake enlists Charles' help to track him down, and Holt tests the squad with practice drills. But can Charles keep his new secret from Jake?",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4084
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt3887822",
+    "title": "Chocolate Milk",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgzNDIwOTczMF5BMl5BanBnXkFtZTgwMDUwMzY4MjE@._V1_.jpg",
+      "width": 5700,
+      "height": 3800
+    },
+    "season": "2",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Holt's old nemesis is in charge of the precinct inspection, Peralta and Jeffords investigate a stabbing before Jeffords goes in for his vasectomy, and Boyle needs a plus-one for his ex-wife's wedding.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3853
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt3975718",
+    "title": "The Jimmy Jab Games",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAxNTYyMTA5N15BMl5BanBnXkFtZTgwODgwMzY4MjE@._V1_.jpg",
+      "width": 3900,
+      "height": 2700
+    },
+    "season": "2",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "The precinct holds a competition while on stand-by for a motorcade, Holt has another run-in with Deputy Chief Wuntch, Boyle needs to get an incriminating videotape from Hitchcock, and Rosa thinks Peralta still has feelings for Santiago.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 4030
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 10,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt3920290",
+    "title": "Halloween II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjkyMzM3NzYwMF5BMl5BanBnXkFtZTgwNjUyMzY4MjE@._V1_.jpg",
+      "width": 980,
+      "height": 639
+    },
+    "season": "2",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "For their annual Halloween wager, Jake bets Holt that he can steal his watch before midnight. Gina gets kicked off her dance squad, Floorgasm.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 4504
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 10,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt3955954",
+    "title": "The Mole",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjkzMDk3MzAtMDEwMi00MTJmLTlhN2EtY2I5NzcwODRkYTM1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 666
+    },
+    "season": "2",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "There's a mole in the precinct and Holt and Jake need to find out who it is before Deputy Chief Madeline Wuntch gets wind of it. Meanwhile, Terry and Rosa visit a \"silent\" disco to uncover new leads for their new drug task force.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3850
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt4059886",
+    "title": "Jake and Sophia",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODM0YTY4N2QtZTRjZS00YmRlLThjMzYtMGVmNDliYTYzOTNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "2",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Jake hits it off with a woman at a bar, but later finds out she is the attorney for a perp he is trying to put in jail. Meanwhile, Gina and Charles work to put their relationship behind them, and Amy is pressured into running for union rep.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3852
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt4135098",
+    "title": "Lockdown",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTViYmI1N2QtYWIwYy00NDBjLWFlYTgtYWQ2Yjc5MGIwYTYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 692
+    },
+    "season": "2",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "The precinct goes into lockdown mode on Thanksgiving night, and Jake, who was left in charge, is confident in his ability to keep spirits high and avoid chaos. Amy is less confident, as things spiral out of control.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3706
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt4161002",
+    "title": "USPIS",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjUxMjVkZDAtZDZiMi00MjlmLThiNjEtNTM0OGJmZWQyZDVjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 853
+    },
+    "season": "2",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "While attempting to catch a drug dealer, Jake and Charles reluctantly join forces with the nerdy lead investigator at the U.S. Postal Service, Jack Danger. Meanwhile, the rest of the team helps Amy quit smoking.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3689
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt4178204",
+    "title": "The Road Trip",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjhlMTllMjMtNGQ1OC00ZTRhLWFkMmEtNTM0YTM1MjhhMTk4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1152,
+      "height": 798
+    },
+    "season": "2",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Amy have a case early in the morning, so they stay at a hotel overnight. Jake invites Sophia and Amy's boyfriend not knowing that Amy is planning on breaking up with him.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3820
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "id": "tt4195086",
+    "title": "The Pontiac Bandit Returns",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWE3ZmNkMjgtNjA4My00YjRjLTg5MDctMTU2ZmY3NzlkODVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1950,
+      "height": 1350
+    },
+    "season": "2",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1320,
+    "plot": "The Pontiac Bandit aka Doug Judy, is back in custody, after jamming up Jake and Rosa in his previous encounter with them. But when Rosa discovers that Judy knows the whereabouts of the \"Giggle Pig\" drug leader, Capt. Holt offers the perp a plea deal to help track down the drug kingpin.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3780
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 12,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt4241288",
+    "title": "Stakeout",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzM2MWM4ZWUtMGRhMS00NDhjLThjNTctMTE5ZjI2MTg0ZWU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "2",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Boyle go on a stakeout and tensions rise between the two, Rosa shows interest in Holt's nephew, and Terry writes a book for his daughters. Santiago and Gina are displeased when they assume the characters in the book are based on them.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3628
+    },
+    "releaseDate": {
+      "year": 2014,
+      "month": 12,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt4270386",
+    "title": "Beach House",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmZlYWM3ZmItNmIyZi00ZDhlLTgxYjgtZTg2NWVkM2I5ZjFjXkEyXkFqcGc@._V1_.jpg",
+      "width": 867,
+      "height": 600
+    },
+    "season": "2",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "The precinct's annual getaway to Boyle's beach house is ruined when Holt guilts Peralta into inviting him along for the festivities.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3819
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt4303088",
+    "title": "Payback",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmQyMjE5NWEtNzgyMy00MTE2LThjYmUtNjVhODM3NmUyODdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2598,
+      "height": 1732
+    },
+    "season": "2",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "Jake has to go to great lengths to keep a secret of Terry from the rest of the precinct. Amy gets her chance to partner up with Captain Holt.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3572
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt4321708",
+    "title": "Defense Rests",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGM5MjIzZDUtMzRmNS00ODEwLTg5YTItYzkwMGQ2ZGIxYWYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2598,
+      "height": 1732
+    },
+    "season": "2",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1260,
+    "plot": "Jake tries to impress Sophia's boss. Gina refuses to give her blessing to her mom's engagement. Holt faces a difficult decision.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3527
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 1,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt4362492",
+    "title": "Windbreaker City",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2IzOGY3ZmQtMTlhYy00ZmY4LThjOWUtZDkxYWJjY2U5YWQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1418
+    },
+    "season": "2",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Jake is heartbroken over Sophia, but his spirits are lifted when the squad is invited to a Homeland Security terrorist training simulation.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3618
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt4277880",
+    "title": "The Wednesday Incident",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2NiNGU5ZDItZDIyMi00OTQyLTkxOTAtMDQ2Mjc3M2RhN2Q0XkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1418
+    },
+    "season": "2",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1320,
+    "plot": "Peralta sets out to prove that--for once--he is not the source of Captain Holt's bad mood. Boyle apprehends a notorious bank robber, who turns out to be a harmless-looking old man whom nobody else believes committed the crime.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3542
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4375136",
+    "title": "Boyle-Linetti Wedding",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzM0YThmNGEtOTE0Yi00NDY0LWFmZDMtYTBmOGRmNWY5Mzg4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 853
+    },
+    "season": "2",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1320,
+    "plot": "It's the day of Gina and Charles' parents' wedding, and the whole squad is given a job to fulfill for the ceremony. However, Jake and Amy get sidetracked chasing a criminal, and Terry struggles to officiate the wedding.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3634
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt4454544",
+    "title": "Captain Peralta",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjVlNDQ2OTEtYmIyYy00YzBkLThhN2ItYWFiNjQ3NzIyNjRmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1039
+    },
+    "season": "2",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1320,
+    "plot": "Jake's mainly absentee father, Roger (guest star Bradley Whitford), comes to town to spend some time with his son. Jake can't wait to see him, but Charles is skeptical of Roger's intentions. Meanwhile, Holt tasks Amy, Terry, Gina and Rosa with an impossible brain teaser in exchange for Beyoncé tickets.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3507
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt4423346",
+    "title": "Sabotage",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDY1ZDA1MTYtN2U3Yi00NjdlLWIxYjQtODhlMGRmNDAzNDAxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 668
+    },
+    "season": "2",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1260,
+    "plot": "Amy and Rosa investigate Jake's claim that somebody is trying to sabotage him and get him fired. Boyle partners up with Hitchcock and Scully to solve a case. Captain Holt refuses to lie with Terry about attending Gina's dance performance.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3467
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4526676",
+    "title": "AC/DC",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmI0NTRmYjgtNTU5ZC00N2RlLTkzNzItYzYzOWUyYWI2Y2RhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    "season": "2",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1320,
+    "plot": "Jake is badly injured trying to chase a suspect, but he refuses to take time off from the job. Holt and Rosa have an awkward dinner date with their significant others, so they invite Amy and Gina along as well.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3425
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4526686",
+    "title": "Det. Dave Majors",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjE1ZmJhMzMtOWNmNC00YzNhLWEyZmUtNWNkMmUxZDg3YjZhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1367
+    },
+    "season": "2",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1320,
+    "plot": "Jake is jealous when a detective from another precinct wants to ask Amy out on a date. Linetti and Boyle try to keep Jeffords from taking a job with a private firm, but captain Holt seems to be pushing him out the door.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3474
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt4526688",
+    "title": "The Chopper",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDcwNGYxMTMtMzU5MC00NTBmLWE5ZDMtYTllMzQ4MmQyYzE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "2",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1320,
+    "plot": "Holt worries that Jake is being set up to fail when Wuntch green lights his dream assignment. Terry hosts a field trip for a magnet school.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3622
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt4584946",
+    "title": "Johnny and Dora",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTliMGZhOTQtMjU0ZS00NGMyLThmMTUtOWEzODE4NDZkODA1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    "season": "2",
+    "episodeNumber": 23,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Amy go undercover to catch an infamous identity thief. The squad is rocked by an unexpected farewell.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 4745
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt4371294",
+    "title": "New Captain",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTFlNzBmZjEtODU5Zi00YWYyLWIxMDEtM2ZkMGQ4YTE5MzEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "3",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Nobody in the precinct likes the new captain, Wuntch continues to humiliate Holt as he takes his new job in Public Relations, and Jake and Amy try to figure out what to do next after their kiss.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3833
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 9,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt4371296",
+    "title": "The Funeral",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmFmMDczODktNGM1Ni00ZjljLTk1NmUtYzIwYWQ2YjYyMjgwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "3",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "The Nine-Nine gets another personnel change that could put Jake and Amy's budding relationship at risk. Meanwhile, Terry assists Holt with an important public relations matter, and Rosa and Gina try to convince Charles to rethink his affection for a fellow officer.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3476
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt4371298",
+    "title": "Boyle's Hunch",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMWE3NmIyZjgtZDEzMi00NzU0LWFjZTItMDg1MjczN2U2NjdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "3",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Jake thinks Boyle might have met his soul-mate in Genevieve, an art gallery owner, and he tries to help set them up. Meanwhile, Rosa deals with intra-precinct theft and Holt seeks Amy's help with an image campaign.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3399
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt4371300",
+    "title": "The Oolong Slayer",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzhjOTkzNzgtMGYxOS00NzY0LWFmN2MtMWQ0ODdiMWQzNmEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1083,
+      "height": 722
+    },
+    "season": "3",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Holt secretly team up to hunt for a serial killer. Amy and Rosa seek revenge for a sexist assignment.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3646
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt4371304",
+    "title": "Halloween III",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDhiY2I1ZGItY2M4Ny00MWUxLTlkMTMtMGFmODc2N2I5OWYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "3",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1320,
+    "plot": "For their annual Halloween heist, Jake and Holt draft teams and compete to steal a crown, but Amy's divided loyalties leave her out in the cold.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 4356
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt4371306",
+    "title": "Into the Woods",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTIwNmExYjYtMWEzYy00MmY0LWI0YjgtY2I0NDFhMjEwZjc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2598,
+      "height": 1732
+    },
+    "season": "3",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Charles talk Terry into going camping; Rosa receives relationship advice from Holt; Gina helps Amy prepare for a presentation.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3375
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt4371310",
+    "title": "The Mattress",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTYyZDhlNjktNDkzNS00MTljLWEyZWItZjU0MTFhNjM2MDEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 853
+    },
+    "season": "3",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy work together on a case, and wind up arguing over Jake's old, worn-out mattress. Meanwhile, Boyle scratches Holt's prized car, and the teenage boy Rosa sponsors as a \"big brother\" is in trouble with the law.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3362
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4371320",
+    "title": "Ava",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMThiM2RkZmUtYWFkNi00Zjk0LTg2MTMtMTc4YWUwNjNmMzhlXkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 533
+    },
+    "season": "3",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Jake entertains Terry's pregnant wife, Sharon, until her water breaks sooner than expected and crisis ensues at the precinct.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3440
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt4371312",
+    "title": "The Swedes",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDZhZWVhN2ItZjFjNS00ZTA4LTg0ZGItZmYwZGE2ZDYxNmQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2598,
+      "height": 1732
+    },
+    "season": "3",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Rosa investigate a case in which they have to assist InterPol. Amy and Terry team up to help Gina study for an exam, while Captain Holt recruits Charles to double with him in a squash tournament.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3470
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt4371314",
+    "title": "Yippie Kayak",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjk3ZTljYjMtNjJkMS00MDhiLTlkMDYtZTM5YmM5NTg0MWQ5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "3",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Jake, Charles and Gina get into trouble while doing last-minute Christmas shopping, Terry tries to make it through the holidays without a call from the precinct, and Amy takes part in a \"Polar Swim\" with Holt and Diaz.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3901
+    },
+    "releaseDate": {
+      "year": 2015,
+      "month": 12,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt4371322",
+    "title": "Hostage Situation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmNmODE5ZTMtNjcyZi00Y2IzLWI3OGItYjk0MWFkMzU2MGEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1500,
+      "height": 1000
+    },
+    "season": "3",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Jake helps Charles reclaim the rights to his sperm from his ex-wife, Amy accidentally breaks Terry's nose after asking for a recommendation, and Gina helps interrogate a suspect who refuses to speak to anyone but her.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3317
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4371324",
+    "title": "9 Days",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTFhM2ExMGMtODQ0ZS00MWQ2LWE4MmYtNzMwNTU5MmUzNDEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2880,
+      "height": 1920
+    },
+    "season": "3",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1320,
+    "plot": "Peralta and Holt contract the Mumps while working on a cold case. Terry takes over the precinct in his place, but his ambitious plans ultimately fail. Boyle is sad over the death of his dog, but Diaz doesn't understand it.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3542
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt4371326",
+    "title": "The Cruise",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNzVkYThmNTctYTVhMi00NjVlLTliMTctZTI5ZDU0YjMwMTAwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "3",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "Jake comes face-to-face with his old nemesis Doug Judy as he and Amy go on a cruise. Meanwhile, Holt's sister comes to town for a visit, and Diaz and Boyle fight over a rent-controlled apartment which was a crime scene.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3405
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt4371328",
+    "title": "Karen Peralta",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2RjNWQ4YWUtYTY4Yy00MGRkLThhOTgtZWI1Y2ZiYTM1ZGU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 853
+    },
+    "season": "3",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1260,
+    "plot": "On Jake's birthday, his Mom tells him she is back together with his hated father. Meanwhile, Charles has an embarrassing moment with a body cam, and Holt's \"Escape the Room\" exercise for the Nine-Nine does not go as planned.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3217
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt4371330",
+    "title": "The 9-8",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjY4NmNkOTUtZDI3OC00YTRjLWFkYmQtYjFlNjVmZThkZDI3XkEyXkFqcGc@._V1_.jpg",
+      "width": 2048,
+      "height": 1365
+    },
+    "season": "3",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Chaos ensues when the Nine-Nine is forced to share their station with the Nine-Eight precinct while their station is closed, and Charles consequently becomes jealous of Jake's old partner, who is an officer in the Nine-Eight.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3264
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt4371332",
+    "title": "House Mouses",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjE5MTc0MWQtOTFiYy00NWFkLTgyZmItZjljMWY3OTgzMGViXkEyXkFqcGc@._V1_.jpg",
+      "width": 1152,
+      "height": 768
+    },
+    "season": "3",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1320,
+    "plot": "Trying to get called to a \"celebrity\" case, Jake tricks Hitchcock and Scully into taking a case that might be more dangerous than everyone thought. Amy, Rosa, and Gina take the day to conquer their worst fears",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3153
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt4371336",
+    "title": "Adrian Pimento",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjhmNTBkNjktNzU0MS00ZDY3LWFjNjgtMDU5ZWNkMzUwMmY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 800
+    },
+    "season": "3",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1260,
+    "plot": "The precinct gains a new detective who has just completed a 12-year undercover job with the mob, Charles' latest mess prompts the janitors to refuse to clean the precinct, and Gina directs a video for Holt.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3258
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt4371334",
+    "title": "Cheddar",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjUzZjM4M2EtMDBmYS00MTc0LWIzNjMtMGM1NGEyOTQ1NjAzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 682
+    },
+    "season": "3",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1260,
+    "plot": "While Holt is en route to visit Kevin in Paris, Jake and Amy inadvertently lose his dog. Meanwhile, Charles has laser eye surgery, and the sexual tension between Rosa and Adrian Pimento disgusts Terry.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3248
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt4371338",
+    "title": "Terry Kitties",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmVkYWExYWEtNThiNS00YjJiLWFiMjYtMjEwMDZkZjE1YmRiXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1286
+    },
+    "season": "3",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1320,
+    "plot": "Terry enlists Jake's help in solving a twenty year old case which his old precinct never let him forget, Charles allows Adrian Pimento to stay at his place and soon regrets it, while Amy, Rosa and Holt attend a class together.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3098
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt4371342",
+    "title": "Paranoia",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjExOTlkNzUtMTNkNy00NTc5LWFkOWMtMGU4MGUwZWRiZDEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "season": "3",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1260,
+    "plot": "The precinct tries to set up perfect bachelor and bachelorette parties for Adrian and Rosa after they announce their engagement, but Adrian's party falls apart when he tells everyone that someone is stalking him and steals the party bus.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3180
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 3,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt4371346",
+    "title": "Maximum Security",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTM5MmNlZGMtMDIwNy00YmQwLTk4ZTgtY2FhNGIwYzM1MjdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 736,
+      "height": 484
+    },
+    "season": "3",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1320,
+    "plot": "With Adrian off the grid and in hiding, the rest of the squad scramble to track down the sister of Figgis, the mobster behind the operation, and throw a fake funeral to flush out Figgis' hit man.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3182
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt4371344",
+    "title": "Bureau",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzUyYjU5MTUtZjI5Mi00ZTQzLWI0ZGYtZjc0YzYyZGU3NGY0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 630
+    },
+    "season": "3",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1320,
+    "plot": "While Amy continues to work on Figgis' sister Maura on the inside, Jake, Rosa and Holt team up with Bob Annderson to track down the FBI mole. Meanwhile, Gina helps Terry work out the culprit behind a press leak.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3417
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt5586042",
+    "title": "Greg and Larry",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjk0NDI0ZGQtMTFjYi00YTkxLTg1OGEtODdiZjkzODY2NDU1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1800,
+      "height": 1359
+    },
+    "season": "3",
+    "episodeNumber": 23,
+    "runtimeSeconds": 1320,
+    "plot": "After a surprising turn of events in the Nine-Nine's attempt to track down Adrian Pimento's hitman, the precinct drops everything when they suspect Holt is in danger.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3939
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt5604132",
+    "title": "Coral Palms, Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTUwODQ4MTQzN15BMl5BanBnXkFtZTgwMDAwNTMwMDI@._V1_.jpg",
+      "width": 2736,
+      "height": 1824
+    },
+    "season": "4",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Holt adjust to their new lives in Florida under the Witness Protection Program while Jimmy \"The Butcher\" Figgis remains on the loose.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3595
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt6013782",
+    "title": "Coral Palms, Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTU4NDMxMTE0MV5BMl5BanBnXkFtZTgwMjQxOTcwMDI@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Holt plan their attack on Jimmy \"The Butcher\" Figgis, only to end up on the other side of the interrogation table.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3421
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 9,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt6068160",
+    "title": "Coral Palms, Part 3",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ2NjAyNTA2OF5BMl5BanBnXkFtZTgwNjg5MTMyMDI@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "The team goes to Florida to help Jake and Holt take down Jimmy Figgis, but their plan falls through due to an unexpected injury and another interruption from Sheriff Reynolds.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3434
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "id": "tt6043838",
+    "title": "The Night Shift",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTgxNTEzODgyMF5BMl5BanBnXkFtZTgwMzEzOTkyMDI@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1320,
+    "plot": "Jake, on his first case back at the precinct, commandeers the vehicle of Jess Day, (from New Girl) who's visiting New York. In the meantime, Holt tries to increase office morale and Amy wants to know why Rosa is taking such long breaks.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3268
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt6108218",
+    "title": "Halloween IV",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTk0NDI1MTY5OF5BMl5BanBnXkFtZTgwODYzNTUzMDI@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "The squad competes in the annual Halloween heist to win the title of Ultimate Detective Slash Genius.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3879
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt6202730",
+    "title": "Monster in the Closet",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY0OTM3NzI5NF5BMl5BanBnXkFtZTgwMTQ4NDI2MDI@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "The Nine-Nine throws a wedding for Pimento and Rosa.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3145
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt6213872",
+    "title": "Mr. Santiago",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjU3ZmIzODktNmNjZS00ZmYzLThhMWMtZDliNjIyNjBiNmVhXkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Amy's father, a former cop, comes to Thanksgiving dinner and Jake tries to impress him, leaving Charles on turkey duty. In the meantime, Holt helps Pimento come to terms with the fact that he can no longer be a police officer.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3330
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt6026160",
+    "title": "Skyfire Cycle",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTQ5ZjVmY2QtNzE5NS00NWY4LTlhZTAtMzE1ZTljMjZlYWU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 1500
+    },
+    "season": "4",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1320,
+    "plot": "Terry meets his lifelong hero, a famous author who's received death threats. In other events, Gina tries to choose the location of the Boyle family vacation and Amy sides with Kevin in his argument with Holt over a math puzzle.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3150
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt6249330",
+    "title": "The Overmining",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmU0NWU2M2EtMWQzMC00MjIzLTg5YTUtMDNiMGQ3ZTVhMTgyXkEyXkFqcGc@._V1_.jpg",
+      "width": 2760,
+      "height": 1840
+    },
+    "season": "4",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Holt help Captain CJ with a big case.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3107
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 12,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt6249350",
+    "title": "Captain Latvia",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTQyYzdlZjYtYmQ2YS00ZjZhLWI3M2YtYWNkN2M1MGViYjQxXkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Charles face off against a Latvian criminal ring when Jake helps Charles find his son's favorite toy for Christmas.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3115
+    },
+    "releaseDate": {
+      "year": 2016,
+      "month": 12,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt6214956",
+    "title": "The Fugitive, Part 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWMwMjdkMzQtMzg0YS00MTFjLTllNWItZTY5YmNkZDdkZmEwXkEyXkFqcGc@._V1_.jpg",
+      "width": 2850,
+      "height": 1900
+    },
+    "season": "4",
+    "episodeNumber": 11,
+    "runtimeSeconds": 3600,
+    "plot": "When a prison van escape sets nine convicts loose in the city, Jake and Amy compete to see who can bring in the most fugitives.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3283
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt6875466",
+    "title": "The Fugitive, Part 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTExMmRkNzctMTRlMC00N2IyLThjOTctZTMyNWQzM2QwNTVkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 675
+    },
+    "season": "4",
+    "episodeNumber": 12,
+    "runtimeSeconds": 3600,
+    "plot": "The squad goes on a manhunt for a group of convicts who've escaped from a prison van on the streets of Brooklyn. When one fugitive is still loose, Jake gains a surprising ally.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3029
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt6212338",
+    "title": "The Audit",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTBiZTI2YzMtMWZmZi00ZjkxLWJlZGEtODc3NGM4NzYwYTdmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1630,
+      "height": 1167
+    },
+    "season": "4",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1320,
+    "plot": "The squad tries to save their precinct from getting shut down when it's being audited by Amy's ex-boyfriend Teddy.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3011
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt6332596",
+    "title": "Serve & Protect",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWYzNjYyZjQtODU2NC00YTc2LTkzMGItZmVlN2FlYWM0NDc2XkEyXkFqcGc@._V1_.jpg",
+      "width": 3360,
+      "height": 2240
+    },
+    "season": "4",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Rosa investigate a case of burglary that occurred on the set of one of their favorite detective shows as Terry's ex takes over auditing the Nine-Nine.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3019
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt6463252",
+    "title": "The Last Ride",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmVmNzVlMDItYjM2ZC00NzhlLWE5MmYtZGRmYTBiMzg1MWY5XkEyXkFqcGc@._V1_.jpg",
+      "width": 3210,
+      "height": 2156
+    },
+    "season": "4",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Charles search for a bike thief on what may be their last case together.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3133
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt6693346",
+    "title": "Moo Moo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYjg2YmM4NjAtZDM3Ny00NmE3LWFkNTMtMmYxNDE5ZDQ4ZDBlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 3000
+    },
+    "season": "4",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1260,
+    "plot": "Terry and Holt have different ideas for dealing with a fellow police officer who creates trouble for Terry in his own neighborhood.",
+    "rating": {
+      "aggregateRating": 8.8,
+      "voteCount": 5668
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt6435196",
+    "title": "Cop-Con",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDRjMTkzZjUtNWM3NC00OWRhLTlkZTAtNTcwNGJhMjBmMDIwXkEyXkFqcGc@._V1_.jpg",
+      "width": 3360,
+      "height": 2240
+    },
+    "season": "4",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1260,
+    "plot": "Eager to blow off steam, the squad tries to keep Holt in the dark as they throw a secret party during a police convention in upstate New York.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3075
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt6693362",
+    "title": "Chasing Amy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzIyZTcxMzAtMWQyZS00MDdkLTk4NTEtZjY4OWEzZDI5YTliXkEyXkFqcGc@._V1_.jpg",
+      "width": 730,
+      "height": 487
+    },
+    "season": "4",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Rosa go on a search mission after a stressed-out Amy disappears on the day of her sergeant's exam. Gina inherits a Boyle family heirloom.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2991
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt6693372",
+    "title": "Your Honor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTA0ZWU4N2EtNTk3ZS00ZmM1LWI1YjQtMWE2MjFjZTg4NWEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 3360,
+      "height": 2240
+    },
+    "season": "4",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1260,
+    "plot": "Captain Holt's mother comes to the precinct for help when her house is robbed.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2929
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt6693378",
+    "title": "The Slaughterhouse",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGJiMmM3NWYtY2UyMC00MTMzLWJlYWEtMGM5YWVmZmMzMzAyXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "4",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Rosa attempt to earn their idol's respect.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2930
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt6693388",
+    "title": "The Bank Job",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODZhY2YwMTEtOGYzMy00NDAyLWExZWUtOGQ3MjhiOGZjY2U5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    "season": "4",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Rosa call for backup from Holt and Pimento after their search for bank robbers turns dangerous. Boyle disapproves of Gina's new boyfriend.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3104
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt6693394",
+    "title": "Crime & Punishment",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWFjNmUwNDAtYzhlMi00ZmJiLWI1MjctNjk5ODdmNDZkYjYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "4",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1260,
+    "plot": "When Jake and Rosa find themselves framed for a crime they did not commit, the squad must cook up an exceptionally creative solution.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3288
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt6882958",
+    "title": "The Big House Pt. 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODhjNGZhOGUtNTFmNy00YmQwLWFhNWQtNTI0MTZlNGIxMDlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1100,
+      "height": 1650
+    },
+    "season": "5",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Stuck behind bars, Jake lands in trouble over some delicious contraband while Rosa keeps Holt and Terry busy with a never-ending to-do list.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3541
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt7207820",
+    "title": "The Big House Pt. 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzgxOTc4OTAtNTkzMC00ZmM4LTg5NDAtMjUxYWE5OWMxMTMwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1100,
+      "height": 733
+    },
+    "season": "5",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1320,
+    "plot": "Jake is torn between the warden and Romero, while a local mobster claims he can prove that Hawkins is guilty.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3341
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 3
+    }
+  },
+  {
+    "id": "tt7233024",
+    "title": "Kicks",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOThhNjQ2ZmYtNjFhYy00Zjk1LTkzODQtNDA0MjZjYzFlODg2XkEyXkFqcGc@._V1_.jpg",
+      "width": 2760,
+      "height": 1840
+    },
+    "season": "5",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Jake must pass an official evaluation performed by Holt in order to solve a real case.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3062
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt7233026",
+    "title": "HalloVeen",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2Q2ZmJlMjUtYjJmOC00OWVmLWEzNzItNjZkMDM0ZTBjM2ViXkEyXkFqcGc@._V1_.jpg",
+      "width": 780,
+      "height": 520
+    },
+    "season": "5",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "The Nine-Nine has their fifth annual Halloween heist, and everyone has until midnight to claim the title of \"Amazing Human/Genius\".",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 6377
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt7354124",
+    "title": "Bad Beat",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzUzZGVlYjMtZGM1Ny00ZjcwLWJjMTYtYWZlMjk4NmM3ZWE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "Jake, Terry and Holt go undercover at an illegal gambling club to track down an arms dealer.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3015
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt7354130",
+    "title": "The Venue",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDU5NWRhNDUtMjRkMy00MGMxLWFiZTgtZTc1YjFhZGMwYWNlXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "The Vulture returns and threatens to take away something important from Jake and Amy.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3017
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt7604970",
+    "title": "Two Turkeys",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmFlODAxNzItNDc2MS00YWIxLWEyMjItNzRjOTUwZGUxMTNmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3360,
+      "height": 2240
+    },
+    "season": "5",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy bring their parents together for Thanksgiving.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3109
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt7407100",
+    "title": "Return to Skyfire",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTNhOGE5OGEtOTRmMS00YzAyLWI1MjItMTBkMTAwNGVkZmRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "When DC Parlov returns to the precinct to report his latest manuscript being stolen, Terry, Jake and Rosa go undercover at a fantasy convention to catch the culprit.",
+    "rating": {
+      "aggregateRating": 7.4,
+      "voteCount": 3006
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt7469976",
+    "title": "99",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOThjOWZhM2MtNzgwZS00ZDcxLTg5M2EtNWFhN2Y5ODk5NDUxXkEyXkFqcGc@._V1_.jpg",
+      "width": 704,
+      "height": 396
+    },
+    "season": "5",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "After missing their flight home from a funeral in LA, Jake and the squad scramble to get Holt back to New York in time for a big interview.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 3780
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt7577024",
+    "title": "Game Night",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDM3NmFlODYtYTZjNS00ZmRmLTliOGItZTcwODM4NmQxZDFkXkEyXkFqcGc@._V1_.jpg",
+      "width": 780,
+      "height": 520
+    },
+    "season": "5",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Jake helps Rosa break big news to her parents.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3840
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt7664804",
+    "title": "The Favor",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzAyZDlkMTQtOGJhMC00MzBiLWIxZTUtZGE4ZDQ1MDBlOWYwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 563
+    },
+    "season": "5",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Holt owes Seamus Murphy a favor, so the precinct searches for a loophole that will allow the captain to keep his end of the bargain without breaking the law.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2968
+    },
+    "releaseDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt7742658",
+    "title": "Safe House",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMzMzZjc1ZTctZWQ0Ni00YjU5LWFkYzctOTY2MDBmMjJlYWMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 640,
+      "height": 422
+    },
+    "season": "5",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "After a threat from Murphy, Holt stashes his husband, Kevin, in a safe house with Jake. Rosa goes undercover at a salon. Scully reveals an actual skill.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3478
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt7667104",
+    "title": "The Negotiation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjAzY2Y1YWQtNGM5Zi00MjFhLWE0MTktOWJiNjQ2ZTY5Y2JhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1600,
+      "height": 1069
+    },
+    "season": "5",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "Jake runs into a familiar face when he's called in to negotiate a hostage situation with a jewel thief.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3237
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt8089526",
+    "title": "The Box",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZWRlYzkwZmItYWFkOS00YTA3LTk5ZWItZjZmOTdmMTEwZTQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1260,
+    "plot": "As Jake begins an intense interrogation of a wily dentist suspected of murder, an opera-bound Holt jumps in to assist.",
+    "rating": {
+      "aggregateRating": 9.5,
+      "voteCount": 9579
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 1
+    }
+  },
+  {
+    "id": "tt7802280",
+    "title": "The Puzzle Master",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDhlODNiZmMtODdlMC00ZGYwLWJjNDAtNDQ0MzlhN2VhNzY2XkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy investigate a series of arsons connected to Amy's favorite crossword puzzle author.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 2966
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 8
+    }
+  },
+  {
+    "id": "tt7820722",
+    "title": "NutriBoom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzcxZDAtZWQ0My00NTZkLWIyZjUtZDc5YmE4NzI4MjRkXkEyXkFqcGc@._V1_.jpg",
+      "width": 2798,
+      "height": 1956
+    },
+    "season": "5",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Charles get suckered into a pyramid scheme.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2953
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt8089530",
+    "title": "DFW",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjZjY2M1NDktNzljOC00OTVmLTgzZWMtNDliYjkyZWMyYWEzXkEyXkFqcGc@._V1_.jpg",
+      "width": 2000,
+      "height": 1333
+    },
+    "season": "5",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1260,
+    "plot": "Jake meets his half-sister and she invites herself to stay.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 3170
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 15
+    }
+  },
+  {
+    "id": "tt7927932",
+    "title": "Gray Star Mutual",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWY0NDczM2QtMTE0Ny00OTQwLWFkMmMtYmJiMjI2ZjI2YWM5XkEyXkFqcGc@._V1_.jpg",
+      "width": 2751,
+      "height": 1832
+    },
+    "season": "5",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1260,
+    "plot": "Pimento shows up as the insurance agent when a fire destroys Charles' food truck.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2914
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 22
+    }
+  },
+  {
+    "id": "tt7953904",
+    "title": "Bachelor/ette Party",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWRlNzNmNWUtM2U0My00YzMyLWI3OWEtNTcxMjU0NDRiYzJmXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 19,
+    "runtimeSeconds": 1260,
+    "plot": "Charles plans a scavenger hunt for Jake's bachelor party; Amy's bachelorette party escalates when it's discovered she once slept with a member of her soon-to-be wedding band.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3070
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 4,
+      "day": 29
+    }
+  },
+  {
+    "id": "tt8037630",
+    "title": "Show Me Going",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTAxOWMyYTUtOWM1Mi00NjkwLTk1MTgtNDVlZDE3MTNjZmU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 20,
+    "runtimeSeconds": 1260,
+    "plot": "The Nine-Nine fears for Rosa's safety when she responds to an active shooter alert.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3282
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt8090934",
+    "title": "White Whale",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGFkMzYwNzktZmQ1NC00ZDM4LTg1OTItMTBlMTE5MDRjOTdkXkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 2000
+    },
+    "season": "5",
+    "episodeNumber": 21,
+    "runtimeSeconds": 1260,
+    "plot": "Rosa and Amy track down a killer who's managed to elude them for seven years; Terry helps Jake with his wedding chores; Holt and his rival try to convince each other to resign from the campaign for Commissioner.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2852
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt8090936",
+    "title": "Jake & Amy",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODRjYmEzMjQtZDNhNy00MTVjLTlkNGYtMWQ2Y2E5YjBlMTYzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "5",
+    "episodeNumber": 22,
+    "runtimeSeconds": 1260,
+    "plot": "When Jake and Amy suffer a wedding day crisis, the Nine-Nine attempts to salvage the nuptials. Holt receives news on his bid for the commissioner job.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 4524
+    },
+    "releaseDate": {
+      "year": 2018,
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt8405928",
+    "title": "Honeymoon",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGExNmM2OWItN2Y1MC00YWRlLTljNzktZDk4YTE1YmUzODQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3000,
+      "height": 1900
+    },
+    "season": "6",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "An unexpected third wheel puts a damper on Jake and Amy's tropical honeymoon. Back at the Nine-Nine, Terry experiences a crisis of confidence.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3854
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 10
+    }
+  },
+  {
+    "id": "tt8408770",
+    "title": "Hitchcock & Scully",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmUyZGQ2N2EtMjY2Yi00ZjIyLWFlYzEtZjI5MjA3ZmIzYzFkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Charles investigate a case of Hitchcock and Scully's from the 1980s; meanwhile, Amy's uniformed officers and Terry's detectives fight over limited resources.",
+    "rating": {
+      "aggregateRating": 8.7,
+      "voteCount": 4218
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 17
+    }
+  },
+  {
+    "id": "tt8408772",
+    "title": "The Tattler",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjRmOTJmOWQtYmVhNS00MGZjLTk2MjYtYzNmNGYzM2Q2ZjFiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1320,
+    "plot": "Jake and Gina attend their 20th high school reunion. Back at the Nine-Nine, Charles helps Rosa with her love life.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3177
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 24
+    }
+  },
+  {
+    "id": "tt8408776",
+    "title": "Four Movements",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTUyNzJiZDktZjcwZS00Y2U1LWEwMmYtN2IyZTg5NmFlMjllXkEyXkFqcGc@._V1_.jpg",
+      "width": 594,
+      "height": 396
+    },
+    "season": "6",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Gina plays a high-stakes game of chess with Capt. Holt; Rosa and Amy take Gina out for a fancy brunch; Jake and Gina must use their wits to infiltrate a posh club.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 3421
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 1,
+      "day": 31
+    }
+  },
+  {
+    "id": "tt8408778",
+    "title": "A Tale of Two Bandits",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDUwNWZhY2QtN2IwNS00MzE4LWI3NTUtYmMxYjE3ZTUzOGU3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 770
+    },
+    "season": "6",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "Terry believes the Pontiac Bandit has gone back to stealing cars, but Jake tries to prove him wrong; the rest of the squad fight to keep Shaw's a police bar when some firemen stake a claim to it.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3288
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt8408780",
+    "title": "The Crime Scene",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmVkOGVkYjUtNWQ4Yi00YTk1LWE4NTMtNDQ0ZTQ0YTVhNzlhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1800,
+      "height": 1200
+    },
+    "season": "6",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Rosa must deal with a mother in mourning when they work on a difficult murder case with confusing evidence.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3560
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8408782",
+    "title": "The Honeypot",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjBiOTI3NWItMjNhZC00ZGVjLTk1Y2EtOWY0OTliNGE3NTJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 2400,
+      "height": 1600
+    },
+    "season": "6",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Holt clash over the merits of a new hire in the 99th precinct. Terry, Amy, Rosa and Charles try to do something about the cluttered bullpen.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 3304
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt8408788",
+    "title": "He Said, She Said",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjBmYzcxMGYtMmNkNS00OGFmLWFjM2ItOGUwZWI4NGM1ZThkXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 1890
+    },
+    "season": "6",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy investigate a difficult \"he said, she said\" case of sexual assault. Holt becomes suspicious after learning his lifelong arch nemesis died in a prison transport accident.",
+    "rating": {
+      "aggregateRating": 7.1,
+      "voteCount": 5192
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 28
+    }
+  },
+  {
+    "id": "tt8408786",
+    "title": "The Golden Child",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjViYzBkZDAtOTlkOC00ZTlmLWJmZTItYzdiOTI4YjJjMmFiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 540
+    },
+    "season": "6",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "Jake helps Amy navigate the complicated relationship she has with her brother, David. Charles introduces some drama into an undercover mission involving Terry and Holt.",
+    "rating": {
+      "aggregateRating": 8,
+      "voteCount": 3172
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 7
+    }
+  },
+  {
+    "id": "tt8408784",
+    "title": "Gintars",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWExZGZkNmMtMTFlOS00MTc5LWI4NzYtMjhmYjU5OWZjNTY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "A visitor from Latvia causes Charles and Jake to investigate Nikolaj's family. Holt and Amy bring in famed forensic scientist Dr. Yee to help close a case for Rosa.",
+    "rating": {
+      "aggregateRating": 7.3,
+      "voteCount": 2939
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 14
+    }
+  },
+  {
+    "id": "tt8408790",
+    "title": "The Therapist",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDdmODg0NjgtYTlmZi00MjcwLTliYjctZDA5MDg0ZjU3YWE3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1260,
+    "plot": "Charles gets Jake involved in a case where a therapist reports one of his patients missing; Holt learns that Rosa has a new girlfriend whom everyone else has met; Amy thinks she mistakenly received a package for Terry.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3019
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 21
+    }
+  },
+  {
+    "id": "tt8408792",
+    "title": "Casecation",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGJmNzBjMWEtYTk3Ny00ZjdmLWIwZjUtOGY5MDYxMTg1NzM3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "Work is so busy for Jake and Amy that they end up celebrating their anniversary while standing guard over a comatose patient in the hospital.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3295
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "id": "tt8408796",
+    "title": "The Bimbo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BM2FhN2MwMTgtMDE5YS00NDhlLTkwOTYtYjJlZWQ5ZTg1NjdhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 853
+    },
+    "season": "6",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "Holt and Jake investigate a case at Kevin's university. Back at the precinct, Terry and Amy take the squad out for lunch.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2868
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 18
+    }
+  },
+  {
+    "id": "tt9093030",
+    "title": "Ticking Clocks",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGZmY2JkMmItZGY2NC00NWRmLTg3YTEtOGJkZDkyMDhjMmM2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "6",
+    "episodeNumber": 14,
+    "runtimeSeconds": 1200,
+    "plot": "Jake and the squad must track down a hacker who has infiltrated the Nine-Nine's servers; Rosa deals with relationship issues; Hitchcock and Scully attempt to cook the perfect lasagna.",
+    "rating": {
+      "aggregateRating": 8.2,
+      "voteCount": 3203
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 25
+    }
+  },
+  {
+    "id": "tt9093026",
+    "title": "Return of the King",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODczMDEwY2EtMTk2Yy00OWM3LTg4MTYtOGEwMjg2NjE3N2YyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1333,
+      "height": 2000
+    },
+    "season": "6",
+    "episodeNumber": 15,
+    "runtimeSeconds": 1260,
+    "plot": "When Gina returns to the Nine-Nine, Jake and Terry get drawn into her life. Holt learns that Charles' son, Nikolaj, may be a genius; Rosa copes with an injury.",
+    "rating": {
+      "aggregateRating": 6.4,
+      "voteCount": 3507
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt9093032",
+    "title": "Cinco de Mayo",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2MxNjRlYTMtN2Q5Ny00NjZkLTliNjktOWMyM2E0YzNjNjdjXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 16,
+    "runtimeSeconds": 1260,
+    "plot": "In order to distract Terry from the stress of his upcoming lieutenant's exam, Jake, Holt and the squad decide to hold the annual Halloween Heist on a new date, Cinco de Mayo.",
+    "rating": {
+      "aggregateRating": 9,
+      "voteCount": 4136
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt9093036",
+    "title": "Sicko",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjdlYTA3MDYtMGQ2Ny00YzQ4LWIxMmQtYTJjYTM5ZmVmMjllXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 17,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Charles investigate a dangerous serial killer. Holt continues to spar with his rival, Commissioner Kelly. Terry tries to find a way to stay at the Nine-Nine.",
+    "rating": {
+      "aggregateRating": 8.3,
+      "voteCount": 2911
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt9093042",
+    "title": "Suicide Squad",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmNjMGJiZDItYzFhMi00NDMyLWIyYjgtYTY3ZGUxMDExZWM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "6",
+    "episodeNumber": 18,
+    "runtimeSeconds": 1260,
+    "plot": "Desperate circumstances call for desperate measures, as Jake, Holt, Amy, Terry, Rosa and Charles must ally themselves with old enemies.",
+    "rating": {
+      "aggregateRating": 8.9,
+      "voteCount": 3719
+    },
+    "releaseDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt9856410",
+    "title": "Manhunter",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWY1ZGQwM2QtMTQzNi00MDgyLTk2M2QtZDQ5ZDE5ODBkYzliXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "7",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Jake leads a manhunt after an assassination attempt on a city councilor; Holt adjusts to his new position as a uniformed officer.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 3201
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt10322282",
+    "title": "Captain Kim",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTIyNWQ0YWEtMTczZS00Njg0LTk1NTMtYzQzZTA2YjM0NTRlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 1890
+    },
+    "season": "7",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "The new captain of the Nine-Nine invites the squad over to her house for a dinner party.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3076
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 6
+    }
+  },
+  {
+    "id": "tt10322284",
+    "title": "Pimemento",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYTIzNGUzOTUtM2I0Ni00YWJhLWE4ODAtNmNlNjcyNjZjZGM4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1077
+    },
+    "season": "7",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "Adrian Pimento shows up unexpectedly to seek Jake and Charles' help after claiming someone is trying to kill him; the rest of the squad endures a workplace conflict seminar.",
+    "rating": {
+      "aggregateRating": 8.4,
+      "voteCount": 3366
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 13
+    }
+  },
+  {
+    "id": "tt10322290",
+    "title": "The Jimmy Jab Games II",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNWY2NmUxNjMtMDc2YS00NjIwLThjZjYtYWUxZTE3ZTkzNGMxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Competitive juices are flowing as Jake and the squad compete in the second Jimmy Jab Games.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2954
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 20
+    }
+  },
+  {
+    "id": "tt10322286",
+    "title": "Debbie",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZDg5OTZhNjMtMDNjMi00OWQwLTk4ZWMtNjAxY2NkZTgxNWE2XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1260,
+    "plot": "When cocaine and weapons are stolen from the evidence lock-up, the squad must investigate the Nine-Nine itself.",
+    "rating": {
+      "aggregateRating": 7.2,
+      "voteCount": 3124
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 27
+    }
+  },
+  {
+    "id": "tt10322288",
+    "title": "Trying",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTVmYzdjNzQtZDgxOS00YjRmLWIxNGYtNTZjYThiZWU2NjJlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy work an uncrackable case while Holt adjusts to a new beat. Hitchcock looks for the love of his life.",
+    "rating": {
+      "aggregateRating": 7.7,
+      "voteCount": 2903
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 5
+    }
+  },
+  {
+    "id": "tt10322292",
+    "title": "Ding Dong",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYmYxOTYxZjgtNDZmMC00ODk0LTlhZjctNzJmNDM3Nzk1Y2Q1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 854
+    },
+    "season": "7",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1260,
+    "plot": "Capt. Holt deals with a personal loss; Jake must decide whether to take Terry or Charles to an exclusive event.",
+    "rating": {
+      "aggregateRating": 8.5,
+      "voteCount": 3310
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt10322294",
+    "title": "The Takeback",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYzVlMGQwMmYtYjhiNy00N2UzLWIzNTAtMDlmYWJmZjYxNTczXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "Doug Judy is back, and this time, things between him and Jake are personal; Amy and Charles try to find the perfect new vending machine for the Nine-Nine.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 2955
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt10322296",
+    "title": "Dillman",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjI4YmY3YjMtZmQ4OS00YzUzLThiNTgtOGY1ODllYjg1YjQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 699
+    },
+    "season": "7",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1260,
+    "plot": "When a prank goes disastrously awry, things at the Nine-Nine take a distinctly Agatha Christie turn.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3086
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt10322298",
+    "title": "Admiral Peralta",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDhjYTVhZTQtNmRjOS00OWVmLWI5OTktZGMxYTJmMWEwYTQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and his father deal with unsettled family business; Amy and Rosa work a high-profile case; Terry wants to join the NYPD band.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 2749
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt10322302",
+    "title": "Valloweaster",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYThhNGM4ZTYtYjI1Yy00NGFhLTgzODItOTVhZDdjYzhiNzc3XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 11,
+    "runtimeSeconds": 1140,
+    "plot": "The squad competes in an effort to determine who is the greatest human/genius.",
+    "rating": {
+      "aggregateRating": 8.1,
+      "voteCount": 3022
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 4,
+      "day": 9
+    }
+  },
+  {
+    "id": "tt10322304",
+    "title": "Ransom",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2YzZTY0YjUtYWI5OS00NTEyLWIwOTItZWQ5ODlmM2Q0MjliXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 12,
+    "runtimeSeconds": 1260,
+    "plot": "Holt asks for Jake's help in a case that is exceptionally meaningful to him. Charles and Terry work together on a side business.",
+    "rating": {
+      "aggregateRating": 8.6,
+      "voteCount": 3163
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 4,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt10322300",
+    "title": "Lights Out",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BYWIxZGI3YzMtYTM5Yi00ZTNiLWFjYzItMzgxNjZlMDJmZDU0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "7",
+    "episodeNumber": 13,
+    "runtimeSeconds": 1260,
+    "plot": "The entire squad is on high alert when a massive blackout hits Brooklyn.",
+    "rating": {
+      "aggregateRating": 9.1,
+      "voteCount": 4297
+    },
+    "releaseDate": {
+      "year": 2020,
+      "month": 4,
+      "day": 23
+    }
+  },
+  {
+    "id": "tt11291232",
+    "title": "The Good Ones",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmE4YjA3NDEtYWVmMi00YWY3LTlhNGYtOTc1Mjc3OGQyMTgzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 788
+    },
+    "season": "8",
+    "episodeNumber": 1,
+    "runtimeSeconds": 1260,
+    "plot": "Amy returns from maternity leave; Jake and Rosa work a difficult case.",
+    "rating": {
+      "aggregateRating": 4.9,
+      "voteCount": 9097
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt12833028",
+    "title": "The Lake House",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGUzZWQ0ZmEtYmY0MC00NTU1LTliYjEtYjY3OWRmNzQ5YmIyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 709
+    },
+    "season": "8",
+    "episodeNumber": 2,
+    "runtimeSeconds": 1260,
+    "plot": "The squad takes Capt. Holt up on an offer for a weekend getaway.",
+    "rating": {
+      "aggregateRating": 7.6,
+      "voteCount": 3618
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 12
+    }
+  },
+  {
+    "id": "tt13829416",
+    "title": "Blue Flu",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNjFkNzFlOTYtYjc4ZS00Mjk3LWJhMWEtMjg2MTFmNTc1NjAwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1260,
+      "height": 840
+    },
+    "season": "8",
+    "episodeNumber": 3,
+    "runtimeSeconds": 1260,
+    "plot": "Captain Holt and Amy manage an understaffed precinct; Jake and Charles investigate.",
+    "rating": {
+      "aggregateRating": 7,
+      "voteCount": 3341
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13829424",
+    "title": "Balancing",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNmMwYmM0NDAtODAwMy00YjA3LWJmZDItMmUwMTg4MTIxY2ZmXkEyXkFqcGc@._V1_.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    "season": "8",
+    "episodeNumber": 4,
+    "runtimeSeconds": 1260,
+    "plot": "Jake and Amy create a system to balance work and childcare; Rosa gets a new houseguest.",
+    "rating": {
+      "aggregateRating": 7.5,
+      "voteCount": 3020
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "id": "tt13829430",
+    "title": "PB&J",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMmMxNjQxOTMtNzRlMS00N2RhLWEyZDQtM2U1ZTZmOTZjNGYxXkEyXkFqcGc@._V1_.jpg",
+      "width": 1014,
+      "height": 570
+    },
+    "season": "8",
+    "episodeNumber": 5,
+    "runtimeSeconds": 1200,
+    "plot": "Jake takes an old friend for a ride.",
+    "rating": {
+      "aggregateRating": 7.8,
+      "voteCount": 3184
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13842130",
+    "title": "The Set Up",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjQ3MmM5MWItYmZmNS00M2UwLTg3NDYtYTMzM2UyZTUwNmYyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 667
+    },
+    "season": "8",
+    "episodeNumber": 6,
+    "runtimeSeconds": 1260,
+    "plot": "When the FBI takes over a high-profile case, Jake keeps digging; Amy and Rosa negotiate with O'Sullivan and the police union.",
+    "rating": {
+      "aggregateRating": 6.7,
+      "voteCount": 3312
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 26
+    }
+  },
+  {
+    "id": "tt13842136",
+    "title": "Game of Boyles",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTNmNTUzNWYtMmVkOS00NjcyLWI1YmMtYjNkOGIyMjk2NmQzXkEyXkFqcGc@._V1_.jpg",
+      "width": 1000,
+      "height": 1000
+    },
+    "season": "8",
+    "episodeNumber": 7,
+    "runtimeSeconds": 1320,
+    "plot": "Terry, Jake and Charles visit the Boyle Family Farm; Amy and Rosa help out Capt. Holt.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2962
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt13842142",
+    "title": "Renewal",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODQ2NTA5NWYtODRmZS00MGU1LWJiMzAtYzI1ZWQ0YzBiNDEyXkEyXkFqcGc@._V1_.jpg",
+      "width": 1921,
+      "height": 1070
+    },
+    "season": "8",
+    "episodeNumber": 8,
+    "runtimeSeconds": 1260,
+    "plot": "The squad comes together to work an important high-stakes case.",
+    "rating": {
+      "aggregateRating": 7.9,
+      "voteCount": 2752
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 2
+    }
+  },
+  {
+    "id": "tt13842150",
+    "title": "The Last Day Pt 1",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjgxN2NmMmMtMWJiMC00Y2Q3LThmOTMtZDJjMGVkZGQ1ZGNiXkEyXkFqcGc@._V1_.jpg",
+      "width": 1058,
+      "height": 707
+    },
+    "season": "8",
+    "episodeNumber": 9,
+    "runtimeSeconds": 1320,
+    "plot": "The squad takes stock of their eight years together and look towards their future.",
+    "rating": {
+      "aggregateRating": 9.2,
+      "voteCount": 4325
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 16
+    }
+  },
+  {
+    "id": "tt13842152",
+    "title": "The Last Day Pt 2",
+    "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMjdmMWNkZTQtNGM2MS00YmI3LTgzMzktZjlhZTAyYWYxNjk0XkEyXkFqcGc@._V1_.jpg",
+      "width": 640,
+      "height": 360
+    },
+    "season": "8",
+    "episodeNumber": 10,
+    "runtimeSeconds": 1500,
+    "plot": "The squad takes stock of their eight years together and look towards their future.",
+    "rating": {
+      "aggregateRating": 9.4,
+      "voteCount": 5757
+    },
+    "releaseDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 16
+    }
+  }
+]
