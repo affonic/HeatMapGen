@@ -7,25 +7,26 @@ import numpy as np
 import math
 
 Shows = {
-    "RickAndMorty" : "tt2861424",
+    "Rick and Morty" : "tt2861424",
     "Archer" : "tt1486217",
     "BreakingBad" : "tt0903747",
     "ParksAndRecreation" : "tt1266020",
     "AOT" : "tt2560140",
-    "RvB" : "tt0401747",
+    "Red vs Blue" : "tt0401747",
     "TeenWolf" : "tt1567432",
-    "Simpsons" : "tt0096697",
+    "The Simpsons" : "tt0096697",
     "ModernFamily" : "tt1442437",
-    "SouthPark" : "tt0121955",
+    "South Park" : "tt0121955",
     "GameOfThrones" : "tt0944947",
-    "House" : "tt0412142",
+    "House MD" : "tt0412142",
     "HIMYM" : "tt0460649",
     "Friends" : "tt0108778",
     "Brooklyn99" : "tt2467372",
     "TheOffice" : "tt0386676",
     "TheSopranos" : "tt0141842",
     "TheWire" : "tt0306414",
-    "Bojack" : "tt3398228"
+    "Bojack Horseman" : "tt3398228",
+    "Silicone Valley" : "tt2575988"
 }
 
 def fetch_imdb_data(show_name):
@@ -88,12 +89,20 @@ def generate_ratings_array(show_name):
     padded = [season + [np.nan]*(maxEps - len(season)) for season in Ratings2D]
     return np.array(padded)
 
-def subplot_gen(ax, Ratings2D, cmap):
+def subplot_gen(ax, Ratings2D, cmap, count):
 
     norm = colors.Normalize(vmin=0.4, vmax=1)
 
     ax.imshow(Ratings2D, cmap=cmap, norm=norm, interpolation="nearest")
     ax.axis("off")
+    ax.text(
+        0.5, -0.1,                     # x, y in axis coordinates (0–1 range)
+        f"“{fav_shows[count]}”",         # the caption text
+        ha="center", va="top",         # center align horizontally
+        fontsize=10, fontstyle="italic",
+        transform=ax.transAxes         # make coords relative to axes
+    )
+
 
 def generate_heat_map(shows): #shows is a list of show titles (as strings)
 
@@ -114,7 +123,7 @@ def generate_heat_map(shows): #shows is a list of show titles (as strings)
         if i >= len(shows):
             subplot_gen(ax, [[]], traffic_lights)
             continue
-        subplot_gen(ax, generate_ratings_array(shows[i]), traffic_lights)
+        subplot_gen(ax, generate_ratings_array(shows[i]), traffic_lights, i)
         i+=1
     
     plt.show()
@@ -123,4 +132,9 @@ shows_for_heatmap = ["AOT", "BreakingBad", "Archer", "HIMYM", "Friends", "Bojack
                      "RickAndMorty", "ParksAndRecreation", "House", 
                      "RvB", "Simpsons", "ModernFamily", "GameOfThrones",
                      "TheOffice", "Brooklyn99", "SouthPark", "TheSopranos", "TheWire"]
-generate_heat_map(shows_for_heatmap)
+
+fav_shows = ["Silicone Valley", "Bojack Horseman", "Rick and Morty", "House MD", "Red vs Blue", "The Simpsons", "Archer",
+                     "South Park"]
+
+
+generate_heat_map(fav_shows)
